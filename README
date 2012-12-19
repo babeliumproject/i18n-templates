@@ -46,4 +46,12 @@ Convert from gettext files to properties files
         -t <REPO_ROOT>/flex/standalone/locale/en_US/myResources.properties \
         <REPO_ROOT>/flex/standalone/templates/myResources/es.po \
         <REPO_ROOT>/flex/standalone/locale/es_ES/myResources.properties
+  
+Should UTF-8 encoding give you any problems (it is escaped by default as \u1E7D) use Mozilla's template
+that displays those chars as real Unicode chars. 
+        
+    po2prop --personality=mozilla \
+        -t <REPO_ROOT>/flex/standalone/locale/en_US/myResources.properties \
+        <REPO_ROOT>/flex/standalone/templates/myResources/es.po \
+        <REPO_ROOT>/flex/standalone/locale/es_ES/myResources.properties    
 
