@@ -1,11 +1,11 @@
-# French translation for babeliumproject
+# French translation for babelium-flex-standalone
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
 # This file is distributed under the same license as the babeliumproject package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: babeliumproject\n"
+"Project-Id-Version: babelium-flex-standalone\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-10-11 09:52+0200\n"
 "PO-Revision-Date: 2012-12-11 15:20+0000\n"

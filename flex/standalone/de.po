@@ -1,7 +1,7 @@
-#. extracted from ../en_US/myResources.properties, myResources.properties
+#. extracted from flex-standalone-site/locale/en_US/myResources.properties, flex-standalone-site/locale/de_DE/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: babelium-flex-standalone\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-27 14:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"

@@ -1,4 +1,4 @@
-#. extracted from babeliumproject/flex/standalone/locale/en_US/myResources.properties
+#. extracted from flex-standalone-site/locale/en_US/myResources.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: babelium-flex-standalone\n"
