@@ -1,11 +1,11 @@
-#. extracted from flex-standalone-site/locale/en_US/myResources.properties, flex-standalone-site/locale/de_DE/myResources.properties
+#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/de_DE/myResources.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: babelium-flex-standalone\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-27 14:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-17 10:15+0200\n"
+"PO-Revision-Date: 2013-07-17 10:15+0200\n"
+"Last-Translator: Christian Alexander Brase <christianalexander.brase@ehu.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,8 +21,8 @@ msgid ""
 "Want to know a little about us and the technologies that make Babelium "
 "possible? You're at the right place!"
 msgstr ""
-"Möchten Sie mehr über uns und die verschiedenen Anwendungen erfahren, die "
-"man bei Babelium finden kann? Dann sind sie hier an der richtigen Stelle!"
+"Möchten Sie mehr über uns und die verschiedenen Tools erfahren, die man bei "
+"Babelium anwendenkann? Dann sind sie hier an der richtigen Stelle!"
 
 #: ABOUT_US
 msgid "About us"
@@ -86,7 +86,7 @@ msgstr "Anzahl der Bewertungen"
 
 #: BANDWIDTH
 msgid "Bandwidth"
-msgstr "Bandbreite"
+msgstr "Bandbreite/Internetverbindung"
 
 #: BIAKBATERAIKUSI
 msgid "Watch simultaneously"
@@ -283,7 +283,7 @@ msgstr "Rolle"
 
 #: COLUMNHEAD_SHOW
 msgid "Begin"
-msgstr "Anfang"
+msgstr "Home"
 
 #: COLUMNHEAD_TEXT
 msgid "Text"
@@ -316,8 +316,8 @@ msgstr ""
 #: CONFIGURATION_BW_MESSAGE1
 msgid "Use this test to check whether your bandwidth is enough"
 msgstr ""
-"Hier können Sie überprüfen, ob die Bandbreite Ihrer Internetverbindung "
-"ausreicht"
+"Hier können Sie überprüfen, ob die Internetandbreite Ihrer "
+"Internetverbindung ausreichend ist"
 
 #: CONFIGURATION_BW_MESSAGE2
 msgid "to properly use the services of Babelium."
@@ -941,11 +941,11 @@ msgstr "Die Serviceseite darf keine leeren Parameter enthalten."
 
 #: EMPTY_PASSWORD
 msgid "The password cannot be empty."
-msgstr "Das Passwortfeld muss ausgefüllt werden."
+msgstr "Das Passwortfeld muss ausgefüllt sein."
 
 #: EMPTY_USERNAME
 msgid "The username cannot be empty."
-msgstr "Das Feld für denn Benutzernamen muss ausgefüllt werden."
+msgstr "Das Feld für denn Nutzernamen muss ausgefüllt werden."
 
 #: EPAITUGABEDAUDENAK
 msgid "Waiting for assessment"
@@ -972,8 +972,8 @@ msgstr ""
 msgid ""
 "There was an error while registering in the system. Please try again later."
 msgstr ""
-"Es ist ein Fehler während der Anmeldung für das System aufgetreten. Bitte "
-"versuchen sie es später noch einmal."
+"Es ist ein Fehler im System während der Anmeldung für das System "
+"aufgetreten. Bitte versuchen sie es später noch einmal."
 
 #: ERROR_EVALUATION_DATA_NOT_SPECIFIED
 msgid "You must specify a response to evaluate before sending an evaluation."
@@ -1005,9 +1005,9 @@ msgid ""
 "want text comments to be saved."
 msgstr ""
 "Sie haben versucht, einen Text Kommentar zu dieser Bewertung hinzuzufügen, "
-"aber Sie haben noch keinen abgegeben. Bitte geben Sie einen Text ein oder "
-"deaktivieren Sie 'Kommentare im Text', wenn Sie Kommentare nicht im Text "
-"speichern möchten."
+"aber Sie haben noch keinen Kommentar abgegeben. Bitte geben Sie einen Text "
+"ein oder deaktivieren Sie 'Kommentare im Text', wenn Sie Kommentare nicht im "
+"Text speichern möchten."
 
 #: ERROR_SELECTED_VIDEO_COMMENT_NO_FILL
 msgid ""
@@ -1015,10 +1015,10 @@ msgid ""
 "none. Please record a video comment or uncheck 'Include video comment' if "
 "you don't want video comments to be saved."
 msgstr ""
-"Sie haben ausgewählt, einen Video Kommentar zu dieser Bewertung "
-"hinzuzufügen, aber sie haben keinen Kommentar aufgezeichnet. Bitte nehmen "
-"Sie ein Video auf oder deaktivieren Sie \"Kommentare als Video einfügen\", "
-"wenn Sie Kommentare nicht auf Video speichern möchten."
+"Sie haben versucht, einen Video Kommentar zu dieser Bewertung hinzuzufügen, "
+"aber sie haben keinen Kommentar aufgezeichnet. Bitte nehmen Sie ein Video "
+"auf oder deaktivieren Sie \"Kommentare als Video einfügen\", wenn Sie "
+"Kommentare nicht auf Video speichern möchten."
 
 #: ERROR_SIGN_IN_TO_REQUEST
 msgid "You must Sign In to request an evaluation."
@@ -1049,7 +1049,7 @@ msgstr "Fehler bei der Überprüfung, ob Sie diese Übung gemeldet haben."
 #: ERROR_WHILE_CHECKING_AUTOEVALUATION_SUPPORT
 msgid "Error while checking for autoevaluation support."
 msgstr ""
-"Fehler bei der Überprüfung, ob die Funktion Selbstevaluation unterstützt "
+"Fehler bei der Überprüfung, ob die Funktion \"Eigenbewertung\" unterstützt "
 "wird."
 
 #: ERROR_WHILE_DELETING_VIDEOS
@@ -1058,7 +1058,8 @@ msgstr "Die ausgewählten Videos konnten nicht gelöscht werden."
 
 #: ERROR_WHILE_ENABLING_AUTOEVALUATION
 msgid "Error while enabling the autoevaluation on this video."
-msgstr "Die Autoevaluation zu diesem Video konnte nicht aktiviert werden."
+msgstr ""
+"Die Funktion \"Eigenbewertung\" zu diesem Video konnte nicht aktiviert werden."
 
 #: ERROR_WHILE_KEEPING_SESSION
 msgid "Error while trying to keep your session active."
@@ -1067,7 +1068,7 @@ msgstr "Fehler beim Versuch, um Ihre Sitzung aufrecht zuerhalten."
 #: ERROR_WHILE_LOGGING_IN
 msgctxt "ERROR_WHILE_LOGGING_IN"
 msgid "Error while authenticating you in the system."
-msgstr "Error al identificarte en el sistema."
+msgstr "Fehler beim Einloggen in das System identifiziert."
 
 #: ERROR_WHILE_LOGGING_OUT
 msgid "Error while logging you out."
@@ -1080,8 +1081,7 @@ msgstr "Es ist ein Fehler beim Einloggen in das System aufgetreten."
 
 #: ERROR_WHILE_MAKING_RESPONSE_PUBLIC
 msgid "Error while making your response publicly available."
-msgstr ""
-"Ihre Antworten konnten für andere Benutzer nicht sichtbar gemacht werden."
+msgstr "Ihre Antworten konnten für andere Nutzer nicht sichtbar gemacht werden."
 
 #: ERROR_WHILE_MODIFYING_LANGUAGES
 msgid "Error while modifying your languages."
@@ -1098,11 +1098,11 @@ msgstr "Fehler bei der Änderung Ihrer Videodaten."
 
 #: ERROR_WHILE_PERFORMING_SEARCH
 msgid "Error while searching the requested data."
-msgstr "Fehler, die erforderlichen Daten zu finden."
+msgstr "Es ist ein Fehler bei der Suche aufgetreten."
 
 #: ERROR_WHILE_PROCESSING_AUTOEVALUATION_REQUEST
 msgid "Error while processing autoevaluation request."
-msgstr "Fehler bei der Verarbeitung der Anfrage zur Autoevaluation."
+msgstr "Fehler bei der Verarbeitung der Anfrage zur Eigenbewertung."
 
 #: ERROR_WHILE_RATING
 msgid "Error while rating the exercise."
@@ -1163,8 +1163,7 @@ msgstr "Fehler beim Abrufen der Antworten auf die Bewertungen."
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_WAITING
 msgid "Error while retrieving responses waiting assessment."
-msgstr ""
-"Fehler beim Warten auf das Abrufen der ausstehenden Antworten zur Bewertung."
+msgstr "Fehler beim Warten auf die ausstehenden Antworten zur Bewertung."
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_YOU_ASSESSED
 msgid "Error while retrieving the responses you assessed."
@@ -1176,7 +1175,7 @@ msgstr "Fehler beim Abrufen der Rolle."
 
 #: ERROR_WHILE_RETRIEVING_SUBTITLES
 msgid "Error while retrieving unfinished subtitle exercise list."
-msgstr "Fehler beim Abrufen der Liste der unfertigen Untertitel."
+msgstr "Fehler beim Abrufen der Liste der nicht fertiggestellten Untertitel."
 
 #: ERROR_WHILE_RETRIEVING_SUBTITLE_LANGUAGES
 msgid "Error while retrieving exercise's available subtitle languages."
@@ -1192,11 +1191,11 @@ msgstr "Die Tag Cloud konnte nicht aufgebaut werden."
 
 #: ERROR_WHILE_RETRIEVING_TOPSCORE_VIDEOS
 msgid "Error while retrieving top scored videos."
-msgstr "Die Videos mit den besten Bewertungen konnten nicht abgerufen werden."
+msgstr "Die bestbewerteten Videos konnten nicht abgerufen werden."
 
 #: ERROR_WHILE_RETRIEVING_TOP_USERS
 msgid "Error while retrieving top user list."
-msgstr "Die Liste der herausragenden Benutzer konnte nicht abgerufen werden."
+msgstr "Die Liste der herausragenden Nutzer konnte nicht abgerufen werden."
 
 #: ERROR_WHILE_RETRIEVING_USER_VIDEOS
 msgid "Error while retrieving your videos."
@@ -1234,7 +1233,7 @@ msgstr "Fehler beim Hochladen der Datei"
 
 #: EVALUATION_DATE
 msgid "Assessment date"
-msgstr "Datum der Evaluierung"
+msgstr "Bewertungsdatum"
 
 #: EXERCISE_ALREADY_REPORTED
 msgid "You already reported about this exercise."
@@ -1246,7 +1245,7 @@ msgstr "Liste der Übungsaufgaben"
 
 #: EXERCISE_MIC_TEST
 msgid "Click here for checking your mic"
-msgstr "Klicken Sie hier, um Ihr Mikrofon zu überprüfen."
+msgstr "Klicken Sie hier, um die Funktion Ihres Mikrofons zu überprüfen."
 
 #: EXERCISE_SUCCESSFULLY_REPORTED
 msgid "Your report has been successfully saved. Thank you."
@@ -1340,16 +1339,17 @@ msgid ""
 "other people and be assessed.</p>"
 msgstr ""
 "<b><font size=\"24\" color=\"#972c0a\">Willkommen auf "
-"Babelium</font></b><br/><p>Babelium bietet eine Plattform für Menschen, die "
-"gerne Sprachen lernen und kommunizieren wollen.</p><p>Diese Plattform bietet "
-"eine gemeinschaftliche Umgebung für mündliche Sprachübungen. In diesem "
-"Umfeld können Sie Ihre mündlichen Fähigkeiten mit Hilfe von anderen Nutzern, "
-"zum Beispiel Muttersprachler, verbessern und gleichzeitig anderen helfen "
-"Fremdsprachen zu üben, indem Sie in Ihrer Muttersprache "
-"kommunizieren.</p><p>Laden Sie Ihre Videos mit neuen Übungen auf die "
-"Plattform, damit andere Anwender in Ihrer Sprache üben können. Oder Sie "
-"vervollständigen die Übungen, die andere User vorgeschlagen haben. Darüber "
-"hinaus können Sie andere User bewerten und sehen wie Sie selbst von anderen "
+"Babelium</font></b><br/><p>Babelium bietet eine Plattform für Leute, die "
+"gerne Sprachen lernen oder  lehren und miteinander kommunizieren "
+"wollen.</p><p>Babelium bietet ein gemeinschaftliches Forum, um Fremdsprachen "
+"zu üben. Auf dieser Plattform werden Sie in die Lage versetzt, Ihre "
+"rhetorischen Fähigkeiten mit Hilfe von anderen Nutzern, die zum Beispiel "
+"Muttersprachler sind, zu verbessern. Sie können gleichzeitig anderen dabei "
+"helfen, Fremdsprachen zu üben, indem Sie in Ihrer Muttersprache "
+"kommunizieren.</p><p>Laden Sie neue Videos auf die Plattform, damit andere "
+"Nutzer in dieser Sprache üben können. Oder Sie vervollständigen einfach die "
+"Übungen, die andere Nutzer vorgeschlagen haben. Darüber hinaus können Sie "
+"andere Videos bewerten und sehen, wie Sie selbst von anderen Nutzern "
 "beurteilt werden.</p>"
 
 #: HOW_ASSESS_OTHER_USERS_WORK
@@ -1419,7 +1419,7 @@ msgstr "Label für automatische Bewertung hinzufügen"
 
 #: LABEL_ALL_TIME_CREDITS
 msgid "All-time"
-msgstr "Gesamtinformation"
+msgstr "Gesamtpunkte"
 
 #: LABEL_APPLICATION_INFO
 msgid "Application Info"
@@ -1451,7 +1451,7 @@ msgstr "Internetverbindung/Bandbreite prüfen"
 
 #: LABEL_CHOOSE_TRANSCRIPTION_SYSTEM
 msgid "Choose System:"
-msgstr ":Wählen Sie System aus."
+msgstr "Wählen Sie eine Untertitelmethode aus."
 
 #: LABEL_CHOOSE_UPLOADING_METHOD
 msgid "Choose an uploading method:"
@@ -1552,7 +1552,7 @@ msgstr "Hilfe"
 
 #: LABEL_HOME
 msgid "Home"
-msgstr "Anfang"
+msgstr "Home"
 
 #: LABEL_INACTIVE_USER
 msgid "User account not activated"
@@ -1833,15 +1833,15 @@ msgstr "Ihre aktuelle Flashversion:"
 
 #: LABEL_USER_ACCOUNT
 msgid "Account"
-msgstr "Mein Benutzerkonto"
+msgstr "Mein Nutzerkonto"
 
 #: LABEL_USER_NAME
 msgid "User Name:"
-msgstr "Benutzername"
+msgstr "Nutzername"
 
 #: LABEL_USER_OR_EMAIL
 msgid "Username or email"
-msgstr "Benutzername oder Email"
+msgstr "Nutzername oder Email"
 
 #: LABEL_VIDEO_COMMENT
 msgid "Video Comment"
@@ -1853,7 +1853,7 @@ msgstr "Autor/URL:"
 
 #: LABEL_WEBCAM_SETUP
 msgid "Webcam check"
-msgstr "Webkamera Konfiguration"
+msgstr "Webkamera Einstellungen"
 
 #: LABEL_WELCOME
 msgid "Welcome,"
@@ -1885,11 +1885,11 @@ msgstr "Zeitpunkt letzte Bewertung"
 
 #: LATEST_BEST_RATED_VIDEOS
 msgid "Best rated videos"
-msgstr "Am besten bewertete Videos"
+msgstr "Bestbewertete Videos"
 
 #: LATEST_UPLOADED_VIDEOS
 msgid "Latest uploaded videos"
-msgstr "zuletzt hochgeladene Videos"
+msgstr "Zuletzt hochgeladene Videos"
 
 #: LESS_INFO
 msgid "Less info"
@@ -2448,13 +2448,11 @@ msgstr ""
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_1
 msgid "If you ask for an evaluation, your video will be publicly available"
-msgstr ""
-"Wenn Sie eine Auswertung beantragen, wird Ihre Aufnahme zur Verfügung "
-"gestellt."
+msgstr "Wenn Sie eine Bewertung beantragen, wird Ihre Aufnahme ifreigegeben."
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_2
 msgid "for the users of Babelium Project. Otherways, you will be the"
-msgstr "Für alle Benutzer von Babelium."
+msgstr "Für alle Nutzer von Babelium."
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_3
 msgid "only one who can see it."
@@ -2462,7 +2460,7 @@ msgstr "Sie sind die einzige Person, die diesen Inhalt sehen kann."
 
 #: MESSAGE_ASK_USERS_EVALUATION
 msgid "Do you want to ask the users for an evaluation?"
-msgstr "Möchten Sie eine Auswertung von anderen Usern anfordern?"
+msgstr "Möchten Sie eine Auswertung von anderen Nutzern anfordern?"
 
 #: MESSAGE_AUTOMATIC_EVALUATION_NOT_SUPPORTED
 msgid "This video doesn't support automatic evaluations."
@@ -2474,7 +2472,7 @@ msgstr "Wählen Sie eine Sprache aus."
 
 #: MESSAGE_CHOOSE_REC_METHOD
 msgid "Choose recording method"
-msgstr "Wählen Sie eine Methode zur Aufzeichnung aus"
+msgstr "Wählen Sie eine Aufzeichnungsmethode aus"
 
 #: MESSAGE_CHOOSE_ROLE
 msgid "Choose a role"
@@ -2495,7 +2493,7 @@ msgstr "Dauer"
 
 #: MESSAGE_EXERCISE_CHOOSE_A_ROLE
 msgid "Choose the role you want to impersonate:"
-msgstr "Wählen Sie die Rolle aus, die Sie spielen möchten."
+msgstr "Wählen Sie eine Rolle aus"
 
 #: MESSAGE_EXERCISE_LIST
 msgid "Available Exercise List"
@@ -2555,9 +2553,8 @@ msgid ""
 "PERFORMS in the conversation with ease and skill catching non-verbal keys "
 "and waiting for his turn in a NATURAL WAY"
 msgstr ""
-"Nehmen sie am Gespräch mit Leichtigkeit und Geschick durch das Erfassen auch "
-"nonverbaler Hinweise teil und warten Sie geduldig, bis Sie an der Reihe "
-"sind."
+"Nehmen sie am Gespräch mit Natürlichkeit und Gelassenheit teil und warten "
+"Sie geduldig, bis Sie an der Reihe sind."
 
 #: MESSAGE_RATE_USER_RHYTHM
 msgctxt "MESSAGE_RATE_USER_RHYTHM"
@@ -2639,7 +2636,7 @@ msgstr "Veröffentlicht von:"
 
 #: MESSAGE_YOU_MUST_BE_REGISTERED
 msgid "You must be registered to see this area"
-msgstr "Sie müssen angemeldet sein, um diesen Bereich zu betreten."
+msgstr "Sie müssen angemeldet sein."
 
 #: MICROPHONE
 msgid "Microphone"
@@ -2667,7 +2664,7 @@ msgstr ""
 
 #: MY_ACTIVITY
 msgid "My recent activity"
-msgstr "letzte Aktivitäten"
+msgstr "Neueste Aktivitäten"
 
 #: MY_VIDEOS
 msgid "My Videos"
@@ -2695,7 +2692,7 @@ msgstr "Übungen, die von mir bewertet wurden."
 
 #: NIRIPAITUTAKOAK
 msgid "My assessed responses"
-msgstr "Antworten von Bewertungen meiner eigenen Übungen"
+msgstr "Eigene Übungen, die von anderen bewertet wurden."
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
@@ -2791,7 +2788,7 @@ msgstr "Daten werden verarbeitet"
 
 #: PROMPT_CHOOSE_ISSUE
 msgid "Choose an Issue"
-msgstr "Wählen Sie ein Ereignis aus"
+msgstr "Wählen Sie ein Thema aus"
 
 #: PROMPT_SELECT_LANGUAGE
 msgid "Select a language"
@@ -2931,7 +2928,7 @@ msgstr "Ergebnisse suchen für:"
 
 #: SEARCH_SECTION_DESCRIPTION
 msgid "Use this module to find the exercise you are looking for."
-msgstr "Nutzen Sie diesen Bereich um die Übung zu finden, die Sie suchen"
+msgstr "Hier können Sie nach Übungen suchen."
 
 #: SEARCH_TAGCLOUD
 msgid "Tag Cloud"
@@ -2962,8 +2959,8 @@ msgid ""
 "Use this section to sign up on Babelium and thus start practicing your "
 "favorite languages in no time. It's free."
 msgstr ""
-"In diesem Bereich können Sie sich bei Babelium anmelden und sofort anfangen "
-"gratis Ihre Lieblingssprachen zu praktizieren."
+"Hier können Sie sich bei Babelium anmelden und sofort anfangen gratis Ihre "
+"Lieblingssprachen zu praktizieren."
 
 #: SIMULTANEOUS_SUBTITLE_EDITION
 msgid "Someone else is editing this very same subtitles."
@@ -3023,9 +3020,9 @@ msgid ""
 "who says what on them. Just grab a video and transcript the dialogue so that "
 "other users can practice with this exercise."
 msgstr ""
-"Neu hochgeladene Videos sind nicht sehr sinnvoll, bis jemand festlegt, was "
-"und wie gesagt wird. Wählen Sie ein Video und transkribieren es so, dass "
-"andere damit üben können."
+"Der Inhalt neu hochgeladener Videos erhält durch eigene Untertitel, die "
+"jemand hinzugefügt hat, eine zusätzliche Lernkomponente. Wählen Sie ein "
+"Video und transkribieren es so, dass andere damit üben können."
 
 #: SUBTITLE_STOP_TIME_TOOLTIP
 msgid "Stop subtitle line"
@@ -3087,24 +3084,23 @@ msgid ""
 "This test will ensure that your microphone works as excepted and has the "
 "minimum required volume to record an exercise."
 msgstr ""
-"Dieser Test wird Ihnen helfen, um zu erfahren, ob Ihr Mikrofon richtig "
-"funktioniert, und die minimale Lautstärke gewährleistet ist, um eine Übung "
-"aufzeichnen zu können."
+"Dieser Test zeigt Ihnen, ob Ihr Mikrofon richtig funktioniert, und auch die "
+"minimale Lautstärke gewährleistet ist, um eine Übung aufzeichnen zu können."
 
 #: TEXT_MODULE_INFO_SUBTITLE
 msgid "Enter a short description of the things you can do with this module."
 msgstr ""
-"Geben Sie eine kurze Beschreibung der Aktionen, die in diesem Modul "
-"durchgeführt werden können."
+"Kurzbeschreibung der Aktionen, die in diesem Modul durchgeführt werden "
+"können."
 
 #: TEXT_PRIVACY_RIGHTS_EXPLAIN
 msgid ""
 "Please click 'Allow' when you see this window. Also click on 'Remember' to "
 "skip this step the next time you want to record something."
 msgstr ""
-"Bitte klicken Sie auf \"Zulassen\", wenn Sie dieses Fenster sehen. Aktivieren "
-"Sie das Kontrollkästchen \"Erinnerung\" wenn Sie diesen Schritt überspringen "
-"wollen und wenn Sie das nächste Mal eine Übung aufnehmen."
+"Bitte wählen Sie \"Zulassen\" im Flash Player Fenster. Aktivieren Sie "
+"\"Erinnerung\" wenn Sie das nächste Mal eine Übung aufzeichnen und diesen "
+"Schritt überspringen wollen."
 
 #: TEXT_RECORD_VIDEO_UPLOAD
 msgid ""
@@ -3113,13 +3109,13 @@ msgid ""
 "saving them in the system."
 msgstr ""
 "Verwenden Sie die Steuerelemente auf der rechten Seite, um mit einer "
-"Webkamera in Bewegung aufzuzeichnen. Sie können so oft wie Sie wollen "
-"aufzeichnen und eine Vorschau der Aufnahme vor dem Speichern des Systems "
-"vornehmen."
+"Webkamera, die in Bewegung ist aufzuzeichnen. Sie können so oft wie Sie "
+"wollen aufzeichnen und eine Voransicht der Aufnahme vor dem endgültigen "
+"Speichern im System anschauen."
 
 #: TEXT_USER_ACCOUNT
 msgid "User Account"
-msgstr "Benutzerkonto"
+msgstr "Nutzerkonto"
 
 #: TEXT_WHO_ARE_WE
 msgid ""
@@ -3128,11 +3124,11 @@ msgid ""
 "group is primarily focused on developing innovative web-based educational "
 "applications and services. You can follow us on Twitter @babelium :-)"
 msgstr ""
-"Wir sind eine Gruppe von Forschern und Studenten der Hypermedia und "
+"Wir sind eine Gruppe von Professoren und Studenten der Hypermedia und "
 "Multimedia Group (GHyM) an der Universität des Baskenlandes (UPV / EHU). "
 "Diese Gruppe ist in erster Linie auf die Entwicklung von innovativen "
 "Bildungs-Anwendungen und Diensten auf Web-Basis spezialisiert. Sie können "
-"uns auf Twitter folgen: @ Babelium"
+"uns auf Twitter folgen: @babelium"
 
 #: TITLE_AVAILABLE_ACTIONS
 msgid "Available Actions"
@@ -3196,7 +3192,7 @@ msgstr "Unangemessene Übungen melden."
 
 #: TITLE_RESTORE_PASS_FORM
 msgid "Please enter your username or email"
-msgstr "Bitte geben Sie Ihren Benutzernamen und Ihre E-Mail-Adresse ein."
+msgstr "Bitte geben Sie Ihren Nutzernamen und Ihre E-Mail-Adresse ein."
 
 #: TITLE_SUBTITLE_EDITOR
 msgid "Subtitle Editor"
@@ -3208,7 +3204,7 @@ msgstr "Geben Sie die URL des Videos ein"
 
 #: TITLE_USERS_CREDIT_HISTORY
 msgid "User's Credit History"
-msgstr "Anwenderverlauf Kreditpunkte"
+msgstr "Nutzertabelle Kreditpunkte"
 
 #: TITLE_USER_EVALUATION
 msgid "{0}'s evaluation"
@@ -3216,7 +3212,7 @@ msgstr "Bewertung von{0}"
 
 #: TITLE_VIEW_VIDEO_COMMENT
 msgid "View video comment"
-msgstr "Videokommentar anschauen"
+msgstr "Videokommentar ansehen"
 
 #: TOOLTIP_ADD_FILES
 msgid "Add file(s)"
@@ -3248,7 +3244,7 @@ msgstr "Vorherige Untertitelzeile"
 
 #: TOOLTIP_RECORD_RESPONSE
 msgid "Record a video response following this exercise"
-msgstr "Aufzeichnung einer Antwort nach dieser Videoübung."
+msgstr "Aufzeichnung einer Antwort am Ende dieser Videoübung."
 
 #: TOOLTIP_SEEK_TO_LINE
 msgid "Click here to seek the video to the start time of this subtitle line"
@@ -3277,8 +3273,8 @@ msgid ""
 "Evaluation exercise: the video can't be used by others to practice and is "
 "only available in the evaluation area"
 msgstr ""
-"Evaluierung: Das Video darf nicht von anderen zu Übungszwecken verwendet "
-"werden, ist nur im Bewertungsbereich verfügbar."
+"Dieses Video darf nicht von anderen zu Übungszwecken verwendet werden, und "
+"ist nur hier zur Bewertung verfügbar."
 
 #: UPLOAD_EXERCISE_TYPE
 msgid "Choose exercise type"
@@ -3303,28 +3299,28 @@ msgid ""
 "ballance between the amount of speaking practice the user achieves and the "
 "frustation he/she gets along the process."
 msgstr ""
-"In einer Untersuchung haben wir festgestellt, dass die Konzentration "
-"deutlich nach unten geht, wenn der Benutzer Videos untertitelt die länger "
-"als {0} Sekunden dauern. <br> Da außerdem das Live-Untertiteln eine "
-"stressige Aufgabe ist, haben wir die maximale Dauer des Videos begrenzt, um "
-"das Gleichgewicht zwischen der mündlichen Übung und der Frustration der "
-"Anwender zu halten, das mit diesen Aufgaben verbunden ist."
+"In einer Untersuchung wurde festgestellt, dass die Konzentration deutlich "
+"nachlässt, wenn man Videos untertitelt, die länger als {0} Sekunden dauern. "
+"<br> Da zudem das Live-Untertiteln  Konzentration erfordert, haben wir die "
+"maximale Dauer des Videos begrenzt, um einerseits ein akzeptables Ergebnis "
+"einer mündlichen Übung zu gewährleisten und andererseits die Frustration der "
+"Anwender in Grenzen zu halten."
 
 #: UPLOAD_PRACTICE_EXERCISE
 msgid ""
 "Practice exercise: users can practice an record responses following this "
 "video"
 msgstr ""
-"Übung: Benutzer können eine Aufzeichnung Ihrer Antworten mit diesem Video "
+"Übung: Nutzer können eine Aufzeichnung Ihrer Antworten mit diesem Video "
 "üben."
 
 #: USER
 msgid "user"
-msgstr "Benutzer"
+msgstr "Nutzer"
 
 #: USER_ERROR
 msgid "The username or the email already exists."
-msgstr "Der Benutzername oder E-Mail wird bereits verwendet."
+msgstr "Der Nutzername oder E-Mail wird bereits verwendet."
 
 #: USER_LATEST_DONE_ASSESSMENTS
 msgid "Assessments I recently done"
@@ -3399,8 +3395,8 @@ msgstr ""
 #: WARNING_NOT_MODIFIED_SUBTITLES
 msgid "You can't save the subtitle. You haven't modified any part of it."
 msgstr ""
-"Sie können nicht die Untertitel speichern. Es sind keine Änderungen an den "
-"ursprünglichen Untertiteln erfolgt."
+"Die Untertitel können nicht gespeichert werden. Es sind keine Änderungen an "
+"den ursprünglichen Untertiteln erfolgt."
 
 #: WARNING_ROLE_PANEL_1
 msgid "You must fill all the options"
@@ -3408,7 +3404,7 @@ msgstr "Sie müssen alle Felder ausfüllen."
 
 #: WARNING_ROLE_PANEL_2
 msgid "You must fill the method and pass the sound test"
-msgstr "Sie müssen eine Methode auswählen einen Sound Test durchführen."
+msgstr "Sie müssen eine Methode auswählen und einen Sound Test durchführen."
 
 #: WARNING_ROLE_PANEL_3
 msgid "You must select a role and pass the sound test"
@@ -3460,8 +3456,8 @@ msgstr ""
 
 #: YOUR_AUTOEVALUATION_REQUEST_IS_BEING_PROCESSED
 msgid "Your autoevaluation request is being processed"
-msgstr "Ihre Anfrage der Selbstbewertung wird bearbeitet."
+msgstr "Ihre Anfrage der Eigenbewertung wird bearbeitet."
 
 #: YOUR_AUTOEVALUATION_REQUEST_IS_PENDING
 msgid "Your autoevaluation request is pending"
-msgstr "Ihre Anfrage der Selbstbewertung steht noch aus."
+msgstr "Ihre Anfrage der Eigerbewertung steht noch aus."
