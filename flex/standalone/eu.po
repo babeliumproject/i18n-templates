@@ -1,11 +1,11 @@
-#. extracted from flex-standalone-site/locale/en_US/myResources.properties, flex-standalone-site/locale/eu_ES/myResources.properties
+#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/eu_ES/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone\n"
+"Project-Id-Version: babelium-flex-standalone-site\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-11 09:52+0200\n"
-"PO-Revision-Date: 2012-10-11 16:00+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-23 12:55+0200\n"
+"PO-Revision-Date: 2013-07-23 13:03+0200\n"
+"Last-Translator: Babelium Team <babeliumproject@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgid "About us"
 msgstr "Guri buruz"
 
 #: ACCOUNT_ACTIVATION
-msgid "Acount Activation"
+msgid "Account Activation"
 msgstr "Kontu Aktibaketa"
 
 #: ACTIVATING
@@ -204,6 +204,10 @@ msgstr "Beste Ariketa bat Aukeratu"
 #: BUTTON_SHOW_AVAILABLE_OPTIONS
 msgid "Show Available Options"
 msgstr "Aukerak Ikusi"
+
+#: BUTTON_SHOW_PRIVACY_SETTINGS
+msgid "Show privacy settings"
+msgstr "Pribatutasun hobespenak ikusi"
 
 #: BUTTON_SOMEONE_EVALUATE_ME
 msgid "Someone evaluate me!"
@@ -909,6 +913,16 @@ msgstr "Editatu"
 msgid "Edit video information"
 msgstr "Bideoaren informazioa editatu"
 
+#: ELURNET_INFO
+msgid ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
+msgstr ""
+"Software librearen inguruko garapen eta trebakuntzara zuzendutako Elurnet "
+"enpresarekin lan egiten dugu baita ere. Elurnet baimendutako Babelium "
+"laguntza tekniko eta zerbitzu hornitzaile ofizial bakarra da."
+
 #: EMAIL_ACTIVACION
 msgid "An activation email has been sent."
 msgstr "Mezu bat bidali da zure ePostara kontua balioztatzeko."
@@ -1587,6 +1601,10 @@ msgstr "Mikrofono sarrera maila"
 #: LABEL_MIC_SETUP
 msgid "Microphone check"
 msgstr "Mikrofono egiaztapena"
+
+#: LABEL_MIC_WAITING_FOR_INPUT
+msgid "Waiting for mic input"
+msgstr "Mikrofono aktibitateari itxaroten"
 
 #: LABEL_MODIFY_PASSWORD
 msgid "Modify Password"
@@ -2668,6 +2686,10 @@ msgstr "Niri ebaluatutako erantzunak"
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
 msgstr "Komentariorik ez da gehitu"
+
+#: NO_CONNECTION
+msgid "Streaming connection lost. Trying to reconnect..."
+msgstr "Streaming konexioa galdu da. Birkonektatzen saiatzen..."
 
 #: OBTAIN_CREDITS
 msgid "Obtain Credits"

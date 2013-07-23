@@ -1,11 +1,11 @@
-#. extracted from flex-standalone-site/locale/en_US/myResources.properties
+#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone\n"
+"Project-Id-Version: babelium-flex-standalone-site\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-11 09:52+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-23 12:55+0200\n"
+"PO-Revision-Date: 2013-07-23 12:55+0200\n"
+"Last-Translator: Babelium Team <babeliumproject@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgid "About us"
 msgstr ""
 
 #: ACCOUNT_ACTIVATION
-msgid "Acount Activation"
+msgid "Account Activation"
 msgstr ""
 
 #: ACTIVATING
@@ -197,6 +197,10 @@ msgstr ""
 
 #: BUTTON_SHOW_AVAILABLE_OPTIONS
 msgid "Show Available Options"
+msgstr ""
+
+#: BUTTON_SHOW_PRIVACY_SETTINGS
+msgid "Show privacy settings"
 msgstr ""
 
 #: BUTTON_SOMEONE_EVALUATE_ME
@@ -794,6 +798,13 @@ msgstr ""
 
 #: EDIT_VIDEO_INFO
 msgid "Edit video information"
+msgstr ""
+
+#: ELURNET_INFO
+msgid ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
 msgstr ""
 
 #: EMAIL_ACTIVACION
@@ -1438,6 +1449,10 @@ msgstr ""
 
 #: LABEL_MIC_SETUP
 msgid "Microphone check"
+msgstr ""
+
+#: LABEL_MIC_WAITING_FOR_INPUT
+msgid "Waiting for mic input"
 msgstr ""
 
 #: LABEL_MODIFY_PASSWORD
@@ -2504,6 +2519,10 @@ msgstr ""
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
+msgstr ""
+
+#: NO_CONNECTION
+msgid "Streaming connection lost. Trying to reconnect..."
 msgstr ""
 
 #: OBTAIN_CREDITS

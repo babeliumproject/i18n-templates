@@ -1,21 +1,16 @@
-# French translation for babelium-flex-standalone
-# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
-# This file is distributed under the same license as the babeliumproject package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
-#
+#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/fr_FR/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2012-10-11 09:52+0200\n"
-"PO-Revision-Date: 2012-12-11 15:20+0000\n"
-"Last-Translator: jgarate <garate.josu@gmail.com>\n"
-"Language-Team: French <fr@li.org>\n"
+"Project-Id-Version: babelium-flex-standalone-site\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-23 12:55+0200\n"
+"PO-Revision-Date: 2013-07-23 13:09+0200\n"
+"Last-Translator: Josu Garate <garate.josu@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-12-19 09:32+0000\n"
-"X-Generator: Launchpad (build 16378)\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
 
 #: ABORT_RECORDING
 msgid "Abort recording"
@@ -34,7 +29,7 @@ msgid "About us"
 msgstr "Nous sommes qui?"
 
 #: ACCOUNT_ACTIVATION
-msgid "Acount Activation"
+msgid "Account Activation"
 msgstr "Activation du compte"
 
 #: ACTIVATING
@@ -209,6 +204,10 @@ msgstr "Choisis un autre exercice"
 #: BUTTON_SHOW_AVAILABLE_OPTIONS
 msgid "Show Available Options"
 msgstr "Montrer les options disponibles"
+
+#: BUTTON_SHOW_PRIVACY_SETTINGS
+msgid "Show privacy settings"
+msgstr ""
 
 #: BUTTON_SOMEONE_EVALUATE_ME
 msgid "Someone evaluate me!"
@@ -531,8 +530,7 @@ msgstr ""
 
 #: D016_A2_SI06
 msgid "I can ask for and give directions referring to a map or plan."
-msgstr ""
-"Je peux demander et indiquer le chemin en me servant d'un plan ou carte"
+msgstr "Je peux demander et indiquer le chemin en me servant d'un plan ou carte"
 
 #: D017_A2_SI07
 msgid "I can ask how people are and react to news."
@@ -602,8 +600,8 @@ msgid ""
 "I can start, maintain and close simple face-to-face conversation on topics "
 "that are familiar or of personal interest."
 msgstr ""
-"Je peux commencer, soutenir et terminer une simple  conversation face-à-"
-"faces sur des sujets familiers ou d'intérêt personnel."
+"Je peux commencer, soutenir et terminer une simple  conversation "
+"face-à-faces sur des sujets familiers ou d'intérêt personnel."
 
 #: D030_B1_SI02
 msgid ""
@@ -910,6 +908,16 @@ msgstr "Éditer"
 msgid "Edit video information"
 msgstr "Éditer information sur la vidéo"
 
+#: ELURNET_INFO
+msgid ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
+msgstr ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
+
 #: EMAIL_ACTIVACION
 msgid "An activation email has been sent."
 msgstr "Un émail d’activation t’a été envoyé."
@@ -963,8 +971,7 @@ msgid "You must specify a response to evaluate before sending an evaluation."
 msgstr "Tu dois spécifier une réponse à évaluer."
 
 #: ERROR_FILL_COMPULSORY_DATA
-msgid ""
-"You must fill all the compulsory data in order to save your evaluation."
+msgid "You must fill all the compulsory data in order to save your evaluation."
 msgstr ""
 "Tu dois remplis toutes les données obligatoires pour pouvoir envoyer ton "
 "évaluation."
@@ -1000,8 +1007,8 @@ msgid ""
 msgstr ""
 "Tu as choisi d'ajouter un commentaire vidéo à cette évaluation, mais tu n'as "
 "ajouté aucun. S'il te plaît ajoute un commentaire vidéo ou décoche la case "
-"\"Inclure le vidéo commentaire\" si tu ne veux pas enregistrer un "
-"commentaire vidéo."
+"\"Inclure le vidéo commentaire\" si tu ne veux pas enregistrer un commentaire "
+"vidéo."
 
 #: ERROR_SIGN_IN_TO_REQUEST
 msgid "You must Sign In to request an evaluation."
@@ -1131,7 +1138,8 @@ msgstr ""
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_ASSESSED_BY_OTHERS
 msgid ""
-"Error while retrieving your responses that have been assessed by other users."
+"Error while retrieving your responses that have been assessed by other "
+"users."
 msgstr ""
 "Erreur lors de la récupération des réponses évaluées par d'autres "
 "utilisateurs"
@@ -1142,8 +1150,7 @@ msgstr "Erreur lors de la récupération des évaluations de cette réponse"
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_WAITING
 msgid "Error while retrieving responses waiting assessment."
-msgstr ""
-"Erreur lors de la récupération des réponses en attente d'être évaluées"
+msgstr "Erreur lors de la récupération des réponses en attente d'être évaluées"
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_YOU_ASSESSED
 msgid "Error while retrieving the responses you assessed."
@@ -1512,7 +1519,8 @@ msgstr "Niveau à l'oral"
 
 #: LABEL_GUEST_EDIT_WARNING
 msgid ""
-"You are not logged in so the changes you make to this subtitle won't be saved"
+"You are not logged in so the changes you make to this subtitle won't be "
+"saved"
 msgstr ""
 "Tu n'es pas connecté, donc les modifications que tu as apporté à ce sous-"
 "titre ne sera pas enregistré"
@@ -1592,6 +1600,10 @@ msgstr "Niveau d'entrée micro"
 #: LABEL_MIC_SETUP
 msgid "Microphone check"
 msgstr "Tester le micro"
+
+#: LABEL_MIC_WAITING_FOR_INPUT
+msgid "Waiting for mic input"
+msgstr ""
 
 #: LABEL_MODIFY_PASSWORD
 msgid "Modify Password"
@@ -2668,6 +2680,10 @@ msgstr "Mes réponses que l'ont été évaluées."
 msgid "No comment was added"
 msgstr "Il n'y a pas eu de commentaire"
 
+#: NO_CONNECTION
+msgid "Streaming connection lost. Trying to reconnect..."
+msgstr ""
+
 #: OBTAIN_CREDITS
 msgid "Obtain Credits"
 msgstr "Obtiens du crédit"
@@ -3216,8 +3232,7 @@ msgstr "Enregistrer une vidéo réponse à la suite de cet exercice"
 
 #: TOOLTIP_SEEK_TO_LINE
 msgid "Click here to seek the video to the start time of this subtitle line"
-msgstr ""
-"Clique ici pour aller dans la vidéo au moment de début de cette ligne"
+msgstr "Clique ici pour aller dans la vidéo au moment de début de cette ligne"
 
 #: TOOLTIP_START_SUBTITLE_LINE
 msgid "Subtitle start"
@@ -3402,7 +3417,8 @@ msgstr "Webcam"
 #: WRONG_FIELDS_IN_FORM
 msgid "Some form fields are wrong. Fix the errors to proceed."
 msgstr ""
-"Certains champs du formulaire sont faux. Corriger les erreurs pour continuer."
+"Certains champs du formulaire sont faux. Corriger les erreurs pour "
+"continuer."
 
 #: YOURCHARACTER
 msgid "Your role is the red arrow"

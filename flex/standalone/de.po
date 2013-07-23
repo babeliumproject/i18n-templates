@@ -1,10 +1,10 @@
 #. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/de_DE/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone\n"
+"Project-Id-Version: babelium-flex-standalone-site\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-17 10:15+0200\n"
-"PO-Revision-Date: 2013-07-17 10:15+0200\n"
+"POT-Creation-Date: 2013-07-23 12:55+0200\n"
+"PO-Revision-Date: 2013-07-23 13:18+0200\n"
 "Last-Translator: Christian Alexander Brase <christianalexander.brase@ehu.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -204,6 +204,10 @@ msgstr "Eine andere Übung aussuchen"
 #: BUTTON_SHOW_AVAILABLE_OPTIONS
 msgid "Show Available Options"
 msgstr "Anzeigeoptionen"
+
+#: BUTTON_SHOW_PRIVACY_SETTINGS
+msgid "Show privacy settings"
+msgstr ""
 
 #: BUTTON_SOMEONE_EVALUATE_ME
 msgid "Someone evaluate me!"
@@ -1618,6 +1622,10 @@ msgstr "Mikrofoneingangspegelmesser"
 msgid "Microphone check"
 msgstr "Einstellungen Mikrofon"
 
+#: LABEL_MIC_WAITING_FOR_INPUT
+msgid "Waiting for mic input"
+msgstr ""
+
 #: LABEL_MODIFY_PASSWORD
 msgid "Modify Password"
 msgstr "Passwort ändern"
@@ -2697,6 +2705,10 @@ msgstr "Eigene Übungen, die von anderen bewertet wurden."
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
 msgstr "Kein Kommentar verfügbar"
+
+#: NO_CONNECTION
+msgid "Streaming connection lost. Trying to reconnect..."
+msgstr ""
 
 #: OBTAIN_CREDITS
 msgid "Obtain Credits"

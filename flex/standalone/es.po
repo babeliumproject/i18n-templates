@@ -1,11 +1,11 @@
-#. extracted from flex-standalone-site/locale/en_US/myResources.properties, flex-standalone-site/locale/es_ES/myResources.properties
+#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/es_ES/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone\n"
+"Project-Id-Version: babelium-flex-standalone-site\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-11 09:52+0200\n"
-"PO-Revision-Date: 2012-10-11 16:00+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-23 12:55+0200\n"
+"PO-Revision-Date: 2013-07-23 13:02+0200\n"
+"Last-Translator: Babelium Team <babeliumproject@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgid "About us"
 msgstr "Sobre nosotros"
 
 #: ACCOUNT_ACTIVATION
-msgid "Acount Activation"
+msgid "Account Activation"
 msgstr "Activación de Cuenta"
 
 #: ACTIVATING
@@ -204,6 +204,10 @@ msgstr "Elege otro ejercicio"
 #: BUTTON_SHOW_AVAILABLE_OPTIONS
 msgid "Show Available Options"
 msgstr "Mostrar opciones disponibles"
+
+#: BUTTON_SHOW_PRIVACY_SETTINGS
+msgid "Show privacy settings"
+msgstr "Mostrar opciones de privacidad"
 
 #: BUTTON_SOMEONE_EVALUATE_ME
 msgid "Someone evaluate me!"
@@ -907,6 +911,16 @@ msgstr "Editar"
 msgid "Edit video information"
 msgstr "Editar información del vídeo"
 
+#: ELURNET_INFO
+msgid ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
+msgstr ""
+"También trabajamos estrechamente con Elurnet, una empresa enfocada al "
+"desarrollo y formación en software libre. Elurnet es la única proveedora de "
+"servicios y soporte Babelium oficial autorizada."
+
 #: EMAIL_ACTIVACION
 msgid "An activation email has been sent."
 msgstr "Se ha enviado un email de activación."
@@ -1582,6 +1596,10 @@ msgstr "Nivel entrada micrófono"
 #: LABEL_MIC_SETUP
 msgid "Microphone check"
 msgstr "Configuración Micro"
+
+#: LABEL_MIC_WAITING_FOR_INPUT
+msgid "Waiting for mic input"
+msgstr "Esperando actividad de micrófono"
 
 #: LABEL_MODIFY_PASSWORD
 msgid "Modify Password"
@@ -2659,6 +2677,10 @@ msgstr "Respuestas que me han evaluado"
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
 msgstr "No se añadió ningún comentario"
+
+#: NO_CONNECTION
+msgid "Streaming connection lost. Trying to reconnect..."
+msgstr "Conexión streaming interrumpida. Intentando reconexión..."
 
 #: OBTAIN_CREDITS
 msgid "Obtain Credits"
