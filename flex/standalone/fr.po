@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: babelium-flex-standalone-site\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-23 12:55+0200\n"
-"PO-Revision-Date: 2013-07-23 13:09+0200\n"
+"POT-Creation-Date: 2013-11-25 13:47+0200\n"
+"PO-Revision-Date: 2013-11-25 13:47+0200\n"
 "Last-Translator: Josu Garate <garate.josu@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +18,8 @@ msgstr "Annuler enregistrement"
 
 #: ABOUT_SECTION_DESCRIPTION
 msgid ""
-"Want to know a little about us and the technologies that make Babelium "
-"possible? You're at the right place!"
+"Want to know a little about us & the technology that makes Babelium "
+"possible? You're in the right place!"
 msgstr ""
 "Tu veux savoir quelque chose sur nous et la technologie qui rend possible "
 "Babelium? Tu es au bon endroit!"
@@ -318,7 +318,7 @@ msgstr ""
 "sous-titrées sont disponibles"
 
 #: CONFIGURATION_BW_MESSAGE1
-msgid "Use this test to check whether your bandwidth is enough"
+msgid "Use this test to check whether your bandwidth is sufficient"
 msgstr "Tu peux vérifier si ta bande passante est suffisante"
 
 #: CONFIGURATION_BW_MESSAGE2
@@ -346,15 +346,15 @@ msgid "You can check if your microphone works"
 msgstr "Tu peux vérifier si ton micro fonctionne correctement /"
 
 #: CONFIGURATION_MIC_MESSAGE2
-msgid "correctly recording a test sound file."
+msgid "correctly by recording a test sound file."
 msgstr "En train d’enregistrer un fichier d’essai."
 
 #: CONFIGURATION_MIC_MESSAGE3
-msgid "Click REC button and record your voice (10 seconds)"
+msgid "Click the REC button and record your voice (10 seconds)"
 msgstr "Appuie sur le bouton REC et enregistre ta voix (10 secondes)"
 
 #: CONFIGURATION_MIC_MESSAGE4
-msgid "After, you can listen the sound file clicking PLAY button."
+msgid "You can listen the sound file by clicking the PLAY button."
 msgstr "Une fois enregistré tu pourras regarder en appuyant sur PLAY."
 
 #: CONFIGURATION_NOT_CAM_TEXT
@@ -392,15 +392,15 @@ msgid "You can check if your webcam works"
 msgstr "Tu peux vérifier que ta webcam fonctionne de façon adéquate"
 
 #: CONFIGURATION_VIDEO_MESSAGE2
-msgid "correctly recording a video file."
+msgid "correctly by recording a video file."
 msgstr "enregistrement d’une vidéo d’essai."
 
 #: CONFIGURATION_VIDEO_MESSAGE3
-msgid "Click REC button and record your video (10 seconds)"
+msgid "Click the REC button and record your video (10 seconds)"
 msgstr "Appuie sur le bouton REC et enregistre ta vidéo (10 seconds)"
 
 #: CONFIGURATION_VIDEO_MESSAGE4
-msgid "After, you can watch the video clicking PLAY button."
+msgid "You can watch the video by clicking the PLAY button."
 msgstr "Une fois enregistrée tu peux la regarder en appuyant sur PLAY"
 
 #: CONFIGURATION_WEBCAM_TITTLE
@@ -1014,6 +1014,14 @@ msgstr ""
 msgid "You must Sign In to request an evaluation."
 msgstr "Tu dois être connecté pour démander une évalutation."
 
+#: ERROR_STREAM_PROCESSING
+msgid "This video is still processing. Sorry about that."
+msgstr ""
+
+#: ERROR_STREAM_NOT_FOUND
+msgid "This video is unavailable. Sorry about that."
+msgstr ""
+
 #: ERROR_WHILE_ACTIVATING_ACCOUNT
 msgid "Error while activating your account."
 msgstr "Erreur lors de l’activation de ton compte."
@@ -1318,16 +1326,16 @@ msgstr "Masque les sous-titres"
 #: HOME_LOGGED_IN_STATIC_MESSAGE
 msgid ""
 "<b><font size =\"24\" color =\"#972c0a\">Welcome to "
-"Babelium</font></b><br/><p>Babelium is a community of people who likes to "
-"learn and teach languages.</p><p>Babelium is a collaborative language "
+"Babelium</font></b><br/><p>Babelium is a community of people who like to "
+"learn & teach languages.</p><p>Babelium is a collaborative language "
 "practising environment. Here you'll be able to improve your speaking skills "
-"with the help of other users, which are native or fluent in the language "
-"you're practicing, whilst you help other users providing knowledge and "
-"assessment around your own mother language.</p><p>Just record or grab a "
-"video that you think could be interesting to practice a language and upload "
-"it so that other users can practice with it. You can also dub the exercises "
-"that other users uploaded. On top of this you can also assess the work of "
-"other people and be assessed.</p>"
+"with the help of other users, who are native or fluent in the language "
+"you're practicing, whilst you too can help other users providing knowledge & "
+"assessment of your own mother tongue.</p><p>All you need to do is record or "
+"find a video clip you think could be an interesting platform from which to "
+"practice a language & upload it. You can also dub exercises which other "
+"users have uploaded. It is also possible to assess the work of other users & "
+"to be assessed yourself.</p>"
 msgstr ""
 "Bienvenue sur Babelium. Babelium est une communauté de personnes qui aiment "
 "pratiquer les langues. Il s'agit d'un dispositif collaboratif pour la "
@@ -1393,7 +1401,7 @@ msgid "About"
 msgstr "Qui sommes-nous?"
 
 #: LABEL_ABOUT_SECTION
-msgid "About Babelium Project"
+msgid "About the Babelium Project"
 msgstr "tout sur Babelium Project"
 
 #: LABEL_ADD_AUTOMATIC_EVALUATION_IF_POSSIBLE
