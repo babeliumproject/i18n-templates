@@ -1,16 +1,16 @@
-#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/fr_FR/myResources.properties
+#. extracted from git/flex-standalone-site/locale/en_US/myResources.properties, git/flex-standalone-site/locale/fr_FR/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone-site\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 13:47+0200\n"
-"PO-Revision-Date: 2013-11-25 13:47+0200\n"
-"Last-Translator: Josu Garate <garate.josu@gmail.com>\n"
+"POT-Creation-Date: 2014-09-22 18:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 
 #: ABORT_RECORDING
 msgid "Abort recording"
@@ -21,12 +21,12 @@ msgid ""
 "Want to know a little about us & the technology that makes Babelium "
 "possible? You're in the right place!"
 msgstr ""
-"Tu veux savoir quelque chose sur nous et la technologie qui rend possible "
-"Babelium? Tu es au bon endroit!"
+"Des renseignements sur nous et la technologie qui rend possible Babelium? Tu "
+"es au bon endroit!"
 
 #: ABOUT_US
 msgid "About us"
-msgstr "Nous sommes qui?"
+msgstr "Qui sommes-nous?"
 
 #: ACCOUNT_ACTIVATION
 msgid "Account Activation"
@@ -43,6 +43,10 @@ msgstr "Un e-mail d’activation a été envoyé à l’adresse indiquée"
 #: ADDVIDEO
 msgid "Add a video"
 msgstr "Ajouter une vidéo"
+
+#: ADVERB_ADJECTIVE
+msgid "Adverb/Adjective"
+msgstr ""
 
 #: ALERT_SUCCESSFUL_FILE_UPLOAD_RED5
 msgid ""
@@ -66,7 +70,7 @@ msgstr "Liste des réponses en attente d'une évaluation"
 
 #: AUKERATUBIDEOA
 msgid "Select a video from the list"
-msgstr "Choisis une vidéo de la liste"
+msgstr "Choisis une vidéo dans la liste"
 
 #: AUTHOR_PROVIDED_BY
 msgid "Author/Provider:"
@@ -74,7 +78,7 @@ msgstr "Auteur/Fournisseur"
 
 #: AUTOEVALUATION_NOT_AVAILABLE
 msgid "Autoevaluation not available"
-msgstr "Autoévaluation pas disponible"
+msgstr "Autoévaluation indisponible"
 
 #: AVG
 msgid "Average"
@@ -107,7 +111,7 @@ msgstr "Ajouter"
 
 #: BUTTON_BROWSE
 msgid "Browse..."
-msgstr "Examiner..."
+msgstr "Rechercher..."
 
 #: BUTTON_CANCEL
 msgctxt "BUTTON_CANCEL"
@@ -139,7 +143,7 @@ msgid "No, thanks!"
 msgstr "Non, merci"
 
 #: BUTTON_OK
-msgid "Ok"
+msgid "OK"
 msgstr "Accepter"
 
 #: BUTTON_PAUSE
@@ -148,7 +152,7 @@ msgstr "Pause"
 
 #: BUTTON_PLAY
 msgid "Play"
-msgstr "Play"
+msgstr "Lecture"
 
 #: BUTTON_PLAYSLICE
 msgid "Play Slice"
@@ -156,11 +160,11 @@ msgstr "Regarder un extrait"
 
 #: BUTTON_PLAY_PAUSE
 msgid "Play/Pause"
-msgstr "Play/Pause"
+msgstr "Lecture/Pause"
 
 #: BUTTON_REC
 msgid "Rec"
-msgstr "Rec"
+msgstr "Enreg"
 
 #: BUTTON_RECORD
 msgctxt "BUTTON_RECORD"
@@ -178,11 +182,11 @@ msgstr "Informer"
 
 #: BUTTON_RETRY
 msgid "Retry"
-msgstr "Réessayer"
+msgstr "Rééssayer"
 
 #: BUTTON_SAVE_NEWPASS
 msgid "Save Changes"
-msgstr "Sauvegarder les changements"
+msgstr "Enregistrer les modifications"
 
 #: BUTTON_SAVE_RESPONSE
 msgid "Publish Response"
@@ -243,31 +247,30 @@ msgctxt "CANCEL"
 msgid "Cancel"
 msgstr "Annuler"
 
-#: CC-BY
-msgid "Attribution"
-msgstr "Paternité"
-
-#: CC-BY-NC
-msgid "Attribution Non-Commercial"
-msgstr "Paternité-Pas d’utilisation commerciale"
-
 #: CC-BY-NC-ND
 msgid "Attribution Non-Commercial No Derivative"
-msgstr "Paternité-Pas d’utilisation commerciale-Pas de modification"
+msgstr "Attribution-Pas d’Utilisation Commerciale-Pas de modification"
 
 #: CC-BY-NC-SA
 msgid "Attribution Non-Commercial Share Alike"
 msgstr ""
-"Paternité-Pas d’utilisation commerciale-Partage des conditions initiales à "
-"l’identique"
+"Attribution-Pas d’Utilisation Commerciale-Partage dans les Mêmes Conditions"
+
+#: CC-BY-NC
+msgid "Attribution Non-Commercial"
+msgstr "Attribution-Pas d’Utilisation Commerciale"
 
 #: CC-BY-ND
 msgid "Attribution No Derivative"
-msgstr "Paternité-Pas de modification"
+msgstr "Attribution-Pas de modification"
 
 #: CC-BY-SA
 msgid "Attribution Share Alike"
-msgstr "Paternité-Partage des conditions initiales à l’identique"
+msgstr "Attribution-Partage dans les Mêmes Conditions"
+
+#: CC-BY
+msgid "Attribution"
+msgstr "Attribution"
 
 #: CHECK_YES_PLEASE
 msgid "Yes, please."
@@ -308,6 +311,14 @@ msgstr "Mots separés par des virgules"
 #: COMMENTS
 msgid "Comment"
 msgstr "Commentaire"
+
+#: COMMUNICATION_SITUATION
+msgid "Communication situation"
+msgstr ""
+
+#: COMMUNICATIVE_COMPETENCE
+msgid "Communicative competence"
+msgstr ""
 
 #: COMPLETE_SUBTITLE_INFO
 msgid ""
@@ -415,6 +426,10 @@ msgstr "La totalité de la vidéo a été sous-titrée?"
 msgid "Are you sure you want to delete the selected videos?"
 msgstr "Es-tu sûr de vouloir éliminer les sous-titres selectionnés?"
 
+#: CONVERSATION
+msgid "Conversation"
+msgstr ""
+
 #: CONVERTED
 msgid "converted"
 msgstr "converti"
@@ -427,437 +442,1240 @@ msgstr "Autres (Copyright)"
 msgid "Current email address"
 msgstr "Adresse e-mail actuelle"
 
-#: D001_A1_SI01
+#: D1_1_13_1
 msgid ""
-"I can introduce somebody and use basic greetings and leave-taking "
-"expressions."
+"Can read a very short, rehearsed statement – e.g. to introduce a speaker, "
+"propose a toast"
 msgstr ""
-"Je peux présenter quelqu'un et utiliser des formules de salutation de base."
+"Peut lire un texte très bref et répété, par exemple pour présenter un "
+"conférencier, proposer un toast"
 
-#: D002_A1_SI02
+#: D1_1_15_1
 msgid ""
-"I can ask and answer simple questions, initiate and respond to simple "
-"statements in areas of immediate need or on very familiar topics."
+"Can make an introduction and use basic greeting and leave-taking expressions"
 msgstr ""
-"Je peux poser et répondre à des questions simples, commencer  et réagir à "
-"des déclarations simples  sur des sujets très familiers."
+"Peut présenter quelqu'un et utiliser des expressions élémentaires de "
+"salutation et de congé"
 
-#: D003_A1_SI03
+#: D1_1_15_2
+msgid "Can ask how people are and react to news"
+msgstr "Peut demander à quelqu'un de ses nouvelles et y réagir"
+
+#: D1_1_16_1
+msgid "Can describe him/herself, what he/she does and where he/she lives"
+msgstr ""
+"Peut se décrire, décrire ce qu'il/elle fait, ainsi que son lieu d'habitation"
+
+#: D1_1_17_1
 msgid ""
-"I can make myself understood in a simple way but I am dependent on my "
-"partner being prepared to repeat more slowly and rephrase what I say and to "
-"help me to say what I want."
+"CAN ask simple questions of a factual nature and understand the answers "
+"provided these are expressed in simple language (for example, 'Where is the "
+"dining-room?' 'It's on the first floor', etc.)"
 msgstr ""
-"Je peux me faire comprendre d'une manière simple mais je suis dépendante de "
-"que mon partenaire soit prêt à répéter plus lentement et à reformuler ce que "
-"je dis et à m'aider à dire ce que je veux."
+"EST CAPABLE de poser des questions d'ordre pratique et comprendre les "
+"réponses si elles sont exprimées dans un langage simple (par exemple, \"Où "
+"est la salle à manger ?\" \"Elle est au premier étage\", etc.)"
 
-#: D004_A1_SI04
+#: D1_1_17_2
+msgid "CAN make simple complaints, for example 'The water is cold'"
+msgstr ""
+"EST CAPABLE de formuler des réclamations simples comme \"L'eau est froide\""
+
+#: D1_2_01_1
 msgid ""
-"I can make simple purchases where pointing or other gestures can support "
-"what I say."
+"CAN call an emergency number, give location and ask for relevant service"
 msgstr ""
-"Je peux faire des achats simples lorsque pointage ou d'autres gestes peuvent "
-"appuyer ce que je dis."
+"EST CAPABLE d'appeler un numéro d'urgence, de donner l'adresse et demander "
+"le service requis"
 
-#: D005_A1_SI05
-msgid "I can handle numbers, quantities, cost and time."
-msgstr "Je peux manipuler les nombres, les quantités, les coûts et le temps."
+#: D1_2_02_1
+msgid "Can tell a story or describe something in a simple list of points"
+msgstr ""
+"Peut raconter une histoire ou décrire quelque chose par une simple liste de "
+"points"
 
-#: D006_A1_SI06
-msgid "I can ask people for things and give people things."
-msgstr "Je peux demander quelque chose et donner aux gens des choses."
-
-#: D007_A1_SI07
+#: D1_2_02_2
 msgid ""
-"I can ask people questions about where they live, people they know, things "
-"they have etc. and answer such questions addressed to me provided they are "
-"articulated slowly and clearly."
+"Can describe everyday aspects of his/her environment e.g. people, places, a "
+"job or study experience"
 msgstr ""
-"Je peux poser des questions personnelles aux gens sur l'endroit où ils "
-"habitent, les gens qu'ils connaissent, des choses qu'ils ont etc. et "
-"répondre à mêmes questions adressées à moi si elles sont formulées lentement "
-"et distinctement."
+"Peut décrire les aspects de son environnement quotidien tels que les gens, "
+"les lieux, l'expérience professionnelle ou scolaire"
 
-#: D008_A1_SI08
+#: D1_2_02_3
+msgid "Can give short, basic descriptions of events and activities"
+msgstr ""
+"Peut faire une description brève et élémentaire d'un événement ou d'une "
+"activité "
+
+#: D1_2_02_4
 msgid ""
-"I can indicate time by such phrases as \"next week\", \"last Friday\", \"in "
-"November\", \"three o’clock\"."
+"Can describe plans and arrangements, habits and routines, past activities "
+"and personal experiences"
 msgstr ""
-"Je peux indiquer le temps avec des expressions telles que «la semaine "
-"prochaine», «vendredi dernier», «en Novembre\", \"trois heures\"."
+"Peut décrire des projets et préparatifs, des habitudes et occupations "
+"journalières, des activités passes et des expériences personnelles"
 
-#: D009_A1_SP01
+#: D1_2_02_5
 msgid ""
-"I can give personal information (address, telephone number, nationality, "
-"age, family, and hobbies)."
+"Can use simple descriptive language to make brief statements about and "
+"compare objects and possessions"
 msgstr ""
-"Je peux donner des informations personnelles (adresse, numéro de téléphone, "
-"nationalité, âge, famille, hobbys)."
+"Peut décrire et comparer brièvement, dans une langue simple, des objets et "
+"choses lui appartenant"
 
-#: D010_A1_SP02
-msgid "I can describe where I live."
-msgstr "Je peux décrire où j'habite"
+#: D1_2_02_6
+msgid "Can explain what he/she likes or dislikes about something"
+msgstr "Peut expliquer en quoi une chose lui plait ou lui déplaît"
 
-#: D011_A2_SI01
-msgid "I can make simple transactions in shops, post offices or banks."
-msgstr ""
-"Je peux effectuer des opérations simples dans les bureaux de poste, des "
-"magasins ou des banques."
-
-#: D012_A2_SI02
+#: D1_2_06_1
 msgid ""
-"I can use public transport: buses, trains, and taxis, ask for basic "
-"information and buy tickets."
+"CAN get the attention of staff in an appropriate way and order a meal in a "
+"restaurant"
 msgstr ""
-"Je peux utiliser les transports en commun: bus, trains et taxis, demander "
-"des informations de base et acheter des billets."
+"EST CAPABLE d'attirer correctement l'attention des serveurs et commander un "
+"repas"
 
-#: D013_A2_SI03
-msgid "I can get simple information about travel."
-msgstr "Je peux obtenir des renseignements simples sur un voyage."
+#: D1_2_06_2
+msgid "CAN ask simple questions about the menu and understand simple answers"
+msgstr ""
+"EST CAPABLE de poser des questions simples sur le menu et comprendre des "
+"réponses simples"
 
-#: D014_A2_SI04
-msgid "I can order something to eat or drink."
-msgstr "Je peux commander quelque chose pour manger ou boire"
+#: D1_2_06_3
+msgid "CAN express an opinion about food"
+msgstr "EST CAPABLE d'exprimer une opinion sur la nourriture"
 
-#: D015_A2_SI05
+#: D1_2_06_4
+msgid "CAN make simple complaints, for example, 'The food is cold'"
+msgstr ""
+"EST CAPABLE de formuler des réclamations simples comme \"Le plat est froid\""
+
+#: D1_2_07_1
 msgid ""
-"I can make simple purchases by stating what I want and asking the price."
+"CAN ask for what is required, if it is something which the shopkeeper can "
+"readily understand"
 msgstr ""
-"Je peux faire des achats simples en disant ce que je veux et en demandant le "
-"prix."
+"EST CAPABLE de demander ce qu'il désire s'il s'agit de quelque chose que le "
+"vendeur peut comprendre immédiatement"
 
-#: D016_A2_SI06
-msgid "I can ask for and give directions referring to a map or plan."
-msgstr "Je peux demander et indiquer le chemin en me servant d'un plan ou carte"
-
-#: D017_A2_SI07
-msgid "I can ask how people are and react to news."
-msgstr "Je peux demander aux gens comment ils vont et réagir aux réponses"
-
-#: D018_A2_SI08
-msgid "I can make and respond to invitations."
-msgstr "Je peux faire et de répondre aux invitations."
-
-#: D019_A2_SI09
-msgid "I can make and accept apologies."
-msgstr "Je peux présenter des excuses et les accepter"
-
-#: D020_A2_SI10
-msgid "I can say what I like and dislike."
-msgstr "Je peux dire ce que j'aime et ce que j'aime pas"
-
-#: D021_A2_SI11
+#: D1_2_07_2
 msgid ""
-"I can discuss with other people what to do, where to go, and make "
-"arrangements to meet."
+"Can ask about things and make simple transactions in shops, post offices or "
+"banks"
 msgstr ""
-"Je peux discuter avec d'autres personnes ce qu'il faut faire, où aller, et "
-"prendre des dispositions pour prendre rendez-vous."
+"Peut poser des questions et effectuer des transactions simples dans un "
+"magasin, un bureau de poste, une banque"
 
-#: D022_A2_SI12
+#: D1_2_07_3
 msgid ""
-"I can ask people questions about what they do at work and in free time, and "
-"answer such questions addressed to me."
+"Can give and receive information about quantities, numbers, prices, etc."
 msgstr ""
-"Je peux poser des questions aux gens sur ce qu'ils font au travail et le "
-"temps libre, et répondre à ces questions adressées à moi"
+"Peut demander et fournir des renseignements à propos d'une quantité, un "
+"nombre, un prix, etc."
 
-#: D023_A2_SP01
-msgid "I can describe myself, my family and other people."
-msgstr "Je peux me décrire moi même , ma famille et d'autres personnes."
-
-#: D024_A2_SP02
-msgid "I can describe where 1 live."
-msgstr "Je peux décrire où j'habite"
-
-#: D025_A2_SP03
-msgid "I can give short, basic descriptions of events."
-msgstr "Je peux faire une description brève de base d’évènements passés."
-
-#: D026_A2_SP04
+#: D1_2_07_4
 msgid ""
-"I can describe my educational background, my present or most recent job."
+"Can make simple purchases by stating what is wanted and asking the price"
 msgstr ""
-"Je peux décrire ma formation dans le passé,  mon activité professionnelle "
-"actuelle ou récente."
+"Peut faire un achat simple en indiquant ce qu'il/elle veut et en demandant "
+"le prix"
 
-#: D027_A2_SP05
-msgid "I can describe my hobbies and interests in a simple way."
-msgstr "Je peux décrire mes hobbies et intérêts d'une manière simple."
-
-#: D028_A2_SP06
+#: D1_2_08_1
 msgid ""
-"I can describe past experiences and personal experiences (e.g. the last "
-"weekend, my last holiday)."
+"CAN ask (face-to-face) for a medical appointment and understand the reply"
 msgstr ""
-"Je peux décrire des expériences passées et des expériences personnelles (par "
-"exemple, le week-end dernier, mes dernières vacances)."
+"EST CAPABLE de demander (en face à face) un rendez-vous avec le médecin et "
+"de comprendre la réponse"
 
-#: D029_B1_SI01
+#: D1_2_08_2
 msgid ""
-"I can start, maintain and close simple face-to-face conversation on topics "
-"that are familiar or of personal interest."
+"CAN indicate the nature of a problem to a 9 professional, perhaps using "
+"gestures and body language"
 msgstr ""
-"Je peux commencer, soutenir et terminer une simple  conversation "
-"face-à-faces sur des sujets familiers ou d'intérêt personnel."
+"EST CAPABLE d'indiquer la nature du problème à un professionnel de la santé "
+"en ayant peut être recours aux gestes et aux mimiques"
 
-#: D030_B1_SI02
+#: D1_2_13_1
+msgid "Can give a short, rehearsed, basic presentation on a familiar subject"
+msgstr "Peut faire un bref exposé élémentaire, répété, sur un sujet familier"
+
+#: D1_2_13_2
 msgid ""
-"I can maintain a conversation or discussion but may sometimes be difficult "
-"to follow when trying to say exactly what I would like to."
+"Can give a short, rehearsed presentation on a topic pertinent to his/her "
+"everyday life, briefly give reasons and explanations for opinions, plans and "
+"actions"
 msgstr ""
-"Je peux soutenir une conversation ou une discussion mais je peut parfois "
-"avoir du mal à suivre lorsque je essaie de dire exactement ce que je "
-"voudrais."
+"Peut faire un bref exposé préparé sur un sujet relatif à sa vie quotidienne, "
+"donner brièvement des justifications et des explications pour ses opinions, "
+"ses projets et ses actes"
 
-#: D031_B1_SI03
+#: D1_2_14_1
 msgid ""
-"I can deal with most situations likely to arise when making travel "
-"arrangements through an agent or when actually travelling."
+"CAN ask for and understand the required information from a tourist office, "
+"provided this is of a familiar, non-specialised nature"
 msgstr ""
-"Je peux faire face à la plupart des situations susceptibles de se produire "
-"en réservant un voyage auprès d'une agence ou lors d'un voyage."
+"EST CAPABLE de demander et comprendre une information dans un bureau de "
+"tourisme si l'information est simple et non spécialisée"
 
-#: D032_B1_SI04
-msgid "I can ask for and follow detailed directions."
-msgstr "Je peux demander le chemin et le suivre"
+#: D1_2_14_2
+msgid "CAN give simple explanations about familiar places"
+msgstr ""
+"EST CAPABLE de donner des explications simples concernant des lieux connus"
 
-#: D033_B1_SI05
+#: D1_2_15_1
 msgid ""
-"I can express and respond to feelings such as surprise, happiness, sadness, "
-"interest and indifference."
+"Can establish social contact: greetings and farewells; introductions; giving "
+"thanks"
 msgstr ""
-"Je peux exprimer et réagir à des sentiments tels que la surprise, la joie, "
-"la tristesse, la curiosité et l'indifférence."
+"Peut établir un contact social: salutations et congé; remerciements ; "
+"présentations"
 
-#: D034_B1_SI06
+#: D1_2_15_2
+msgid "Can express how he/she feels in simple terms, and express thanks"
+msgstr "Peut dire en termes simples comment il/elle va et remercier"
+
+#: D1_2_15_3
+msgid "Can make and respond to invitations, suggestions and apologies"
+msgstr "Peut faire et accepter une offre, une invitation et des excuses"
+
+#: D1_2_15_4
+msgid "Can say what he/she likes and dislikes"
+msgstr "Peut dire ce qu'il/elle aime ou non"
+
+#: D1_2_16_1
 msgid ""
-"I can give or seek personal views and opinions in an informal discussion "
-"with friends."
+"Can describe his/her family, living conditions, educational background, "
+"present or most recent job"
 msgstr ""
-"Je peux donner ou solliciter des avis personnelles dans une discussion "
-"informelle entre amis."
+"Peut décrire sa famille, ses conditions de vie, sa formation, son travail "
+"actuel ou le dernier en date"
 
-#: D035_B1_SI07
-msgid "I can agree and disagree politely."
-msgstr "Je peux montrer mon accord ou désaccord poliment"
+#: D1_2_16_2
+msgid "Can describe people, places and possessions in simple terms"
+msgstr "Peut décrire les gens, lieux et choses en termes simples"
 
-#: D036_B1_SP01
-msgid "I can narrate a story."
-msgstr "Je peux raconter une histoire"
+#: D1_2_17_1
+msgid "CAN book a room (face-to-face) in a hotel, bed and breakfast, etc."
+msgstr ""
+"EST CAPABLE de demander (en face à face) une chambre dans un hôtel ou en "
+"chambre d'hôte"
 
-#: D037_B1_SP02
+#: D1_2_17_2
 msgid ""
-"I can give detailed accounts of experiences, describing feelings and "
-"reactions."
+"CAN make a complaint about simple matters, for example 'The light in my room "
+"doesn't work.'"
 msgstr ""
-"Je peux raconter en détail des expériences en décrivant des sentiments et "
-"réactions."
+"EST CAPABLE de formuler une réclamation simple, par exemple \"La lumière ne "
+"marche pas dans ma chambre\""
 
-#: D038_B1_SP03
-msgid "I can describe dreams, hopes and ambitions."
-msgstr "Je peux décrire des rêves, espoirs et ambitions."
-
-#: D039_B1_SP04
-msgid "I can explain and give reasons for my plans, intentions and actions."
-msgstr "Je peux expliquer et raisonner mes plans, intentions et actions."
-
-#: D040_B1_SP05
-msgid "I can relate the plot of a book or film and describe my reactions."
-msgstr ""
-"Je peux raconter l'intrigue d'un livre ou d'un film et exprimer mes "
-"réactions."
-
-#: D041_B1_SP06
+#: D1_2_18_1
 msgid ""
-"I can paraphrase short written passages orally in a simple fashion, using "
-"the original text wording and ordering."
+"CAN participate in a simple phone conversation with a known person on a "
+"predictable topic, e.g. 21 arrangements"
 msgstr ""
-"Je peux paraphraser oralement de façon simple courts passages écrits, en "
-"utilisant les même mots et dans son ordre"
+"EST CAPABLE de soutenir une conversation téléphonique avec une personne "
+"connue sur un sujet convenu comme les préparatifs d'un voyage"
 
-#: D042_B2_SI01
+#: D1_2_19_1
 msgid ""
-"I can initiate, maintain and end discourse naturally with effective turn-"
-"taking."
+"CAN, on arrival in a foreign country, answer routine questions such as 'How "
+"long are you staying?' and respond appropriately to instructions such as "
+"'Open your suitcase', etc."
 msgstr ""
-"Je peux commencer, soutenir et terminer une conversation avec sa prise de "
-"parole naturelle"
+"EST CAPABLE, en arrivant dans un pays étranger, de répondre aux questions "
+"courantes du type \"Combien de jours resterez-vous ?\" et réagir de manière "
+"adéquate aux instructions du type \"Ouvrez votre valise\""
 
-#: D043_B2_SI02
+#: D1_2_19_2
 msgid ""
-"I can exchange considerable quantities of detailed factual information on "
-"matters within my fields of interest."
+"CAN give and understand straightforward directions, provided that these are "
+"not lengthy and/or complex"
 msgstr ""
-"Je peux échanger des quantités considérables d'informations détaillées sur "
-"des questions qui relèvent de mes champs d'intérêt."
+"EST CAPABLE de donner et comprendre des indications simples si elles ne sont "
+"pas longues et/ou compliquées"
 
-#: D044_B2_SI03
+#: D1_2_19_3
 msgid ""
-"I can convey degrees of emotion and highlight the personal significance of "
-"events and experiences."
+"CAN go to a 21 information centre at, for example, a railway/bus station and "
+"ask for information as to how to get from A to B"
 msgstr ""
-"Je peux exprimer des émotions et mettre en évidence la signification "
-"personnelle de faits et d'expériences."
+"EST CAPABLE d'aller dans un centre d'information sur des voyages, par "
+"exemple une gare ferroviaire ou routière et demander comment se rendre d'un "
+"lieu à un autre"
 
-#: D045_B2_SI04
+#: D1_2_19_4
+msgid "CAN ask to book tickets"
+msgstr "EST CAPABLE de réserver des billets"
+
+#: D1_2_20_1
 msgid ""
-"I can engage in extended conversation in a clearly participatory fashion on "
-"most general topics."
+"CAN ask for simple post office services (e.g. 'I want to send this to Oman', "
+"'One first class stamp, please')"
 msgstr ""
-"Je peux participer activement à une conversation d'une certaine longueur sur "
-"la plupart des sujets généraux."
+"EST CAPABLE de demander des services simples dans un bureau de poste (\"Je "
+"voudrais envoyer ceci à Oman\", \"Un timbre, au tarif normal, S.V.P.\")"
 
-#: D046_B2_SI05
+#: D1_2_20_2
+msgid "CAN ask to change money at a bank (e.g. 'Can I change these here?')"
+msgstr ""
+"EST CAPABLE de demander de changer des devises dans une banque, (de dire par "
+"exemple, \"Est-ce que je peux changer cet argent ici ?)"
+
+#: D1_3_01_1
 msgid ""
-"I can account for and sustain my opinions in discussion by providing "
-"relevant explanations, arguments and comments."
+"CAN indicate nature of problem and understand simple instructions and "
+"questions"
 msgstr ""
-"Je peux présenter et défendre mes opinions dans une discussion en apportant "
-"des explications appropriées, des arguments et commentaires."
+"EST CAPABLE d'indiquer la nature du problème et de comprendre des questions "
+"et des instructions simples"
 
-#: D047_B2_SI06
+#: D1_3_02_1
 msgid ""
-"I can help a discussion along on familiar ground confirming comprehension, "
-"inviting others in etc."
+"Can give straightforward descriptions on a variety of familiar subjects "
+"within his/her field of interest"
 msgstr ""
-"Je peux participer à une conversation, en montrant ma compréhension, et en "
-"invitant à d'autres personnes à participer, etc."
+"Peut faire une description directe et simple de sujets familiers variés dans "
+"le cadre de son domaine d'intérêt"
 
-#: D048_B2_SI07
+#: D1_3_02_2
 msgid ""
-"I can carry out a prepared interview, checking and confirming information, "
-"following up interesting replies."
+"Can reasonably fluently relate a straightforward narrative or description as "
+"a linear sequence of points"
 msgstr ""
-"Je peux participer à un entretien préparé, vérifier et confirmer les "
-"informations, les réponses intéressantes."
+"Peut rapporter assez couramment une narration ou une description simple sous "
+"forme d'une suite de points"
 
-#: D049_B2_SP01
+#: D1_3_02_3
 msgid ""
-"I can give clear, detailed descriptions on a wide range of subjects related "
-"to my fields of interest."
+"Can give detailed accounts of experiences, describing feelings and reactions"
 msgstr ""
-"Je peux donner des descriptions claires et détaillées sur une vaste gamme de "
-"sujets relatifs à mes centres d'intérêt."
+"Peut relater en détail ses expériences en décrivant ses sentiments et ses "
+"réactions"
 
-#: D050_B2_SP02
+#: D1_3_02_4
+msgid "Can relate details of unpredictable occurrences, e.g. an accident"
+msgstr ""
+"Peut relater les détails essentiels d'un événement fortuit, tel un accident "
+
+#: D1_3_02_5
+msgid "Can relate the plot of a book or film and describe his/her reactions"
+msgstr ""
+"Peut raconteur l'intrigue d'un livre ou d'un film et décrire ses propres "
+"réactions"
+
+#: D1_3_02_6
+msgid "Can describe dreams, hopes and ambitions"
+msgstr "Peut décrire un rêve, un espoir ou une ambition"
+
+#: D1_3_02_7
+msgid "Can describe events, real or imagined"
+msgstr "Peut décrire un événement, réel ou imaginaire"
+
+#: D1_3_03_1
 msgid ""
-"I can understand and summarise orally short extracts from news items, "
-"interviews or documentaries containing opinions, argument and discussion."
+"Can develop an argument well enough to be followed without difficulty most "
+"of the time"
 msgstr ""
-"Je peux comprendre et résumer oralement de courts extraits des actualités, "
-"des interviews et des documentaires contenant des opinions, arguments et "
-"discussion."
+"Peut développer une argumentation suffisamment bien pour être compris sans "
+"difficulté la plupart du temps"
 
-#: D051_B2_SP03
+#: D1_3_03_2
 msgid ""
-"I can understand and summarise orally the plot and sequence of events in an "
-"extract from a film or play."
+"Can briefly give reasons and explanations for opinions, plans and actions"
 msgstr ""
-"Je peux comprendre et résumer oralement l'intrigue et la suite des "
-"événements dans un extrait d'un film ou d'une pièce de theatre."
+"Peut donner brièvement raisons et explications relatives à des opinions, "
+"projets et actions"
 
-#: D052_B2_SP04
+#: D1_3_06_1
+msgid "CAN order a meal in a restaurant"
+msgstr "EST CAPABLE de commander un repas dans un restaurant"
+
+#: D1_3_06_2
 msgid ""
-"I can construct a chain of reasoned argument, linking my ideas logically."
+"CAN ask basic questions about the food in relation to the menu, and about "
+"the services available (e.g. use of credit cards, availability of high-"
+"chairs or half-portions for children)"
 msgstr ""
-"Je peux construire une chaîne de raisonnement logique et enchaîner mes idées "
-"de façon logique."
+"EST CAPABLE de poser des questions simples sur la nourriture en rapport avec "
+"le menu et sur la possibilité de certains services (utilisation de cartes "
+"de crédit, possibilité de chaises hautes et de demi-portions pour les "
+"enfants)"
 
-#: D053_B2_SP05
+#: D1_3_06_3
 msgid ""
-"I can explain a viewpoint on a topical issue giving the advantages and "
-"disadvantages of various options."
+"CAN ask basic questions about the food and understand most explanations that "
+"are likely to be given in such establishments (e.g. when a vegetarian or "
+"someone keeping dietary laws or forbidden certain foods for medical reasons "
+"has to check the contents of a dish)"
 msgstr ""
-"Je peux développer un point de vue sur un sujet d'actualité et exposer les "
-"avantages et les inconvénients de différentes possibilités."
+"EST CAPABLE de poser des questions simples sur la nourriture et comprendre "
+"la plupart des explications qui peuvent être données dans de tels "
+"établissements (par exemple quand un végétarien ou une personne au régime, "
+"pour raisons médicales ou non, doit vérifier la composition du plat)"
 
-#: D054_B2_SP06
-msgid "I can speculate about causes, consequences, hypothetical situations."
-msgstr ""
-"Je peux spéculer sur les causes, les conséquences, les situations "
-"hypothétiques."
-
-#: D055_C1_SI01
-msgid "I can keep up with an animated conversation between native speakers."
-msgstr "Je peux suivre une conversation animée entre locuteurs natifs."
-
-#: D056_C1_SI02
+#: D1_3_06_4
 msgid ""
-"I can use the language fluently, accurately and effectively on a wide range "
-"of general, professional or academic topics."
+"CAN make a complaint about straightforward matters, for example, the service "
+"or the bill"
 msgstr ""
-"Je peux utiliser la langue avec aisance, correction et efficacité dans un "
-"large éventail de thèmes généraux, professionnels ou académiques."
+"EST CAPABLE de se plaindre de choses simples, par exemple du service ou de "
+"l'addition"
 
-#: D057_C1_SI03
+#: D1_3_07_1
+msgid "CAN go to a counter service shop and ask for most of what (s)he wants"
+msgstr ""
+"EST CAPABLE d'aller dans un petit commerce et demander l'essentiel de ce "
+"qu'il veut"
+
+#: D1_3_08_1
 msgid ""
-"I can use language flexibly and effectively for social purposes, including "
-"emotional, allusive and joking usage."
+"CAN ask over the phone for a medical appointment and understand the reply"
 msgstr ""
-"Je peux utiliser la langue de façon efficace et souple dans sa vie sociale, "
-"y compris un registre affectif, allusif ou humoristique."
+"EST CAPABLE de demander un rendez-vous avec le médecin et comprendre la "
+"réponse"
 
-#: D058_C1_SI04
+#: D1_3_08_2
 msgid ""
-"I can express my ideas and opinions clearly and precisely, and can present "
-"and respond to complex lines of reasoning convincingly."
+"CAN explain what is wrong in straightforward terms at a chemist's, doctor's, "
+"hospital or dentist's, especially if symptoms are visible"
 msgstr ""
-"Je peux exprimer mes idées et opinions avec clarté et précision, et peut "
-"présenter et répondre à un raisonnement complexe de façon convaincante."
+"EST CAPABLE de décrire ses symptômes dans un langage simple chez un "
+"pharmacien, à l'hôpital, chez le médecin ou chez le dentiste"
 
-#: D059_C1_SP01
-msgid "I can give clear, detailed descriptions of complex subjects."
-msgstr ""
-"Je peux donner des descriptions claires et détaillées de sujets complexes."
-
-#: D060_C1_SP02
-msgid "I can orally summarise long, demanding texts."
-msgstr "I can orally summarise long, demanding texts."
-
-#: D061_C1_SP03
+#: D1_3_08_3
 msgid ""
-"I can give an extended description or account of something, integrating "
-"themes, developing particular points and concluding appropriately."
-msgstr "Je peux résumer oralement un texte long et exigeant."
-
-#: D062_C1_SP04
-msgid ""
-"I can give a clearly developed presentation on a subject in my fields of "
-"personal or professional interest, departing when necessary from the "
-"prepared text and following up spontaneously points raised by members of the "
-"audience."
+"CAN ask for advice and understand the answer, provided this is given in "
+"everyday language"
 msgstr ""
-"Je peux faire un exposé clair et structuré sur un sujet dans mes domaines "
-"d'intérêt personnel ou professionnel, commençant si nécessaire avec un texte "
-"préparé et en répondant spontanément aux questions des membres de "
-"l'auditoire."
+"EST CAPABLE de demander un avis et comprendre la réponse si elle est "
+"exprimée en langage courant"
 
-#: D063_C2_SI01
+#: D1_3_13_1
 msgid ""
-"I can take part effortlessly in all conversations and discussions with "
-"native speakers."
+"Can give a prepared straightforward presentation on a familiar topic within "
+"his/her field which is clear enough to be followed without difficulty most "
+"of the time, and in which the main points are explained with reasonable "
+"precision"
 msgstr ""
-"Je peux participer sans effort à toutes les conversations et les discussions "
-"avec des locuteurs natifs."
+"Peut faire un exposé simple et direct, préparé, sur un sujet familier dans "
+"son domaine qui soit assez clair pour être suivi sans difficulté la plupart "
+"du temps et dans lequel les points importants soient expliqués avec assez de "
+"précision"
 
-#: D064_C2_SP01
+#: D1_3_14_1
 msgid ""
-"I can summarise orally information from different sources, reconstructing "
-"arguments and accounts in a coherent presentation."
+"CAN give simple information to a visitor about familiar places, for example "
+"her/his own school, city etc."
 msgstr ""
-"Je peux résumer oralement des informations provenant de différentes sources, "
-"et reconstruire les arguments et récits d'une façon cohérente."
+"EST CAPABLE de donner des informations simples à un visiteur concernant des "
+"endroits connus, par exemple, son école, sa ville etc."
 
-#: D065_C2_SP02
+#: D1_3_14_2
+msgid "CAN answer simple, predictable questions"
+msgstr "EST CAPABLE de répondre à des questions simples et prévisibles"
+
+#: D1_3_15_1
 msgid ""
-"I can present ideas and viewpoints in a very flexible manner in order to "
-"give emphasis, to differentiate and to eliminate ambiguity."
+"CAN participate in a conversation in a casual or semi-formal situation for a "
+"short time"
 msgstr ""
-"Je peux présenter des idées et des points de vue de manière très flexible "
-"afin de mettre l'accent,  différencier et éliminer toute ambiguïté."
+"EST CAPABLE de participer à une conversation à bâtons rompus ou semi "
+"formelle durant une courte période de temps"
+
+#: D1_3_15_2
+msgid ""
+"Can compare and contrast alternatives, discussing what to do, where to go, "
+"who or which to choose, etc."
+msgstr ""
+"Peut comparer et opposer des alternatives en discutant de ce qu'il faut "
+"faire, où il faut aller, qui désigner, qui ou quoi choisir, etc."
+
+#: D1_3_15_3
+msgid "Can enter unprepared into conversations on familiar topics"
+msgstr "Peut aborder sans préparation une conversation sur un sujet familier"
+
+#: D1_3_15_4
+msgid ""
+"Can maintain a conversation or discussion but may sometimes be difficult to "
+"follow when trying to say exactly what he/she would like to"
+msgstr ""
+"Peut soutenir une conversation ou une discussion mais risqué d'être "
+"quelquefois difficile à suivre lorsqu'il/elle essaie de formuler exactement "
+"ce qu'il/elle aimerait dire"
+
+#: D1_3_15_5
+msgid ""
+"Can express and respond to feelings such as surprise, happiness, sadness, "
+"interest and indifference"
+msgstr ""
+"Peut réagir à des sentiments tels que la surprise, la joie, la tristesse, la "
+"curiosité et l'indifférence et peut les exprimer"
+
+#: D1_3_17_1
+msgid "CAN book a room in a hotel over the phone"
+msgstr "EST CAPABLE de demander une chambre d'hôtel par téléphone"
+
+#: D1_3_17_2
+msgid ""
+"CAN establish to his/her own satisfaction that the accommodation on offer "
+"fulfils all his/her needs"
+msgstr "EST CAPABLE de dire que la chambre proposée lui convient"
+
+#: D1_3_17_3
+msgid ""
+"CAN deal with most situations likely to arise in a hotel, such as messages, "
+"ordering, etc"
+msgstr ""
+"EST CAPABLE de faire face aux situations qui peuvent se présenter dans un "
+"hôtel (messages, commandes, etc.)"
+
+#: D1_3_19_1
+msgid "CAN go to a rental firm and ask to hire a car, boat etc."
+msgstr ""
+"EST CAPABLE de se présenter à une agence de location et demander à louer une "
+"voiture/un bateau, etc."
+
+#: D1_3_19_2
+msgid ""
+"CAN deal with most routine situations likely to arise when either making 21 "
+"arrangements through a 21 agent or when actually travelling (e.g. buying "
+"tickets, checking in at an airport)"
+msgstr ""
+"EST CAPABLE de faire face aux situations pouvant se présenter dans "
+"l'organisation d'un voyage avec une agence ou se présentant pendant un "
+"voyage (achat des billets, enregistrement à l'aéroport)"
+
+#: D1_3_20_1
+msgid ""
+"CAN ask to open an account at a bank provided that the procedure is "
+"straightforward"
+msgstr ""
+"EST CAPABLE de demander d'ouvrir un compte dans une banque si la procédure "
+"est simple"
+
+#: D1_4_01_1
+msgid ""
+"CAN give a report of an emergency incident, e.g. describe the circumstances "
+"of a theft to the police, give details of vehicle breakdown"
+msgstr ""
+"EST CAPABLE de faire un compte rendu en cas d'urgence, par exemple décrire "
+"les circonstances d'un vol à la police, donner des informations détaillées "
+"sur une panne de voiture"
+
+#: D1_4_02_1
+msgid ""
+"Can give clear, detailed descriptions on a wide range of subjects related to "
+"his/her field of interest"
+msgstr ""
+"Peut faire une description claire et détaillée d'une gamme étendue de sujets "
+"en relation avec son domaine d'intérêt"
+
+#: D1_4_03_1
+msgid ""
+"Can develop an argument systematically with appropriate highlighting of "
+"significant points, and relevant  supporting detail"
+msgstr ""
+"Peut développer méthodiquement une argumentation en mettant en évidence les "
+"points significatifs et les éléments pertinents"
+
+#: D1_4_03_2
+msgid ""
+"Can develop a clear argument, expanding and supporting his/her points of "
+"view at some length with subsidiary points and relevant examples"
+msgstr ""
+"Peut développer une argumentation claire, en élargissant et confirmant ses "
+"points de vue par des arguments secondaires et des exemples pertinents"
+
+#: D1_4_03_3
+msgid "Can construct a chain of reasoned argument"
+msgstr "Peut enchaîner des arguments avec logique"
+
+#: D1_4_03_4
+msgid ""
+"Can explain a viewpoint on a topical issue giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+"Peut expliquer un point de vue sur un problème en donnant les avantages et "
+"les inconvénients d'options diverses"
+
+#: D1_4_06_1
+msgid "CAN order a meal and ask for clarification about dishes on the menu"
+msgstr ""
+"EST CAPABLE de commander un repas et demander des éclaircissements sur des "
+"plats au menu"
+
+#: D1_4_06_2
+msgid ""
+"CAN maintain an interaction related to the nature and quality of the food"
+msgstr ""
+"EST CAPABLE de maintenir une conversation sur la nature et la qualité de la "
+"nourriture"
+
+#: D1_4_06_3
+msgid ""
+"CAN complain effectively about most situations that are likely to arise in a "
+"restaurant"
+msgstr ""
+"EST CAPABLE de se plaindre dans la plupart des situations qui peuvent se "
+"présenter dans un restaurant"
+
+#: D1_4_07_1
+msgid "CAN ask effectively for refund or exchange of faulty or unwanted goods"
+msgstr ""
+"EST CAPABLE de demander l'échange ou le remboursement d'une marchandise "
+"défectueuse ou qu'il ne désire plus"
+
+#: D1_4_07_2
+msgid "CAN bargain for what (s)he wants and reach an agreement"
+msgstr "EST CAPABLE de marchander et conclure un accord"
+
+#: D1_4_13_1
+msgid ""
+"Can give a clear, prepared presentation, giving reasons in support of or "
+"against a particular point of view and giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+"Peut développer un exposé de manière claire et méthodique en soulignant les "
+"points significatifs et les éléments pertinents"
+
+#: D1_4_13_2
+msgid ""
+"Can give a clear, systematically developed presentation, with highlighting "
+"of significant points, and relevant supporting detail"
+msgstr ""
+"Peut faire un exposé clair, préparé, en avançant des raisons pour ou contre "
+"un point de vue particulier et en présentant les avantages et les "
+"inconvénients d'options diverses "
+
+#: D1_4_15_1
+msgid ""
+"CAN keep up a conversation on a fairly wide range of topics, e.g. personal "
+"and professional experiences, events currently in the news"
+msgstr ""
+"EST CAPABLE de soutenir une conversation sur un grand éventail de sujets, "
+"comme les expériences personnelles ou professionnelles, les faits "
+"d'actualité"
+
+#: D1_4_15_2
+msgid "CAN express opinions on abstract/cultural matters, and defend them"
+msgstr ""
+"EST CAPABLE d'exprimer des opinions sur des sujets abstraits/culturels et de "
+"les défendre"
+
+#: D1_4_15_3
+msgid ""
+"Can convey degrees of emotion and highlight the personal significance of "
+"events and experiences"
+msgstr ""
+"Peut transmettre différents degrés d'émotion et souligner ce qui est "
+"important pour lui/elle dans un événement ou une expérience"
+
+#: D1_4_17_1
+msgid ""
+"CAN argue/complain effectively about most problem areas that are likely to "
+"occur"
+msgstr ""
+"EST CAPABLE de réclamer et d'argumenter concernant la plupart des problèmes "
+"qui peuvent se présenter"
+
+#: D1_4_18_1
+msgid ""
+"CAN participate in casual conversation over the phone with a known person on "
+"a variety of topics"
+msgstr ""
+"EST CAPABLE de soutenir une conversation téléphonique familière avec une "
+"personne connue sur une variété de sujets"
+
+#: D1_4_19_1
+msgid "CAN deal with all kinds of 21 arrangements and travelling"
+msgstr ""
+"EST CAPABLE de s'occuper de tous les préparatifs d'un voyage et du voyage "
+"lui-même"
+
+#: D1_4_20_1
+msgid ""
+"CAN ask questions related to different types of post office services and "
+"understand answers if sympathetically expressed"
+msgstr ""
+"EST CAPABLE de poser des questions concernant les différents services "
+"proposés par la poste et comprendre les réponses si elles sont exprimées "
+"clairement"
+
+#: D1_5_02_1
+msgid "Can give clear, detailed descriptions of complex subjects"
+msgstr "Peut faire une description claire et détaillée de sujets complexes"
+
+#: D1_5_02_2
+msgid ""
+"Can give elaborate descriptions and narratives, integrating sub-themes, "
+"developing particular points and rounding off with an appropriate conclusion"
+msgstr ""
+"Peut faire une description ou une narration élaborée, en y intégrant des "
+"thèmes secondaires, en développant certains points et en terminant par une "
+"conclusion appropriée"
+
+#: D1_5_02_3
+msgid ""
+"Can give clear, smoothly flowing, elaborate and often memorable descriptions"
+msgstr ""
+"Peut faire des descriptions limpides et courantes, élaborées et souvent "
+"mémorables"
+
+#: D1_5_08_1
+msgid ""
+"CAN enquire effectively about 9 services provided, entitlements and "
+"procedures involved"
+msgstr ""
+"EST CAPABLE de poser des questions sur les différents services de santé "
+"proposés, ses droits et les procédures à suivre"
+
+#: D1_5_08_2
+msgid ""
+"CAN describe non-visible symptoms such as different kinds of pain, for "
+"example 'dull', 'stabbing', 'throbbing' etc."
+msgstr ""
+"EST CAPABLE de décrire des symptômes non visibles tels que des douleurs de "
+"type différent comme \"sourde\", \"lancinante\", \"élancée\""
+
+#: D1_5_13_1
+msgid ""
+"Can give a clear, well-structured presentation of a complex subject, "
+"expanding and supporting points of view at some length with subsidiary "
+"points, reasons and relevant examples"
+msgstr ""
+"Peut faire un exposé clair et bien structure sur un sujet complexe, "
+"développant et confirmant ses points de vue assez longuement à l'aide de "
+"points secondaires, de justifications et d'exemples pertinents"
+
+#: D1_5_13_2
+msgid ""
+"Can present a complex topic confidently and articulately to an audience "
+"unfamiliar with it, structuring and adapting the talk flexibly to meet the "
+"audience's needs"
+msgstr ""
+"Peut présenter un sujet complexe, bien construit, avec assurance à un "
+"auditoire pour qui il n'est pas familier, en structurant et adaptant "
+"l'exposé avec souplesse pour répondre aux besoins de cet auditoire"
+
+#: D1_5_14_1
+msgid "CAN show visitors round and give a detailed description of a place"
+msgstr ""
+"EST CAPABLE de faire visiter un lieu et en donner une description détaillée"
+
+#: D1_5_15_1
+msgid ""
+"CAN participate in casual conversations with appropriacy and good "
+"understanding of humour, irony and implicit cultural references"
+msgstr ""
+"EST CAPABLE de participer à des conversations à bâtons rompus de manière "
+"adéquate et de bien comprendre l'humour, l'ironie et les références "
+"culturelles implicites"
+
+#: D1_5_15_2
+msgid "CAN pick up nuances of meaning/opinion"
+msgstr "EST CAPABLE de saisir les nuances de sens et d'opinion"
+
+#: D1_5_20_1
+msgid ""
+"CAN deal effectively with most routine transactions in a bank or post office"
+msgstr ""
+"EST CAPABLE de faire face à la plupart des transactions habituelles à la "
+"poste ou à la banque"
+
+#: D2_1_11_1
+msgid "CAN ask very simple questions for information, such as 'What is this?'"
+msgstr ""
+"EST CAPABLE de poser des questions simples du type \"Qu'est-ce que c'est ?\""
+
+#: D2_2_11_1
+msgid "CAN understand and ask simple questions and understand simple answers"
+msgstr ""
+"EST CAPABLE de comprendre des questions simples et courantes et d'y répondre"
+
+#: D2_2_11_2
+msgid "CAN express simple opinions using expressions such as 'I don't agree'"
+msgstr ""
+"EST CAPABLE d'exprimer des opinions simples, en utilisant des expressions "
+"telles que \"Je ne suis pas d'accord\""
+
+#: D2_2_11_3
+msgid ""
+"Can exchange relevant information and give his/her opinion on practical "
+"problems when asked directly"
+msgstr ""
+"Peut échanger des informations pertinentes et donner son opinion sur des "
+"problèmes pratiques si on le/la sollicite directement"
+
+#: D2_2_11_4
+msgctxt "D2_2_11_4"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+"Peut communiquer dans le cadre d'une tâche simple et routinière ne demandant "
+"qu'un échange d'information simple et direct"
+
+#: D2_3_05_1
+msgid ""
+"CAN give a short, simple presentation or demonstration on a familiar topic"
+msgstr ""
+"EST CAPABLE de faire une présentation courte et simple sur un thème familier"
+
+#: D2_3_11_1
+msgid ""
+"CAN take a limited part in a seminar or tutorial, provided that this is "
+"conducted sympathetically, using simple language"
+msgstr ""
+"EST CAPABLE de participer de façon limitée à un séminaire ou à des travaux "
+"dirigés s'ils sont conduits avec bienveillance en utilisant un langage "
+"simple"
+
+#: D2_3_11_2
+msgid ""
+"Can take part in routine formal discussion of familiar subjects which is "
+"conducted in clearly articulated speech in the standard dialect and which "
+"involves the exchange of factual information, receiving instructions or the "
+"discussion of solutions to practical problems"
+msgstr ""
+"Peut prendre part à une discussion formelle courante sur un sujet familier "
+"conduite dans une langue standard clairement articulée et qui suppose "
+"l'échange d'informations factuelles, en recevant des instructions ou la "
+"discussion de solutions à des problèmes pratiques"
+
+#: D2_3_11_3
+msgid ""
+"CAN ask for clarification, but this needs to be given sympathetically in "
+"order for it to be understood"
+msgstr ""
+"EST CAPABLE de demander des éclaircissements mais ils devront être donnés "
+"avec bienveillance pour être compris"
+
+#: D2_3_11_4
+msgid ""
+"Can put over a point of view clearly, but has difficulty engaging in debate"
+msgstr ""
+"Peut exprimer clairement un point de vue mais a du mal à engager un débat"
+
+#: D2_3_11_5
+msgctxt "D2_3_11_5"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+"Peut expliquer pourquoi quelque chose pose problème, discuter de la suite à "
+"donner, comparer et opposer les solutions"
+
+#: D2_3_11_6
+msgctxt "D2_3_11_6"
+msgid "Can give brief comments on the views of others"
+msgstr "Peut commenter brièvement le point de vue d'autrui"
+
+#: D2_3_11_7
+msgid ""
+"Can summarise and give his or her opinion about a short story, article, "
+"talk, discussion, interview, or documentary and answer further questions of "
+"detail"
+msgstr ""
+"Peut résumer – en donnant son opinion – un bref récit, un article, un "
+"exposé, une discussion, une interview ou un documentaire et répondre à "
+"d'éventuelles questions complémentaires de détail"
+
+#: D2_4_05_1
+msgid "CAN give a clear presentation on a familiar topic"
+msgstr "EST CAPABLE de présenter clairement un thème familier"
+
+#: D2_4_05_2
+msgid "CAN answer predictable or factual questions"
+msgstr "EST CAPABLE de répondre à des questions courantes et factuelles"
+
+#: D2_4_09_1
+msgid "CAN check that all instructions are understood"
+msgstr "EST CAPABLE de vérifier que toutes les indications sont comprises"
+
+#: D2_4_11_1
+msgctxt "D2_4_11_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+"Peut exprimer ses idées et ses opinions avec précision et argumenter avec "
+"conviction sur des sujets complexes et réagir de même aux arguments d'autrui"
+
+#: D2_4_11_2
+msgctxt "D2_4_11_2"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+"Peut esquisser clairement à grands traits une question ou un problème, faire "
+"des spéculations sur les causes et les conséquences, et mesurer les "
+"avantages et les inconvénients des différentes approches"
+
+#: D2_4_11_3
+msgid ""
+"Can synthesise and report information and arguments from a number of sources"
+msgstr ""
+"Peut faire la synthèse d'informations et d'arguments issus de sources "
+"différentes et en rendre compte"
+
+#: D2_4_11_4
+msgid "CAN ask questions, for example for reasons, clarification etc."
+msgstr ""
+"EST CAPABLE de poser des questions concernant, par exemple, des motifs de "
+"demander, des éclaircissements, etc."
+
+#: D2_5_05_1
+msgid "CAN rebut criticisms without causing offence"
+msgstr "EST CAPABLE de faire face aux critiques sans agressivité"
+
+#: D2_5_05_2
+msgid "CAN give coherent explanations of a theoretical nature"
+msgstr "EST CAPABLE de donner des explications théoriques cohérentes"
+
+#: D2_5_05_3
+msgid "CAN give an effective presentation or demonstration"
+msgstr "EST CAPABLE de faire efficacement une présentation ou une démonstration"
+
+#: D2_5_05_4
+msgid "CAN answer unpredictable questions of a factual nature"
+msgstr ""
+"EST CAPABLE de répondre à des questions imprévues qui portent sur des faits"
+
+#: D2_5_09_1
+msgid ""
+"CAN make all necessary arrangements regarding practical arrangements for "
+"study in or out of classroom with teachers, lecturers, lab and library "
+"staff, etc."
+msgstr ""
+"EST CAPABLE de prendre toutes les dispositions nécessaires pour "
+"l'organisation pratique du travail en classe ou hors de la classe avec les "
+"enseignants et le personnel du laboratoire et de la bibliothèque"
+
+#: D2_5_11_1
+msgid "CAN reformulate questions if misunderstood"
+msgstr "EST CAPABLE de reformuler des questions si elles sont mal comprises"
+
+#: D2_5_11_2
+msgid ""
+"CAN make critical remarks / express disagreement without causing offence"
+msgstr ""
+"EST CAPABLE de faire des remarques critiques, d'exprimer son désaccord sans "
+"offenser les autres"
+
+#: D2_5_11_3
+msgid "CAN take an active part in most kinds of seminars or tutorials"
+msgstr ""
+"EST CAPABLE de participer à la plupart des séminaires ou travaux dirigés"
+
+#: D2_5_11_4
+msgid "CAN get and hold on to his/her turn to speak"
+msgstr "EST CAPABLE de prendre son tour de parole et de le garder"
+
+#: D2_5_11_5
+msgid "CAN rebut counter-arguments"
+msgstr "EST CAPABLE de réfuter des contre-arguments"
+
+#: D3_1_10_1
+msgid ""
+"Can reply in an interview to simple direct questions spoken very slowly and "
+"clearly in direct non-idiomatic speech about personal details"
+msgstr ""
+"Peut répondre dans un entretien à des questions personnelles posées très "
+"lentement et clairement dans une langue directe et non idiomatique"
+
+#: D3_2_04_1
+msgid ""
+"CAN offer some help to a client/customer, for example, 'I'll give you our "
+"new catalogue'"
+msgstr ""
+"EST CAPABLE de proposer de l'aide à un client, par exemple \"Je vais vous "
+"donner notre nouveau catalogue\""
+
+#: D3_2_04_2
+msgid ""
+"CAN state simple requirements within own job area, for example 'I want to "
+"order 25 of...'"
+msgstr ""
+"EST CAPABLE de formuler des demandes simples concernant son travail, comme "
+"\"Je voudrais commander 25 unités de...\""
+
+#: D3_2_04_3
+msgid ""
+"CAN exchange opinions on familiar, predictable matters, for example, "
+"involving straightforward discussions of the 'This is better because...' "
+"type"
+msgstr ""
+"EST CAPABLE d'échanger des points de vue sur des sujets courants du moment "
+"que les discussions ne dépassent pas le cadre de \"Ceci est mieux parce "
+"que...\""
+
+#: D3_2_04_4
+msgid ""
+"Can discuss what to do next, making and responding to suggestions, asking "
+"for and giving directions"
+msgstr ""
+"Peut discuter de ce que l'on fera ensuite, répondre à des suggestions et en "
+"faire, demander des directives et en donner"
+
+#: D3_2_04_5
+msgctxt "D3_2_04_5"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+"Peut communiquer au cours de simples tâches courantes en utilisant des "
+"expressions simples pour avoir des objets et en donner, pour obtenir une "
+"information simple et discuter de la suite à donner"
+
+#: D3_2_10_1
+msgid ""
+"Can answer simple questions and respond to simple statements in an interview"
+msgstr ""
+"Peut répondre à des questions simples et réagir à des déclarations simples "
+"dans un entretien"
+
+#: D3_2_10_2
+msgid ""
+"Can make him/herself understood in an interview and communicate ideas and "
+"information on familiar topics, provided he/she can ask for clarification "
+"occasionally, and is given some help to express what he/she wants to"
+msgstr ""
+"Peut se faire comprendre dans un entretien et communiquer des idées et de "
+"l'information sur des sujets familiers à condition de pouvoir faire "
+"clarifier à l'occasion et d'être aidé pour exprimer ce qu'il/elle veut"
+
+#: D3_2_18_1
+msgid ""
+"CAN make an outgoing call and pass on simple, prepared messages, for example "
+"'Mr X's flight is late; he will arrive this afternoon'"
+msgstr ""
+"EST CAPABLE de faire un appel et de laisser de simples messages déjà "
+"préparés, comme par exemple, 'Le vol de Mr. X est en retard ; il arrivera "
+"cet après-midi\""
+
+#: D3_3_04_1
+msgid ""
+"CAN state routine requirements within own area of work (e.g. asking for "
+"typing to be done)"
+msgstr ""
+"EST CAPABLE de formuler des demandes courantes dans le domaine de son "
+"travail (demander qu'un papier soit dactylographié)"
+
+#: D3_3_04_2
+msgid ""
+"CAN greet a visitor and engage in a limited conversation for a short period "
+"of time, for example enquiring about a visitor's journey, hotel etc."
+msgstr ""
+"EST CAPABLE d'accueillir un visiteur et engager une conversation avec lui "
+"durant une courte période de temps, par exemple, discuter de son voyage, de "
+"l'hôtel, etc."
+
+#: D3_3_04_3
+msgid ""
+"CAN offer advice to clients within own job area on simple matters (e.g. "
+"'This model will give you better copies, but it is more expensive')"
+msgstr ""
+"EST CAPABLE de donner son avis aux clients dans le domaine de son travail "
+"sur des points simples (\"Avec ce modèle vous aurez de meilleures copies, "
+"mais il est plus cher\")"
+
+#: D3_3_04_4
+msgid ""
+"Can exchange, check and confirm accumulated factual information on familiar "
+"routine and non-routine matters within his/her field with some confidence"
+msgstr ""
+"Peut échanger avec une certaine assurance un grand nombre d'informations "
+"factuelles sur des sujets courants ou non, familiers à son domaine"
+
+#: D3_3_04_5
+msgid "Can describe how to do something, giving detailed instructions"
+msgstr ""
+"Peut expliquer comment faire quelque chose en donnant des instructions "
+"détaillées"
+
+#: D3_3_04_6
+msgctxt "D3_3_04_6"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+"Peut expliquer pourquoi quelque chose pose problème, discuter de la suite à "
+"donner, comparer et opposer les solutions"
+
+#: D3_3_04_7
+msgctxt "D3_3_04_7"
+msgid "Can give brief comments on the views of others"
+msgstr "Peut commenter brièvement le point de vue d'autrui"
+
+#: D3_3_10_1
+msgid ""
+"Can provide concrete information required in an interview but does so with "
+"limited precision"
+msgstr ""
+"Peut fournir des renseignements concrets exigés dans un entretien ou une "
+"consultation (par exemple, décrire des symptômes à un médecin) mais le fait "
+"avec une précision limitée"
+
+#: D3_4_04_1
+msgid ""
+"CAN put her/his point across persuasively when talking, for example about a "
+"familiar product"
+msgstr ""
+"EST CAPABLE d'exposer son opinion et d'être convaincant quand il parle, par "
+"exemple, d'un produit familier"
+
+#: D3_4_04_2
+msgid "Can give a clear, detailed description of how to carry out a procedure"
+msgstr "Peut faire la description claire et détaillée d'une démarche"
+
+#: D3_4_04_3
+msgid ""
+"Can understand and exchange complex information and advice on the full range "
+"of matters related to his/her occupational role"
+msgstr ""
+"Peut comprendre et échanger une information complexe et des avis sur une "
+"gamme étendue de sujets relatifs à son rôle professionnel"
+
+#: D3_4_04_4
+msgctxt "D3_4_04_4"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+"Peut esquisser clairement à grands traits une question ou un problème, faire "
+"des spéculations sur les causes et les conséquences, et mesurer les "
+"avantages et les inconvénients des différentes approches"
+
+#: D3_4_10_1
+msgid ""
+"Can carry out an effective, fluent interview, departing spontaneously from "
+"prepared questions, following up and probing interesting replies"
+msgstr ""
+"Peut conduire un entretien avec efficacité et aisance, en s'écartant "
+"spontanément des questions préparées et en exploitant et relançant les "
+"réponses intéressantes"
+
+#: D3_4_12_1
+msgctxt "D3_4_12_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+"Peut exposer ses idées et ses opinions et argumenter avec conviction sur des "
+"sujets complexes et réagir de même aux arguments d'autrui"
+
+#: D3_4_12_2
+msgid ""
+"Can contribute, account for and sustain his/her opinion, evaluate "
+"alternative proposals and make and respond to hypotheses"
+msgstr ""
+"Peut exprimer, justifier et défendre son opinion, évaluer d'autres "
+"propositions ainsi que répondre à des hypothèses et en faire"
+
+#: D3_4_18_1
+msgid ""
+"CAN take or leave routine messages, ask for clarification or elaboration "
+"where these are not expressed clearly, with only occasional misunderstanding "
+"of facts"
+msgstr ""
+"EST CAPABLE de prendre ou de laisser des messages courants, de demander des "
+"éclaircissements si ceux-ci ne sont pas exprimés clairement, faisant "
+"seulement quelques erreurs occasionnelles de compréhension"
+
+#: D3_5_04_1
+msgid ""
+"CAN give detailed information and state detailed requirements within "
+"familiar area of work"
+msgstr ""
+"EST CAPABLE de donner des informations détaillées et formuler des demandes "
+"détaillées dans le domaine familier du travail"
+
+#: D3_5_04_2
+msgid ""
+"CAN argue his/her case effectively, justifying, if necessary, a need for "
+"service and specifying needs precisely"
+msgstr ""
+"EST CAPABLE d'argumenter sur un cas d'espèce, justifier, si nécessaire, le "
+"besoin d'un service et préciser des besoins clairement"
+
+#: D3_5_04_3
+msgid "CAN answer questions outside own immediate area of work"
+msgstr ""
+"EST CAPABLE de répondre à des questions sans rapport avec son domaine de "
+"travail"
+
+#: D3_5_04_4
+msgid ""
+"CAN engage in an extended conversation with a visitor on matters within "
+"her/his authority/competence"
+msgstr ""
+"EST CAPABLE de participer à une discussion assez longue avec un visiteur sur "
+"des sujets de sa compétence"
+
+#: D3_5_04_5
+msgid ""
+"CAN give detailed information and deal with most routine problems that are "
+"likely to arise"
+msgstr ""
+"EST CAPABLE de donner des informations détaillées et de faire face à la "
+"plupart des problèmes courants"
+
+#: D3_5_04_6
+msgid ""
+"CAN ask questions outside own immediate area of work (e.g. asking for "
+"external legal or financial advice)"
+msgstr ""
+"EST CAPABLE de poser des questions sans rapport avec son domaine de travail "
+"(demander un avis financier ou juridique extérieur)"
+
+#: D3_5_04_7
+msgid ""
+"CAN advise on/handle complex, delicate or contentious issues, e.g. legal or "
+"financial situations"
+msgstr ""
+"EST CAPABLE de conseiller/faire face aux problèmes délicats et conflictuels "
+"complexes, par exemple les situations juridiques et financières"
+
+#: D3_5_10_1
+msgid ""
+"Can participate fully in an interview, as either interviewer or interviewee, "
+"expanding and developing the point being discussed fluently without any "
+"support, and handling interjections well"
+msgstr ""
+"Peut conduire un entretien avec efficacité et aisance, en s'écartant "
+"spontanément des questions préparées et en exploitant et relançant les "
+"réponses intéressantes"
+
+#: D3_5_10_2
+msgid "CAN deal with unpredictable questions"
+msgstr "EST CAPABLE de traiter de questions non prévues"
+
+#: D3_5_12_1
+msgid ""
+"CAN contribute effectively to meetings and seminars within own area of work"
+msgstr ""
+"EST CAPABLE de contribuer efficacement à des réunions et des séminaires dans "
+"le domaine de son travail"
+
+#: D3_5_12_2
+msgid ""
+"CAN argue effectively for or against a case, and has sufficient language to "
+"be able to talk about/discuss most aspects of her/his work"
+msgstr ""
+"EST CAPABLE d'argumenter pour ou contre un cas et a assez de ressources "
+"langagières pour parler ou discuter de la plupart des aspects de son travail"
+
+#: D3_5_18_1
+msgid ""
+"CAN use the telephone confidently, even if the line is bad or the caller has "
+"a non-standard accent"
+msgstr ""
+"EST CAPABLE d'utiliser le téléphone en toute confiance, même si la ligne est "
+"mauvaise ou l'interlocuteur a un accent qui ne correspond pas aux normes "
+"standard"
 
 #: DATE
 msgctxt "DATE"
@@ -868,9 +1686,17 @@ msgstr "Date"
 msgid "YYYY/MM/DD"
 msgstr "YYYY/MM/DD"
 
+#: DEALING_WITH_EMERGENCY_SITUATIONS
+msgid "Dealing with emergency situations"
+msgstr "Urgences"
+
 #: DELETE
 msgid "Delete"
 msgstr "Supprimer"
+
+#: DESCRIBING_EXPERIENCES
+msgid "Describing experiences"
+msgstr "Décrire une expérience"
 
 #: DESCRIPTORS
 msgid "Descriptors"
@@ -880,11 +1706,15 @@ msgstr "Descripteurs"
 msgid "Developers"
 msgstr "Développeurs"
 
+#: DEVELOPING_AN_ARGUMENT
+msgid "Developing an argument"
+msgstr "Développer un argument"
+
 #: DEVICES_NOT_ALLOWED_ERROR
 msgid ""
 "In order to record something you must 'Allow' the access to your devices."
 msgstr ""
-"Afin d'enregistrer quelque chose vous devez \"Autoriser\" l'accès à vos "
+"Dans le but d'enregistrer vous devez \"Autoriser\" l'accès à vos "
 "périphériques."
 
 #: DEVICES_NOT_WORKING
@@ -893,7 +1723,7 @@ msgid ""
 "been aborted."
 msgstr ""
 "Vos appareils ne fonctionnent pas correctement ou ne sont pas autorisés. "
-"L'enregistrement a été abandonnée."
+"L'enregistrement a été abandonné."
 
 #: DISPLAYGRAPH
 msgid "View the Graphic"
@@ -914,13 +1744,10 @@ msgid ""
 "training and development. Elurnet is the only authorized Babelium official "
 "support and services provider."
 msgstr ""
-"We also work closely with Elurnet, a company that focuses on open source "
-"training and development. Elurnet is the only authorized Babelium official "
-"support and services provider."
 
 #: EMAIL_ACTIVACION
 msgid "An activation email has been sent."
-msgstr "Un émail d’activation t’a été envoyé."
+msgstr "Un e-mail d’activation t’a été envoyé."
 
 #: EMPTY_NEWROLE
 msgid "The role name cannot be empty."
@@ -928,7 +1755,7 @@ msgstr "Le rôle ne peut pas être vide."
 
 #: EMPTY_PARAMETER
 msgid "The service data cannot be empty."
-msgstr "Le service n’accept pas des paramètres vides."
+msgstr "Le service n’accepte pas les paramètres vides."
 
 #: EMPTY_PASSWORD
 msgid "The password cannot be empty."
@@ -945,26 +1772,8 @@ msgstr "Dans l’attente d’évaluation"
 #: ERROR_BANDWIDTH_FIREWALL
 msgid "Can't test bandwidth. Port 1935 is closed. RTMPT mode is active."
 msgstr ""
-"Pas possible de faire le test de bande passante. Le port 1935 est fermé. "
-"Mode RTMPT actif."
-
-#: ERROR_SENDING_EMAIL
-msgid "There was an error while sending the activation e-mail."
-msgstr "Il y a eu une erreur en envoyant l’émail d’activation."
-
-#: ERROR_USER_EMAIL_EXISTS
-msgid ""
-"The specified username or email already exists. Please choose another one."
-msgstr ""
-"Le nom d’utilisateur ou émail que tu as specifié éxiste déjà. Choisis un "
-"autre s’il te plait."
-
-#: ERROR_REGISTERING_USER
-msgid ""
-"There was an error while registering in the system. Please try again later."
-msgstr ""
-"Erreur lors de l’enregistrement dans le systeme. Essaie plus tard, s’il te "
-"plait."
+"Impossible de faire le test de bande passante. Le port 1935 est fermé. Mode "
+"RTMPT actif."
 
 #: ERROR_EVALUATION_DATA_NOT_SPECIFIED
 msgid "You must specify a response to evaluate before sending an evaluation."
@@ -982,7 +1791,14 @@ msgid ""
 "privately available to you."
 msgstr ""
 "Tu n’as pas assez de crédit pour développer cette activité. Tu auras "
-"toujours  accèss à la vidéo de façon privée."
+"toujours  accès à la vidéo de façon privée."
+
+#: ERROR_REGISTERING_USER
+msgid ""
+"There was an error while registering in the system. Please try again later."
+msgstr ""
+"Erreur lors de l’enregistrement dans le système. Essaie plus tard, s’il te "
+"plait."
 
 #: ERROR_SCORE_COULDNT_BE_SAVED
 msgid "Your score couldn't be saved."
@@ -994,10 +1810,10 @@ msgid ""
 "Please add a text comment or uncheck 'Include text comment' if you don't "
 "want text comments to be saved."
 msgstr ""
-"Tu as choisi d'ajouter un commentaire de texte à cette évaluation, mais tu "
-"n'as ajouté aucun. S'il te plaît ajoute un commentaire texte ou décoche la "
-"case \"Inclure le texte commentaire\" si tu ne veux pas enregistrer un "
-"commentaire texte."
+"Tu as choisi d'ajouter un commentaire à cette évaluation, mais tu n'en as "
+"ajouté aucun. S'il te plait, ajoute un commentaire texte ou décoche la case "
+"\"Inclure le texte commentaire\" si tu ne veux pas enregistrer un commentaire "
+"texte."
 
 #: ERROR_SELECTED_VIDEO_COMMENT_NO_FILL
 msgid ""
@@ -1005,22 +1821,33 @@ msgid ""
 "none. Please record a video comment or uncheck 'Include video comment' if "
 "you don't want video comments to be saved."
 msgstr ""
-"Tu as choisi d'ajouter un commentaire vidéo à cette évaluation, mais tu n'as "
-"ajouté aucun. S'il te plaît ajoute un commentaire vidéo ou décoche la case "
-"\"Inclure le vidéo commentaire\" si tu ne veux pas enregistrer un commentaire "
-"vidéo."
+"Tu as choisi d'ajouter un commentaire vidéo à cette évaluation, mais tu n'en "
+"as ajouté aucun. S'il te plait ajoute un commentaire vidéo ou décoche la "
+"case \"Inclure le vidéo commentaire\" si tu ne veux pas enregistrer un "
+"commentaire vidéo."
+
+#: ERROR_SENDING_EMAIL
+msgid "There was an error while sending the activation e-mail."
+msgstr "Il y a eu une erreur dans l'envoi de l’e-mail d’activation."
 
 #: ERROR_SIGN_IN_TO_REQUEST
 msgid "You must Sign In to request an evaluation."
-msgstr "Tu dois être connecté pour démander une évalutation."
+msgstr "Tu dois être connecté pour démander une évaluation."
+
+#: ERROR_STREAM_NOT_FOUND
+msgid "This video is unavailable. Sorry about that."
+msgstr ""
 
 #: ERROR_STREAM_PROCESSING
 msgid "This video is still processing. Sorry about that."
 msgstr ""
 
-#: ERROR_STREAM_NOT_FOUND
-msgid "This video is unavailable. Sorry about that."
+#: ERROR_USER_EMAIL_EXISTS
+msgid ""
+"The specified username or email already exists. Please choose another one."
 msgstr ""
+"Le nom d’utilisateur ou e-mail que tu as specifié existe déjà. Choisis-en un "
+"autre s’il te plait."
 
 #: ERROR_WHILE_ACTIVATING_ACCOUNT
 msgid "Error while activating your account."
@@ -1037,11 +1864,11 @@ msgstr ""
 
 #: ERROR_WHILE_CHECKING_ALREADY_RATED
 msgid "Error while checking if you've rated this exercise."
-msgstr "Erreur lors de la vérification de la notation de l’éxercice."
+msgstr "Erreur lors de la vérification de la notation de l’exercice."
 
 #: ERROR_WHILE_CHECKING_ALREADY_REPORTED
 msgid "Error while checking if you've reported this exercise."
-msgstr "Impossible de vérifier si tu as dénoncé cet exercice."
+msgstr "Impossible de vérifier si tu as signalé cet exercice."
 
 #: ERROR_WHILE_CHECKING_AUTOEVALUATION_SUPPORT
 msgid "Error while checking for autoevaluation support."
@@ -1079,15 +1906,15 @@ msgstr "Impossible de rendre publique ta réponse."
 
 #: ERROR_WHILE_MODIFYING_LANGUAGES
 msgid "Error while modifying your languages."
-msgstr "Erreur lors de la modification de tes languages"
+msgstr "Erreur lors de la modification de tes langues"
 
 #: ERROR_WHILE_MODIFYING_PERSONAL_DATA
 msgid "Error while modifying your personal data."
-msgstr "Erreur lors de la modification des données personnelles"
+msgstr "Erreur lors de la modification de tes données personnelles"
 
 #: ERROR_WHILE_MODIFYING_VIDEO_DATA
 msgid "Error while modifying video data."
-msgstr "Erreur lors de la modification de la information de la vidéo"
+msgstr "Erreur lors de la modification de l'information de la vidéo"
 
 #: ERROR_WHILE_PERFORMING_SEARCH
 msgid "Error while searching the requested data."
@@ -1107,29 +1934,29 @@ msgstr "Erreur lors de l'inscription du nouvel utilisateur."
 
 #: ERROR_WHILE_REPORTING_EXERCISE
 msgid "Error while reporting inappropriate exercise."
-msgstr "Erreur lors du rapport d’exercice inadequat"
+msgstr "Erreur lors du signalement d’exercice inadéquat"
 
 #: ERROR_WHILE_RESTORING_PASSWORD
 msgid "Error while trying to restore your password."
-msgstr "Erreur lors de restaurer votre mot de passe."
+msgstr "Erreur lors de la restauration de votre mot de passe."
 
 #: ERROR_WHILE_RETRIEVING_CHART_DATA
 msgid "Error while trying to get the chart data. Please try again later."
 msgstr ""
-"Erreur lors de l'obtention des données du graphique. Essaie plus tard, s'il "
-"te plait."
+"Erreur lors de l'obtention des données de la charte graphique. Essaie plus "
+"tard, s'il te plait."
 
 #: ERROR_WHILE_RETRIEVING_CREDIT_HISTORY
 msgid "Error while retrieving your credit history,"
-msgstr "Erreur lors de la récupération de réponses evaluated"
+msgstr "Erreur lors de la récupération des réponses evaluées"
 
 #: ERROR_WHILE_RETRIEVING_EXERCISES
-msgid "Error while retreiving the exercises."
+msgid "Error while retrieving the exercises."
 msgstr "Erreur lors de la récupération des exercices"
 
 #: ERROR_WHILE_RETRIEVING_EXERCISE_SUBTITLES
 msgid "Error while retrieving this exercise's subtitles"
-msgstr "Erreur lors de la récupération des sous-titres de l'éxercice"
+msgstr "Erreur lors de la récupération des sous-titres de l'exercice"
 
 #: ERROR_WHILE_RETRIEVING_LATEST_ACTIVITY
 msgid "Error while retrieving your latest activity."
@@ -1166,7 +1993,7 @@ msgstr "Erreur lors de la récupération des réponses que tu as évaluées"
 
 #: ERROR_WHILE_RETRIEVING_ROLES
 msgid "Error while retrieving exercise's roles"
-msgstr "Erreur lors de la récupération des rôles de l'éxercice"
+msgstr "Erreur lors de la récupération des rôles de l'exercice"
 
 #: ERROR_WHILE_RETRIEVING_SUBTITLES
 msgid "Error while retrieving unfinished subtitle exercise list."
@@ -1182,20 +2009,20 @@ msgstr ""
 
 #: ERROR_WHILE_RETRIEVING_SUBTITLE_LINES
 msgid "Error while retrieving current subtitle's subtitle lines."
-msgstr "Impossible d'obtenir les détalis du sous-titre en cours."
+msgstr "Impossible d'obtenir les détails du sous-titre en cours."
 
 #: ERROR_WHILE_RETRIEVING_TAG_CLOUD
 msgid "Error while building the tag cloud."
-msgstr "Impossible de construire le nuage de tags."
+msgstr "Impossible de construire le cloud de tags."
 
 #: ERROR_WHILE_RETRIEVING_TOPSCORE_VIDEOS
 msgid "Error while retrieving top scored videos."
-msgstr "Impossible d'obtenir  les vidéos les plus populaires."
+msgstr "Impossible d'obtenir  les vidéos les plus vues."
 
 #: ERROR_WHILE_RETRIEVING_TOP_USERS
 msgid "Error while retrieving top user list."
 msgstr ""
-"Erreur lors de la récupération de la liste des utilisateurs plus actifs."
+"Erreur lors de la récupération de la liste des utilisateurs les plus actifs."
 
 #: ERROR_WHILE_RETRIEVING_USER_VIDEOS
 msgid "Error while retrieving your videos."
@@ -1224,7 +2051,7 @@ msgstr "Erreur lors de l'envoi du mail d'activation."
 #: ERROR_WHILE_UPDATING_RESPONSE
 msgid "A problem occurred while trying to update your response."
 msgstr ""
-"Un problème est survenu lors de la tentative de mettre à jour ta réponse."
+"Un problème est survenu lors de la tentative d'actualisation de ta réponse."
 
 #: ERROR_WHILE_UPLOADING_FILE
 msgid "Error while uploading file."
@@ -1234,9 +2061,13 @@ msgstr "Erreur lors du téléchargement du fichier."
 msgid "Assessment date"
 msgstr "Date d'évaluation"
 
+#: EVERYDAY_LIFE_AND_TOURISM
+msgid "Everyday life & tourism"
+msgstr "Vie sociale et tourisme"
+
 #: EXERCISE_ALREADY_REPORTED
 msgid "You already reported about this exercise."
-msgstr "Tu as déjà fait un rapport sur cet éxercice"
+msgstr "Tu as déjà fait un rapport sur cet exercice"
 
 #: EXERCISE_LIST
 msgid "Practice exercise list"
@@ -1250,6 +2081,10 @@ msgstr "Clique ici pour vérifier ton microphone"
 msgid "Your report has been successfully saved. Thank you."
 msgstr "Ton rapport a été bien enrégistré"
 
+#: EXERCISE_TYPE
+msgid "Exercise type"
+msgstr ""
+
 #: FAQ
 msgid "FAQ"
 msgstr "FAQ"
@@ -1258,17 +2093,41 @@ msgstr "FAQ"
 msgid "Filter"
 msgstr "Filtres"
 
-#: FILTER_BY_LANGUAGE
-msgid "Filter by language"
-msgstr "Filtrer par langue"
-
 #: FILTER_BY_DIFFICULTY
 msgid "Filter by difficulty level"
+msgstr "Filtrer par langue"
+
+#: FILTER_BY_LANGUAGE
+msgid "Filter by language"
 msgstr "Filtrer par langue"
 
 #: FILTER_REMOVE_ALL
 msgid "Remove filters"
 msgstr "Enlever les filtres"
+
+#: FORMS_OF_QUESTIONS
+msgid "Forms of questions"
+msgstr ""
+
+#: FREE_CONTEXT
+msgid "Free context"
+msgstr ""
+
+#: GENERAL_WORK
+msgid "General work"
+msgstr "Travail"
+
+#: GIVING_PRESENTATIONS
+msgid "Giving presentations"
+msgstr "Donner une présentation"
+
+#: GOING_OUT_TO_EAT
+msgid "Going out to eat"
+msgstr "Manger au restaurant"
+
+#: GOING_SHOPPING
+msgid "Going shopping"
+msgstr "Faire des achats"
 
 #: GRABADOR
 msgid "Recorder"
@@ -1303,6 +2162,10 @@ msgstr "Nom de l'exercice"
 msgid "Response Name"
 msgstr "Nom de la réponse"
 
+#: HEALTH
+msgid "Health"
+msgstr "Santé"
+
 #: HELLO
 msgid "Hello"
 msgstr "Bonjour"
@@ -1328,7 +2191,7 @@ msgid ""
 "<b><font size =\"24\" color =\"#972c0a\">Welcome to "
 "Babelium</font></b><br/><p>Babelium is a community of people who like to "
 "learn & teach languages.</p><p>Babelium is a collaborative language "
-"practising environment. Here you'll be able to improve your speaking skills "
+"practicing environment. Here you'll be able to improve your speaking skills "
 "with the help of other users, who are native or fluent in the language "
 "you're practicing, whilst you too can help other users providing knowledge & "
 "assessment of your own mother tongue.</p><p>All you need to do is record or "
@@ -1338,10 +2201,11 @@ msgid ""
 "to be assessed yourself.</p>"
 msgstr ""
 "Bienvenue sur Babelium. Babelium est une communauté de personnes qui aiment "
-"pratiquer les langues. Il s'agit d'un dispositif collaboratif pour la "
-"pratique de la langue orale. Ici tu pourras améliorer tes compétences orales "
-"avec l'aide d'autres utilisateurs, natifs qui veulent aussi pratiquer, tout "
-"en aidant les autres à pratiquer et communiquer dans ta langue maternelle."
+"apprendre et enseigner les langues. Il s'agit d'un dispositif collaboratif "
+"pour la pratique de la langue orale. Ici tu pourras améliorer tes "
+"compétences orales avec l'aide d'autres utilisateurs natifs ou parlant "
+"couramment une langue tout en aidant les autres à pratiquer et communiquer "
+"dans ta langue maternelle."
 
 #: HOW_ASSESS_OTHER_USERS_WORK
 msgid "How to assess other users' work"
@@ -1349,7 +2213,7 @@ msgstr "Comment évaluer le travail des autres"
 
 #: HOW_TO_CONFIGURE_YOUR_DEVICES
 msgid "How to configure your video/audio devices"
-msgstr "Comment paramétrer ta webcam et microphone"
+msgstr "Comment paramétrer ta webcam et ton microphone"
 
 #: HOW_TO_PRACTICE_A_LANGUAGE
 msgid "How to practice a language"
@@ -1365,7 +2229,7 @@ msgstr "Ton score a été enregistré. Merci."
 
 #: INVALID_EMAIL
 msgid "Invalid e-mail."
-msgstr "E-mail pas valide"
+msgstr "E-mail non valide"
 
 #: INVALID_PASSWORD
 msgid "The password contains invalid characters."
@@ -1390,7 +2254,7 @@ msgstr "Vidéo originale"
 
 #: JOIN_US
 msgid "Join us now!"
-msgstr "Rejoigne-nous!"
+msgstr "Rejoins-nous!"
 
 #: JUDGE
 msgid "Assessor"
@@ -1402,15 +2266,15 @@ msgstr "Qui sommes-nous?"
 
 #: LABEL_ABOUT_SECTION
 msgid "About the Babelium Project"
-msgstr "tout sur Babelium Project"
+msgstr "Tout sur Babelium Project"
 
 #: LABEL_ADD_AUTOMATIC_EVALUATION_IF_POSSIBLE
 msgid "Add automatic evaluation support if possible"
-msgstr "Ajouter du support d'évaluation automatique si possible"
+msgstr "Ajouter un support d'évaluation automatique si possible"
 
 #: LABEL_ALL_TIME_CREDITS
 msgid "All-time"
-msgstr "Tout"
+msgstr "Total"
 
 #: LABEL_APPLICATION_INFO
 msgid "Application Info"
@@ -1446,15 +2310,15 @@ msgstr "Choisir le système"
 
 #: LABEL_CHOOSE_UPLOADING_METHOD
 msgid "Choose an uploading method:"
-msgstr "Choisir la méthode de telechargement"
+msgstr "Choisir la méthode de téléchargement"
 
 #: LABEL_CLICK_HERE
 msgid "Click"
-msgstr "Clique!"
+msgstr "Clique ici!"
 
 #: LABEL_CONFIGURATION
 msgid "Configure"
-msgstr "Parametres"
+msgstr "Paramètres"
 
 #: LABEL_CONTACT_INFO
 msgid "Contact Info"
@@ -1483,7 +2347,7 @@ msgstr "Modifier"
 
 #: LABEL_EMAIL
 msgid "eMail:"
-msgstr "Email"
+msgstr "E-mail"
 
 #: LABEL_ERROR_WRONG_ACTIVATION_RESEND_DATA
 msgid "Wrong activation."
@@ -1499,7 +2363,7 @@ msgstr "Evalue"
 
 #: LABEL_EXERCISES
 msgid "Practice"
-msgstr "Pratiquer"
+msgstr "Pratique"
 
 #: LABEL_EXERCISE_TITLE
 msgid "Exercise Title"
@@ -1511,7 +2375,7 @@ msgstr "Transcription de l'exercice"
 
 #: LABEL_FEEDBACK
 msgid "Feel free to send us your comments, questions or suggestions to:"
-msgstr "As-tu des commentaires, des questions, ou des suggestions?"
+msgstr "Envoie-nous tes commentaires, tes questions ou suggestions"
 
 #: LABEL_FIRST
 msgid "First"
@@ -1523,15 +2387,15 @@ msgstr "Langue maternelle"
 
 #: LABEL_FLUENCY_SCORE
 msgid "Fluency"
-msgstr "Niveau à l'oral"
+msgstr "Fluidité"
 
 #: LABEL_GUEST_EDIT_WARNING
 msgid ""
 "You are not logged in so the changes you make to this subtitle won't be "
 "saved"
 msgstr ""
-"Tu n'es pas connecté, donc les modifications que tu as apporté à ce sous-"
-"titre ne sera pas enregistré"
+"Comme tu n'es pas connecté, les modifications que tu as apportées à ce sous-"
+"titre ne seront pas enregistrées."
 
 #: LABEL_GUEST_RECORD_WARNING
 msgid "You must be logged to record an exercise"
@@ -1547,7 +2411,7 @@ msgstr "Home"
 
 #: LABEL_INACTIVE_USER
 msgid "User account not activated"
-msgstr "Le compte d'utilisateur n'a pas été activée"
+msgstr "Le compte utilisateur n'a pas été activé"
 
 #: LABEL_INCLUDE_TEXT_COMMENT
 msgid "Include a text comment"
@@ -1559,7 +2423,7 @@ msgstr "Ajouter un vidéo-commentaire"
 
 #: LABEL_INPUT_USER_AND_EMAIL
 msgid "Input your username and your email"
-msgstr "Introduire nom d'utilisateur et email"
+msgstr "Introduire nom d'utilisateur et e-mail"
 
 #: LABEL_INTEREST_LANGUAGES
 msgid "Languages you're interested in:"
@@ -1599,7 +2463,7 @@ msgstr "Dernier mois"
 
 #: LABEL_LAST_WEEK_CREDITS
 msgid "Last Week"
-msgstr "Semaine Dernière"
+msgstr "Dernière semaine"
 
 #: LABEL_MIC_INPUT_LEVEL
 msgid "Mic Input Level"
@@ -1611,7 +2475,7 @@ msgstr "Tester le micro"
 
 #: LABEL_MIC_WAITING_FOR_INPUT
 msgid "Waiting for mic input"
-msgstr ""
+msgstr "En attente d'input micro"
 
 #: LABEL_MODIFY_PASSWORD
 msgid "Modify Password"
@@ -1619,11 +2483,11 @@ msgstr "Modifier le mot de passe"
 
 #: LABEL_MOST_RECENT_ONE
 msgid "The most recent subtitle"
-msgstr "Le sous-titre le plus recent"
+msgstr "Le sous-titre le plus récent"
 
 #: LABEL_MY_PROFILE
 msgid "My Profile"
-msgstr "Mon profile"
+msgstr "Mon profil"
 
 #: LABEL_NEEDED_BW
 msgid "Needed"
@@ -1643,11 +2507,11 @@ msgstr "Ancien mot de passe :"
 
 #: LABEL_OTHER_AVAILABLE_SUBTITLE_VERSIONS
 msgid "Other available subtitle versions:"
-msgstr "D'autres versions de sous-titres"
+msgstr "Autres versions de sous-titres disponibles"
 
 #: LABEL_OTHER_LANGUAGES
 msgid "Other Languages:"
-msgstr "D'autres langues"
+msgstr "Autres langues"
 
 #: LABEL_OVERALL_SCORE
 msgid "Overall"
@@ -1683,7 +2547,7 @@ msgstr "Nom réel :"
 
 #: LABEL_REAL_SURNAME
 msgid "Real Surname:"
-msgstr "Nom de famille reel"
+msgstr "Nom de famille réel"
 
 #: LABEL_REMEMBER_ME
 msgid "Remember Me!"
@@ -1712,7 +2576,7 @@ msgstr "Rythme"
 
 #: LABEL_ROLE_CURRENTLY_TALKING
 msgid "Talking"
-msgstr "On discute"
+msgstr "En train de parler"
 
 #: LABEL_SEARCH
 msgctxt "LABEL_SEARCH"
@@ -1725,7 +2589,7 @@ msgstr "Sécurité"
 
 #: LABEL_SEND_EMAIL_AGAIN
 msgid "Resend activation email"
-msgstr "Renvoyer l'email d'activation"
+msgstr "Renvoyer l'e-mail d'activation"
 
 #: LABEL_SEND_EVALUATION
 msgid "Send Evaluation"
@@ -1812,7 +2676,7 @@ msgstr "Mettre en ligne un fichier de votre ordinateur"
 
 #: LABEL_UPLOAD_NEW_EXERCISE
 msgid "Upload New Exercise"
-msgstr "Mettre en ligne un nouveau exercice"
+msgstr "Mettre en ligne un nouvel exercice"
 
 #: LABEL_UPLOAD_STREAMING
 msgid "Record an exercise with the webcam and save it"
@@ -1836,7 +2700,7 @@ msgstr "Nom d’utilisateur"
 
 #: LABEL_USER_OR_EMAIL
 msgid "Username or email"
-msgstr "Nom d'utilisateur ou email"
+msgstr "Nom d'utilisateur ou e-mail"
 
 #: LABEL_VIDEO_COMMENT
 msgid "Video Comment"
@@ -1856,7 +2720,7 @@ msgstr "Bienvenu(e)"
 
 #: LABEL_WHO_ARE_WE
 msgid "Who are we?"
-msgstr "Nous sommes qui?"
+msgstr "Qui sommes-nous?"
 
 #: LABEL_WRONG_PASSWORD
 msgid "Wrong Password"
@@ -1873,6 +2737,10 @@ msgstr "Ta transcription"
 #: LANGUAGES_SUCCESSFULLY_MODIFIED
 msgid "Your languages have been successfully modified."
 msgstr "Tes langues ont été modifiées aves succès"
+
+#: LANGUAGE_PRACTICE
+msgid "Language practice"
+msgstr ""
 
 #: LAST_ASSESSMENT_DATE
 msgid "Last Assessment date"
@@ -1898,10 +2766,6 @@ msgstr "A1 Débutant"
 msgid "A2 Elementary"
 msgstr "A2 Faux-débutant"
 
-#: LEVEL_B1
-msgid "B1 Pre-intermediate"
-msgstr "B1 Pre-intermédiaire"
-
 #: LEVEL_B11
 msgid "B1.1 Intermediate"
 msgstr "B1.1 Moyen"
@@ -1910,9 +2774,9 @@ msgstr "B1.1 Moyen"
 msgid "B1.2 Intermediate"
 msgstr "B1.2 Intermédiaire"
 
-#: LEVEL_B2
-msgid "B2 Intermediate"
-msgstr "B2 Intermédiaire"
+#: LEVEL_B1
+msgid "B1 Pre-intermediate"
+msgstr "B1 Pré-intermédiaire"
 
 #: LEVEL_B21
 msgid "B2.1 Advanced"
@@ -1922,9 +2786,17 @@ msgstr "B2.1 Avancé"
 msgid "B2.2 Advanced"
 msgstr "B2.2 Avancé"
 
+#: LEVEL_B2
+msgid "B2 Intermediate"
+msgstr "B2 Intermédiaire"
+
 #: LEVEL_C1
 msgid "C1 Upper intermediate"
-msgstr "C1 Avance superieur"
+msgstr "C1 Avancé superieur"
+
+#: LINGUISTIC_ASPECT
+msgid "Linguistic Aspect"
+msgstr ""
 
 #: LOCALE_AF_ZA
 msgid "Afrikaans (South Africa)"
@@ -2113,6 +2985,10 @@ msgstr "Espagnol (Colombie)"
 #: LOCALE_ES_CR
 msgid "Spanish (Costa Rica)"
 msgstr "Espagnol (Costa Rica)"
+
+#: LOCALE_ES_CU
+msgid "Spanish (Cuba)"
+msgstr "Spanish (Cuba)"
 
 #: LOCALE_ES_DO
 msgid "Spanish (Dominican Republic)"
@@ -2420,11 +3296,15 @@ msgstr "Chinois (Singapour)"
 
 #: LOCALE_ZH_TW
 msgid "Chinese Traditional (Taiwan)"
-msgstr "Chinois traditionel (Taiwan)"
+msgstr "Chinois traditionnel (Taiwan)"
 
 #: LONG_NEWROLE
 msgid "The role name can't be longer than {0} characters."
-msgstr "Le nom de rôle ne peut pas être plus long que {0} caractères."
+msgstr "Le nom de rôle ne peut pas dépasser {0} caractères."
+
+#: MAKING_ARRANGEMENTS
+msgid "Making arrangements"
+msgstr "Organisation des études"
 
 #: MAXIMUM_FILESIZE_EXCEEDED
 msgid "The file you selected exceeds the maximum allowed filesize."
@@ -2436,14 +3316,14 @@ msgstr "Ajouter vidéo évaluation"
 
 #: MESSAGE_ASK_COMPUTER_EVALUATION
 msgid "Do you want to be evaluated by a computer?"
-msgstr "Veux-tu être évalué par un ordinateur?"
+msgstr "Souhaites-tu être évalué par un ordinateur?"
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_1
 msgid "If you ask for an evaluation, your video will be publicly available"
 msgstr "Si tu demandes une évaluation, ta vidéo sera publique"
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_2
-msgid "for the users of Babelium Project. Otherways, you will be the"
+msgid "for the users of Babelium Project. Otherwise, you will be the"
 msgstr "Pour les utilisateurs de Babelium Project. Sinon tu seras"
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_3
@@ -2452,11 +3332,11 @@ msgstr "le seul à pouvoir le voir"
 
 #: MESSAGE_ASK_USERS_EVALUATION
 msgid "Do you want to ask the users for an evaluation?"
-msgstr "Veux-tu demander une évaluation aux utilisateurs?"
+msgstr "Souhaites-tu demander une évaluation aux utilisateurs?"
 
 #: MESSAGE_AUTOMATIC_EVALUATION_NOT_SUPPORTED
 msgid "This video doesn't support automatic evaluations."
-msgstr "Cette vidéo ne permet pas des évaluations automatiques."
+msgstr "Cette vidéo ne permet pas d' évaluations automatiques."
 
 #: MESSAGE_CHOOSE_LOCALE
 msgid "Choose a language"
@@ -2485,7 +3365,7 @@ msgstr "Durée"
 
 #: MESSAGE_EXERCISE_CHOOSE_A_ROLE
 msgid "Choose the role you want to impersonate:"
-msgstr "Choisis le rôle que tu veux prendre"
+msgstr "Choisis le rôle que tu veux jouer"
 
 #: MESSAGE_EXERCISE_LIST
 msgid "Available Exercise List"
@@ -2493,15 +3373,15 @@ msgstr "Liste d'exercices disponibles"
 
 #: MESSAGE_EXERCISE_ROLES
 msgid "From the roles available in this exercise,"
-msgstr "Des rôles disponibles dans cet exercice"
+msgstr "Dans les rôles disponibles pour cet exercice"
 
 #: MESSAGE_EXERCISE_ROLES_SELECT
 msgid "choose the one you want to impersonate:"
-msgstr "choisis celui que tu veux prendre"
+msgstr "choisis celui que tu veux jouer"
 
 #: MESSAGE_FILL_THE_REQUIRED_FIELDS
 msgid "You must fill all the required fields to save the exercise."
-msgstr "Tu dois remplir tous les infos demandées  pour sauver l'exercice."
+msgstr "Tu dois remplir tous les infos demandées  pour sauvegarder l'exercice."
 
 #: MESSAGE_MAIN_LANGUAGE
 msgid "Tell us which is your main language or mother tongue"
@@ -2510,15 +3390,15 @@ msgstr "Dis-nous quelle est ta langue maternelle."
 #: MESSAGE_OPTIONAL_EVALUATION_DATA
 msgid "Optional text and/or video comment to improve user feedback"
 msgstr ""
-"Texte et/or vidéo commentaire pour améliorer le feedback de l'utilisateur"
+"Texte et/ou vidéo commentaire pour améliorer le feedback de l'utilisateur"
 
 #: MESSAGE_OTHER_LANGUAGE
 msgid ""
 "Do you know any other language(s) with enough level to assess other peoples' "
 "pronouncing etc.?"
 msgstr ""
-"Connais-tu d'autres langues assez bien pour évaluer la prononciation des "
-"autres usagers?"
+"Connais-tu d'autres langues à un niveau suffisant pour évaluer la "
+"prononciation d' autres usagers?"
 
 #: MESSAGE_PRACTICE_LANGUAGE
 msgid "Which languages would you like to practice?"
@@ -2529,6 +3409,7 @@ msgid "Rate the user's response"
 msgstr "Évalue la réponse de l'utilisateur"
 
 #: MESSAGE_RATE_USER_FLUENCY
+msgctxt "MESSAGE_RATE_USER_FLUENCY"
 msgid "Pronunciation"
 msgstr "Prononciation"
 
@@ -2545,8 +3426,8 @@ msgid ""
 "PERFORMS in the conversation with ease and skill catching non-verbal keys "
 "and waiting for his turn in a NATURAL WAY"
 msgstr ""
-"Il participe à la conversion avec facilité et capacité pour capter les clés "
-"non-verballes, et il attend son tour naturellement"
+"Il participe à la conversion avec aisance et est capable de capter les "
+"éléments non-verbaux, il attend son tour naturellement"
 
 #: MESSAGE_RATE_USER_RHYTHM
 msgctxt "MESSAGE_RATE_USER_RHYTHM"
@@ -2560,7 +3441,7 @@ msgstr "Spontanéité"
 
 #: MESSAGE_REPORT_INAPPROPRIATE
 msgid "Report Inappropriate Exercise"
-msgstr "Signaler exercice inadequate"
+msgstr "Signaler exercice inadéquat"
 
 #: MESSAGE_REPORT_SPECIFY_ISSUE
 msgid "Report an issue with this video:"
@@ -2608,7 +3489,7 @@ msgstr "Enregistrement en cours"
 
 #: MESSAGE_STATUS_STOPPED
 msgid "Stopped"
-msgstr "Arreté"
+msgstr "Arrêté"
 
 #: MESSAGE_SUBTITLING_CONTROLS
 msgid "Subtitling Controls:"
@@ -2616,7 +3497,7 @@ msgstr "Contrôles de sous-titrage"
 
 #: MESSAGE_SUCCESSFULLY_SAVED
 msgid "Your response has been successfully saved!"
-msgstr "Ta reponse a été bien enregistrée"
+msgstr "Ta réponse a été bien enregistrée"
 
 #: MESSAGE_TO_SIGN_IN_TO_SIGN_UP
 msgid "to sign in. You can sign-up for free"
@@ -2640,7 +3521,7 @@ msgid ""
 "the application."
 msgstr ""
 "Dans cette section, tu peux  modifier toutes tes informations, personnaliser "
-"ton expérience sur l'application."
+"ton expérience de l'application."
 
 #: MORE_INFO
 msgid "More info"
@@ -2656,7 +3537,7 @@ msgstr ""
 
 #: MY_ACTIVITY
 msgid "My recent activity"
-msgstr "Mon activité recente"
+msgstr "Mon activité récente"
 
 #: MY_VIDEOS
 msgid "My Videos"
@@ -2668,13 +3549,17 @@ msgid ""
 "application."
 msgstr "Dans cette section tu peux gérer toutes tes vidéos"
 
+#: NEGATION
+msgid "Negation"
+msgstr ""
+
 #: NEW_MAIL
 msgid "New email address"
-msgstr "Nouvelle adresse email"
+msgstr "Nouvelle adresse e-mail"
 
 #: NEW_PASSWORD_SENT
 msgid "The new password has been sent to your email."
-msgstr "Le nouveau mot de passe t'a été envoyé sur ton compte email"
+msgstr "Le nouveau mot de passe t'a été envoyé sur ton compte e-mail"
 
 #: NIKEPAITUTAKOAK
 msgid "Responses I assessed"
@@ -2682,7 +3567,11 @@ msgstr "Les réponses que j'ai évaluées"
 
 #: NIRIPAITUTAKOAK
 msgid "My assessed responses"
-msgstr "Mes réponses que l'ont été évaluées."
+msgstr "Mes réponses évaluées."
+
+#: NOUN
+msgid "Noun"
+msgstr ""
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
@@ -2690,7 +3579,7 @@ msgstr "Il n'y a pas eu de commentaire"
 
 #: NO_CONNECTION
 msgid "Streaming connection lost. Trying to reconnect..."
-msgstr ""
+msgstr "connection en streaming perdue. Essaie de te reconnecter..."
 
 #: OBTAIN_CREDITS
 msgid "Obtain Credits"
@@ -2701,7 +3590,7 @@ msgid ""
 "The old password you provided did not match our records. Password change "
 "aborted."
 msgstr ""
-"Le vieux mot de passe spécifié ne correspond pas. Changement de mot de passe "
+"L'ancien mot de passe spécifié ne correspond pas. Changement de mot de passe "
 "abandonné."
 
 #: OPTION_ADD_ROLES_TO_EXERCISE
@@ -2720,7 +3609,7 @@ msgstr "Ajouter"
 
 #: OPTION_CLEAR_SUBTITLE_LINES
 msgid "Clear"
-msgstr "Éffacer"
+msgstr "Effacer"
 
 #: OPTION_DELETE_A_ROLE
 msgid "Delete A Role"
@@ -2741,7 +3630,7 @@ msgstr "Enregistrer"
 
 #: OPTION_REMEMBER_SETTINGS
 msgid "Remember settings"
-msgstr "Garder parametres"
+msgstr "Sauvegarder paramètres"
 
 #: OPTION_REMOVE_SUBTITLE_LINE
 msgid "Remove"
@@ -2759,10 +3648,26 @@ msgstr "Vérification du microphone"
 msgid "Webcam and microphone"
 msgstr "Webcam et microphone"
 
+#: OTHER
+msgid "Other"
+msgstr ""
+
 #: OWNER
 msgctxt "OWNER"
 msgid "Recorded by"
 msgstr "Enregistré par"
+
+#: PARTICIPATING_IN_AN_INTERVIEW
+msgid "Participating in an interview"
+msgstr "Entretiens"
+
+#: PARTICIPATING_IN_CLASS
+msgid "Participating in class"
+msgstr "Participer à un cours"
+
+#: PARTICIPATING_IN_MEETINGS
+msgid "Participating in meetings"
+msgstr "Réunions"
 
 #: PASSWORD_SUCCESSFULLY_CHANGED
 msgid "Your password has been successfully changed."
@@ -2774,7 +3679,7 @@ msgstr "en attente"
 
 #: PERSONAL_DATA_SUCCESSFULLY_MODIFIED
 msgid "Your personal data has been successfully changed."
-msgstr "Tes données personnelles ont été changées avec succès"
+msgstr "Tes données personnelles ont été modifiées avec succès"
 
 #: PROCESSING
 msgid "processing"
@@ -2782,15 +3687,28 @@ msgstr "en cours"
 
 #: PROMPT_CHOOSE_ISSUE
 msgid "Choose an Issue"
-msgstr "Choisi un sujet"
-
-#: PROMPT_SELECT_LANGUAGE
-msgid "Select a language"
-msgstr "Sélectionner une langue"
+msgstr "Choisis un sujet"
 
 #: PROMPT_SELECT_DIFFICULTY
 msgid "Select a difficulty"
-msgstr "Sélectionner une difficulté"
+msgstr "Sélectionne une difficulté"
+
+#: PROMPT_SELECT_LANGUAGE
+msgid "Select a language"
+msgstr "Sélectionne une langue"
+
+#: PRONOUNS
+msgid "Pronoun"
+msgstr ""
+
+#: PRONUNCIATION
+msgctxt "PRONUNCIATION"
+msgid "Pronunciation"
+msgstr ""
+
+#: PUBLIC_SPEAKING
+msgid "Public speaking"
+msgstr "Parler en public"
 
 #: RECORDED_BY
 msgctxt "RECORDED_BY"
@@ -2811,7 +3729,7 @@ msgstr "Aucun"
 
 #: REPEAT_NEW_EMAIL
 msgid "Re-enter new email address"
-msgstr "Ecrire de nouveau l'adresse email"
+msgstr "Retaper l'adresse e-mail"
 
 #: REPORT
 msgctxt "REPORT"
@@ -2820,27 +3738,27 @@ msgstr "Signaler"
 
 #: REPORT_18_PLUS
 msgid "Video is not suitable for underages"
-msgstr "La vidéo n'est pas adéquate pour les mineurs"
+msgstr "La vidéo ne convient pas pour les mineurs"
 
 #: REPORT_COPYRIGHTED
 msgid "Video is copyrighted material"
-msgstr "Vidéo est protégé par copyright"
+msgstr "Vidéo protégée par copyright"
 
 #: REPORT_DUPLICATED
 msgid "Video already exists in Babelium Project"
-msgstr "Vidéo existe déjà dans Babelium Project"
+msgstr "Cette vidéo existe déjà dans Babelium Project"
 
 #: REPORT_INNAPROPRIATE_VIDEO
-msgid "Report an innapropriate video"
-msgstr "Signaler une vidéo inappropiée"
+msgid "Report an inappropriate video"
+msgstr "Signaler une vidéo inappropriée"
 
 #: REPORT_OBSCENE
 msgid "Video is pornographic or obscene"
-msgstr "La vidéo est pornographique ou obscene"
+msgstr "La vidéo est pornographique ou obscène"
 
 #: REPORT_OFFENSIVE
 msgid "Video is offensive"
-msgstr "La vidéo est offensive"
+msgstr "La vidéo est choquante"
 
 #: REPORT_TECHNICAL
 msgid "Report technical problems"
@@ -2926,7 +3844,7 @@ msgstr "Utiliser ce module pour trouver l'exercice recherché"
 
 #: SEARCH_TAGCLOUD
 msgid "Tag Cloud"
-msgstr "Nuage de tags"
+msgstr "Cloud de tags"
 
 #: SELECTEDCHAR
 msgid "Selected role"
@@ -2934,26 +3852,30 @@ msgstr "Rôle selectionné"
 
 #: SHORT_NEWROLE
 msgid "The role name must have at least {0} characters."
-msgstr "Le nom du rôle doit avoir au moins {0} charactères"
+msgstr "Le nom du rôle doit contenir au moins {0} caractères"
 
 #: SHORT_PASSWORD
 msgid "The password must have at least 6 characters."
-msgstr "Le mot de passe doit avoir au moins 6 charactères"
+msgstr "Le mot de passe doit contenir au moins 6 caractères"
 
 #: SHORT_USERNAME
 msgid "The username must have at least 4 characters."
-msgstr "Le nom d'utilisateur doit avoir au moins 4 charactères"
+msgstr "Le nom d'utilisateur doit contenir au moins 4 caractères"
 
 #: SHOW_SUBTITLES
 msgid "Show subtitles"
 msgstr "Montrer les sous-titres"
+
+#: SIGHTSEEING
+msgid "Sightseeing"
+msgstr "Tourisme"
 
 #: SIGNUP_SECTION_DESCRIPTION
 msgid ""
 "Use this section to sign up on Babelium and thus start practicing your "
 "favorite languages in no time. It's free."
 msgstr ""
-"Utilise cette section pour t'inscrire dans Babelium et commencer à pratiquer "
+"Utilise cette section pour t'inscrire à Babelium et commencer à pratiquer "
 "tes langues préférées rapidement. C'est gratuit."
 
 #: SIMULTANEOUS_SUBTITLE_EDITION
@@ -2963,20 +3885,21 @@ msgstr "Quelqu'un d'autre est en train d'éditer les mêmes sous-titres"
 #: SLICEABORT_TEXT
 msgid "The video's duration exceeds the limit, the video can't be downloaded"
 msgstr ""
-"La durée de la vidéo dépasse la limite, la vidéo ne peut pas être téléchargé"
+"La durée de la vidéo dépasse la limite, la vidéo ne peut pas être "
+"téléchargée"
 
 #: SLICEEND_TEXT
 msgid ""
 "Your slice request has been successfully created, the video will be uploaded "
 "soon if duration requirements are fulfilled. Thank you!"
 msgstr ""
-"Ta demande de coupure a été créé avec succès, la vidéo sera téléchargée "
-"rapidement si les exigences de durée sont remplies . Merci beaucoup!"
+"Ta demande de coupure a été créée avec succès, la vidéo sera téléchargée "
+"rapidement si les conditions de durée sont remplies . Merci beaucoup!"
 
 #: SLICEPROGRESS_TEXT
 msgid "The slice request is being processed. Please wait..."
 msgstr ""
-"La demande de coupage est en cours de traitement. Attends s'il te plait..."
+"La demande de coupure est en cours de traitement. Un moment s'il te plait..."
 
 #: SLICEREQUEST_TEXT
 msgid ""
@@ -2984,20 +3907,40 @@ msgid ""
 "You must fill the following form with information \n"
 "on the new video to register your slice request correctly."
 msgstr ""
-"Attention, tu dois remplir le formulaire avec de l'information sur la "
-"nouvelle vidéo pour que ta demande de coupage soit enregistrée correctement."
+"Attention, tu dois remplir le formulaire avec l'information sur la nouvelle "
+"vidéo pour que ta demande de coupure soit enregistrée correctement."
+
+#: SOCIALIZING
+msgid "Socializing"
+msgstr "Vie en société"
 
 #: SORT_BY
 msgid "Sort by"
 msgstr "Trier par"
 
+#: SPEAKING_ABOUT_ONESELF
+msgid "Speaking about oneself"
+msgstr "Parler de soi"
+
 #: SPEND_CREDITS
 msgid "Use Credits"
-msgstr "Utiliser des credits"
+msgstr "Utiliser des crédits"
+
+#: STAYING_AT_A_HOTEL
+msgid "Staying at a hotel"
+msgstr "Loger à l’hôtel"
 
 #: STEP_BY_STEP
 msgid "Step by step"
 msgstr "Pas à pas"
+
+#: STORYTELLING
+msgid "Story-telling"
+msgstr ""
+
+#: STUDIES
+msgid "Studies"
+msgstr "Études"
 
 #: SUBITLE_START_TIME_TOOLTIP
 msgid "Start subtitle line"
@@ -3013,9 +3956,9 @@ msgid ""
 "who says what on them. Just grab a video and transcript the dialogue so that "
 "other users can practice with this exercise."
 msgstr ""
-"Les vidéos récemment mises en ligne ne sont pas d'une grande avant de que "
-"quelqu'un ne dise qui dit quoi. Choisis une vidéo et transcris-le pour que "
-"les autres puissent pratiquer."
+"Les vidéos récemment mises en ligne ne sont pas d'une grande utilité tant "
+"qu'elles n'ont pas été commentées.  Choisis une vidéo et transcris le "
+"dialogue de telle façon que les autres puissent l'utiliser."
 
 #: SUBTITLE_STOP_TIME_TOOLTIP
 msgid "Stop subtitle line"
@@ -3025,12 +3968,16 @@ msgstr "Arrêter ligne de sous-titre"
 msgid ""
 "One or more subtitle times on the line {0} are out of the video boundaries"
 msgstr ""
-"Une ou plusieurs temps du sous-titre de la ligne {0} sont en dehors des "
+"Une ou plusieurs durées du sous-titre de la ligne {0} sont en dehors des "
 "limites de la vidéo"
 
 #: TAGS
 msgid "tags"
 msgstr "Tag"
+
+#: TELEPHONING
+msgid "Telephoning"
+msgstr "Téléphoner"
 
 #: TERMS_OF_USE
 msgid "Terms of use"
@@ -3042,7 +3989,7 @@ msgid ""
 "contact your system administrator."
 msgstr ""
 "Une règle administrative interdit l'accès à la caméra et au microphone. S'il "
-"te plaît contacte ton administrateur de système."
+"te plait contacte ton administrateur système."
 
 #: TEXT_CAMERA_NOT_FOUND
 msgid ""
@@ -3050,9 +3997,9 @@ msgid ""
 "correctly plugged and then click 'Retry' or click 'Cancel' to abort the "
 "recording."
 msgstr ""
-"Ta webcam n'a pas pu être détecté. S'il te plaît assure-toi que l'appareil "
-"est correctement branché, puis clique sur 'Réessayer' ou clique sur "
-"'Annuler' pour interrompre l'enregistrement."
+"Ta webcam n'a pas pu être détectée. S'il te plait assure-toi que l'appareil "
+"est correctement branché puis clique sur 'Rééssayer' ou clique sur 'Annuler' "
+"pour interrompre l'enregistrement."
 
 #: TEXT_CREDIT_COUNT
 msgid "Credits:"
@@ -3068,8 +4015,8 @@ msgid ""
 "correctly plugged and then click 'Retry' or click 'Cancel' to abort the "
 "recording."
 msgstr ""
-"Ton microphone n'a pas pu être détecté. S'il te plaît assure-toi que "
-"l'appareil est correctement branché, puis clique sur 'Réessayer' ou clique "
+"Ton microphone n'a pas pu être détecté. S'il te plait assure-toi que "
+"l'appareil est correctement branché, puis clique sur 'Rééssayer' ou clique "
 "sur 'Annuler' pour interrompre l'enregistrement."
 
 #: TEXT_MIC_TEST_EXPLAIN
@@ -3077,23 +4024,21 @@ msgid ""
 "This test will ensure that your microphone works as excepted and has the "
 "minimum required volume to record an exercise."
 msgstr ""
-"Ce test permettra de t'assurer que ton micro fonctionne comme attendu et a "
-"le volume minimum requis pour enregistrer un exercice."
+"Ce test permettra de t'assurer que ton micro fonctionne comme prévu et a le "
+"volume minimum requis pour enregistrer un exercice."
 
 #: TEXT_MODULE_INFO_SUBTITLE
 msgid "Enter a short description of the things you can do with this module."
-msgstr ""
-"Introduire une brève description des choses que tu peux  faire avec ce "
-"module."
+msgstr "Introduis une brève description de ce qu'on peut faire avec ce module."
 
 #: TEXT_PRIVACY_RIGHTS_EXPLAIN
 msgid ""
 "Please click 'Allow' when you see this window. Also click on 'Remember' to "
 "skip this step the next time you want to record something."
 msgstr ""
-"S'il te plaît cliquer sur «Autoriser» quand tu vois cette fenêtre. Également "
-"cliquer sur «Se souvenir» pour passer cette étape la prochaine fois que tu "
-"voudras enregistrer quelque chose."
+"clique sur «Autoriser» quand tu vois cette fenêtre. clique aussi sur «Se "
+"souvenir» pour passer cette étape la prochaine fois que tu voudras "
+"enregistrer quelque chose."
 
 #: TEXT_RECORD_VIDEO_UPLOAD
 msgid ""
@@ -3101,13 +4046,13 @@ msgid ""
 "can record as many times as you want and preview the videos before actually "
 "saving them in the system."
 msgstr ""
-"Utiliser les commandes à droite pour enregistrer un exercice à l'aide de ta "
+"Utilise les commandes de droite pour enregistrer un exercice à l'aide de ta "
 "webcam. Tu peux enregistrer autant de fois que tu le souhaites et tu pourras "
 "prévisualiser les vidéos avant de les enregistrer dans le système."
 
 #: TEXT_USER_ACCOUNT
 msgid "User Account"
-msgstr "Compte d'utilisateur"
+msgstr "Compte utilisateur"
 
 #: TEXT_WHO_ARE_WE
 msgid ""
@@ -3117,10 +4062,10 @@ msgid ""
 "applications and services. You can follow us on Twitter @babelium :-)"
 msgstr ""
 "Nous sommes un groupe de chercheurs et d'étudiants de l'Université Publique "
-"du Pays Basque Université (UPV / EHU); hypermédia et multimédia recherche "
-"groupe (GHyM). Ce groupe est principalement axée sur le développement "
-"innovante d'applications Web et de services éducatifs. Tu peux nous suivre "
-"sur Twitter @babelium :-)"
+"du Pays Basque (UPV / EHU); hypermédia et multimédia recherche groupe "
+"(GHyM). Ce groupe est principalement axé sur le développement innovant "
+"d'applications Web et de services éducatifs. Tu peux nous suivre sur Twitter "
+"@babelium :-)"
 
 #: TITLE_AVAILABLE_ACTIONS
 msgid "Available Actions"
@@ -3128,7 +4073,7 @@ msgstr "Actions disponibles"
 
 #: TITLE_BANDWIDTH_CHART
 msgid "Current bandwidth chart"
-msgstr "Graphique bande passante actuelle"
+msgstr "Bande passante graphique actuelle"
 
 #: TITLE_CHOOSE_ROLE
 msgid "CHOOSE A ROLE:"
@@ -3168,7 +4113,7 @@ msgstr "Introduire un nouveau rôle"
 
 #: TITLE_LOGIN_FORM
 msgid "Please enter your login information"
-msgstr "Ecris tes données de connexion, s'il te plait"
+msgstr "Introduis tes données de connexion, s'il te plait"
 
 #: TITLE_MACHINE_EVALUATION
 msgid "Automatic evaluation"
@@ -3184,7 +4129,7 @@ msgstr "Signaler des exercices inadéquats"
 
 #: TITLE_RESTORE_PASS_FORM
 msgid "Please enter your username or email"
-msgstr "Ecris ton nom d'utilisateur ou email"
+msgstr "Introduis ton nom d'utilisateur ou e- mail"
 
 #: TITLE_SUBTITLE_EDITOR
 msgid "Subtitle Editor"
@@ -3196,7 +4141,7 @@ msgstr "Introduire l'URL de la vidéo"
 
 #: TITLE_USERS_CREDIT_HISTORY
 msgid "User's Credit History"
-msgstr "Crédit de l'utilisateur"
+msgstr "Historique de crédit de l'utilisateur"
 
 #: TITLE_USER_EVALUATION
 msgid "{0}'s evaluation"
@@ -3204,7 +4149,7 @@ msgstr "Evaluation de {0}"
 
 #: TITLE_VIEW_VIDEO_COMMENT
 msgid "View video comment"
-msgstr "Regarder vidéo commentaire"
+msgstr "Regarder commentaire en vidéo"
 
 #: TOOLTIP_ADD_FILES
 msgid "Add file(s)"
@@ -3212,11 +4157,11 @@ msgstr "Ajouter un(des) fichier(s)"
 
 #: TOOLTIP_ADD_ROLES_TO_EXERCISE
 msgid "Define the characters/roles appearing on this exercise"
-msgstr "Définir les rôles qui apparaissent dans cet éxercice"
+msgstr "Définir les rôles qui apparaissent dans cet exercice"
 
 #: TOOLTIP_ADD_SUBTITLES_TO_EXERCISE
 msgid "Add your own subtitles to this exercise"
-msgstr "Ajouter tes propres sous-titres à cet éxercice"
+msgstr "Ajouter tes propres sous-titres à cet exercice"
 
 #: TOOLTIP_CANCEL_UPLOAD
 msgid "Cancel upload"
@@ -3240,11 +4185,13 @@ msgstr "Enregistrer une vidéo réponse à la suite de cet exercice"
 
 #: TOOLTIP_SEEK_TO_LINE
 msgid "Click here to seek the video to the start time of this subtitle line"
-msgstr "Clique ici pour aller dans la vidéo au moment de début de cette ligne"
+msgstr ""
+"Clique ici pour que la vidéo démarre au moment où apparaît la ligne de sous-"
+"titre"
 
 #: TOOLTIP_START_SUBTITLE_LINE
 msgid "Subtitle start"
-msgstr "Début de sous-titre"
+msgstr "Début du sous-titre"
 
 #: TOOLTIP_UPLOAD_FILES
 msgid "Upload file(s)"
@@ -3255,20 +4202,24 @@ msgid ""
 "If the video you're uploading is created by someone else please refer here "
 "the author's name or webpage."
 msgstr ""
-"Si la vidéo que tu télécharges a été créé par quelqu'un d'autre écrire  ici "
-"le nom de l'auteur ou la page Web."
+"Si la vidéo que tu télécharges a été créée par quelqu'un d'autre cite  ici "
+"le nom de l'auteur ou de la page Web."
+
+#: TRAVEL
+msgid "Travel"
+msgstr "Voyages"
 
 #: UPLOAD_EVALUATION_EXERCISE
 msgid ""
 "Evaluation exercise: the video can't be used by others to practice and is "
 "only available in the evaluation area"
 msgstr ""
-"Exercice d'évaluation: la vidéo ne peut pas être utilisé par d'autres pour "
-"pratiquer et n'est disponible que dans la zone d'évaluation"
+"Exercice d'évaluation: la vidéo ne peut pas être utilisée par d'autres "
+"personnes pour s'entraîner et n'est disponible que dans la zone d'évaluation"
 
 #: UPLOAD_EXERCISE_TYPE
 msgid "Choose exercise type"
-msgstr "Choisis le type d'éxercice"
+msgstr "Choisis le type d'exercice"
 
 #: UPLOAD_LIMITS_INFO
 msgid ""
@@ -3276,32 +4227,32 @@ msgid ""
 "the videos shouldn't be shorter than <b>{1} seconds</b> or longer than "
 "<b>{2} seconds</b>, otherwise they will be rejected."
 msgstr ""
-"La taille maximale permise est {0}MB. En outre, les vidéos ne devraient pas "
-"être plus courtes de {1} secondes, ni plus longues de {2} secondes, sinon "
+"La taille maximale autorisée est {0}MB. En outre, les vidéos ne doivent pas "
+"être plus courtes qu' {1} seconde  ni plus longues que {2} secondes, sinon "
 "elles seront refusées."
 
 #: UPLOAD_LIMITS_REASONING
 msgid ""
 "In our research we've found that the user's concentration level drops "
 "significantly when dubbing videos longer than {0} seconds.<br>Also, since "
-"live dubbing is an stressful task, we limit the duration in hopes to keep a "
-"ballance between the amount of speaking practice the user achieves and the "
-"frustation he/she gets along the process."
+"live dubbing is a stressful task, we limit the duration in hopes to keep a "
+"balance between the amount of speaking practice the user achieves and the "
+"frustration he/she gets along the process."
 msgstr ""
-"Dans nos recherches, nous avons constaté que le niveau de concentration de "
-"l'utilisateur diminue considérablement lorsque le sous-titrage des vidéos "
-"dure plus de {0} secondes. En outre, puisque le doublage en direct est une "
-"tâche si stressante, que nous limitons la durée dans l'espoir de garder une "
-"équilibre entre la durée de la pratique orale et la frustration, il / elle "
-"reçoit au long du processus."
+"Lors de nos recherches, nous avons constaté que le niveau de concentration "
+"de l'utilisateur diminue considérablement lorsque le sous-titrage des vidéos "
+"dure plus de {0} secondes. En outre, le doublage en direct étant une tâche "
+"très stressante, nous limitons sa durée dans le but de garder un équilibre "
+"entre la quantité de la pratique orale et la frustration ressentie au cours "
+"du processus."
 
 #: UPLOAD_PRACTICE_EXERCISE
 msgid ""
-"Practice exercise: users can practice an record responses following this "
+"Practice exercise: users can practice and record responses following this "
 "video"
 msgstr ""
-"Exercice de pratique:  les utilisateurs peuvent pratiquer et enregistrer les "
-"réponses à la suite de cette vidéo"
+"Exercice  pratique:  les utilisateurs peuvent pratiquer et enregistrer les "
+"réponses  en suivant cette vidéo"
 
 #: USER
 msgid "user"
@@ -3323,6 +4274,10 @@ msgstr "Evaluations que j'ai reçues récemment"
 msgid "Videos I recently uploaded"
 msgstr "Vidéos que j'ai téléchargées récemment"
 
+#: USING_FINANCIAL_AND_POSTAL_SERVICES
+msgid "Using financial and postal services"
+msgstr "Aller à la banque/à la poste"
+
 #: VALID_CHARACTERS
 msgid "Valid characters: [a-zA-Z0-9_]"
 msgstr "Caractères valides [a-zA-Z0-9_]"
@@ -3334,6 +4289,10 @@ msgstr "Tu dois introduire une URL valide!"
 #: VALUATION
 msgid "Evaluation"
 msgstr "Évaluation"
+
+#: VERB
+msgid "Verb"
+msgstr ""
 
 #: VIDEOCOMMENT
 msgid "Video comment"
@@ -3357,15 +4316,23 @@ msgstr "Etat de la vidéo"
 
 #: VIDEO_TUTORIALS
 msgid "Video tutorials"
-msgstr "Vidéo tutoriels"
+msgstr "tutoriels vidéo"
 
 #: VIDEO_TUTORIALS_DESCRIPTION
 msgid ""
 "The following videos explain how to use some of Babelium's features [In "
 "English]"
 msgstr ""
-"Les vidéos suivantes expliquent comment utiliser quelques fonctionnalités de "
-"Babelium [En anglais]"
+"Les vidéos suivantes expliquent comment utiliser certaines fonctionnalités "
+"de Babelium [En anglais]"
+
+#: VOCABULARY
+msgid "Vocabulary"
+msgstr ""
+
+#: VOICE_OVER
+msgid "Voice-over"
+msgstr ""
 
 #: VOLUME
 msgid "Volume"
@@ -3378,13 +4345,13 @@ msgstr "Es-tu sûr de vouloir éliminer toutes les lignes des sous-titres?"
 #: WARNING_EMPTY_SUBTITLE
 msgid "You can't save the subtitle. You haven't added any lines yet."
 msgstr ""
-"Tu ne peux pas enregistrer les sous-titres. Tu n'as pas ajouté aucune ligne "
+"Tu ne peux pas enregistrer les sous-titres. Tu n'as  ajouté aucune ligne "
 "pour le moment."
 
 #: WARNING_NOT_MODIFIED_SUBTITLES
 msgid "You can't save the subtitle. You haven't modified any part of it."
 msgstr ""
-"Tu ne peux pas enregistrer les sous-titres. Aucune partie a été modifiée."
+"Tu ne peux pas enregistrer les sous-titres. Aucune partie n'a été modifiée."
 
 #: WARNING_ROLE_PANEL_1
 msgid "You must fill all the options"
@@ -3416,21 +4383,24 @@ msgstr "Tu dois choisir un rôle."
 
 #: WARNING_SUBTITLE_HAS_ERRORS
 msgid "Subtitle Has Errors"
-msgstr "Le sous-titre a des érreurs."
+msgstr "Le sous-titre contient des erreurs."
 
 #: WEBCAM
 msgid "Webcam"
 msgstr "Webcam"
 
+#: WORK
+msgid "Work"
+msgstr "Travail"
+
 #: WRONG_FIELDS_IN_FORM
 msgid "Some form fields are wrong. Fix the errors to proceed."
 msgstr ""
-"Certains champs du formulaire sont faux. Corriger les erreurs pour "
-"continuer."
+"Certains champs du formulaire sont faux. Corrige les erreurs pour continuer."
 
 #: YOURCHARACTER
 msgid "Your role is the red arrow"
-msgstr "Ton rôle est la flèche rouge"
+msgstr "Ton rôle correspond à la flèche rouge"
 
 #: YOUR_ASSESSMENT_COULDNT_BE_SAVE
 msgid "Your assessment couldn't be properly saved."
@@ -3438,7 +4408,7 @@ msgstr "Ton évaluation n'a pas pu être enregistrée"
 
 #: YOUR_ASSESSMENT_HAS_BEEN_SAVED
 msgid "Your assessment has been saved. Thanks for your collaboration."
-msgstr "Ton évaluation a été enregistrée. Merci pour ta collaboration"
+msgstr "Ton évaluation a bien été enregistrée. Merci pour ta collaboration"
 
 #: YOUR_AUTOEVALUATION_REQUEST_IS_BEING_PROCESSED
 msgid "Your autoevaluation request is being processed"

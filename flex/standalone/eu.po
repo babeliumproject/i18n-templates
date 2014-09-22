@@ -1,16 +1,16 @@
-#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/eu_ES/myResources.properties
+#. extracted from git/flex-standalone-site/locale/en_US/myResources.properties, git/flex-standalone-site/locale/eu_ES/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone-site\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 13:41+0200\n"
-"PO-Revision-Date: 2013-11-25 13:41+0200\n"
-"Last-Translator: Babelium Team <babeliumproject@gmail.com>\n"
+"POT-Creation-Date: 2014-09-22 18:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 
 #: ABORT_RECORDING
 msgid "Abort recording"
@@ -43,6 +43,10 @@ msgstr "Eposta bat bidali da adierazitako helbidera."
 #: ADDVIDEO
 msgid "Add a video"
 msgstr "Bideoa gehitu"
+
+#: ADVERB_ADJECTIVE
+msgid "Adverb/Adjective"
+msgstr ""
 
 #: ALERT_SUCCESSFUL_FILE_UPLOAD_RED5
 msgid ""
@@ -139,7 +143,7 @@ msgid "No, thanks!"
 msgstr "Ez, eskerrik asko!"
 
 #: BUTTON_OK
-msgid "Ok"
+msgid "OK"
 msgstr "Ados"
 
 #: BUTTON_PAUSE
@@ -243,14 +247,6 @@ msgctxt "CANCEL"
 msgid "Cancel"
 msgstr "Utzi"
 
-#: CC-BY
-msgid "Attribution"
-msgstr "Aintzatespena"
-
-#: CC-BY-NC
-msgid "Attribution Non-Commercial"
-msgstr "Aintzatespena Ez-Komertziala"
-
 #: CC-BY-NC-ND
 msgid "Attribution Non-Commercial No Derivative"
 msgstr "Aintzatespena Ez-Komertziala Ez-Eratorrigarria"
@@ -259,6 +255,10 @@ msgstr "Aintzatespena Ez-Komertziala Ez-Eratorrigarria"
 msgid "Attribution Non-Commercial Share Alike"
 msgstr "Aintzatespena Ez-Komertziala Era Berean Banatua"
 
+#: CC-BY-NC
+msgid "Attribution Non-Commercial"
+msgstr "Aintzatespena Ez-Komertziala"
+
 #: CC-BY-ND
 msgid "Attribution No Derivative"
 msgstr "Aintzatespena Ez-Eratorrigarria"
@@ -266,6 +266,10 @@ msgstr "Aintzatespena Ez-Eratorrigarria"
 #: CC-BY-SA
 msgid "Attribution Share Alike"
 msgstr "Aintzatespena Era Berean Banatua"
+
+#: CC-BY
+msgid "Attribution"
+msgstr "Aintzatespena"
 
 #: CHECK_YES_PLEASE
 msgid "Yes, please."
@@ -306,6 +310,14 @@ msgstr "Komaz banandutako hitzak"
 #: COMMENTS
 msgid "Comment"
 msgstr "Iruzkinak"
+
+#: COMMUNICATION_SITUATION
+msgid "Communication situation"
+msgstr ""
+
+#: COMMUNICATIVE_COMPETENCE
+msgid "Communicative competence"
+msgstr ""
 
 #: COMPLETE_SUBTITLE_INFO
 msgid ""
@@ -414,6 +426,10 @@ msgstr ""
 msgid "Are you sure you want to delete the selected videos?"
 msgstr "Ziur zaude aukeratutako bideoak ezabatu nahi dituzula?"
 
+#: CONVERSATION
+msgid "Conversation"
+msgstr ""
+
 #: CONVERTED
 msgid "converted"
 msgstr "bihurtua"
@@ -426,444 +442,936 @@ msgstr "Bestelakoa (Copyright-duna)"
 msgid "Current email address"
 msgstr "Uneko eposta helbidea"
 
-#: D001_A1_SI01
+#: D1_1_13_1
 msgid ""
-"I can introduce somebody and use basic greetings and leave-taking "
-"expressions."
+"Can read a very short, rehearsed statement – e.g. to introduce a speaker, "
+"propose a toast"
 msgstr ""
-"Gai naiz norbait aurkezteko eta oinarrizko agurrak erabiltzeko (\"kaixo\", "
-"\"agur\")."
 
-#: D002_A1_SI02
+#: D1_1_15_1
 msgid ""
-"I can ask and answer simple questions, initiate and respond to simple "
-"statements in areas of immediate need or on very familiar topics."
+"Can make an introduction and use basic greeting and leave-taking expressions"
 msgstr ""
-"Gai naiz galdera errazak egiteko eta erantzuteko; baieztapenak egiteko eta "
-"erantzuteko gai arrunt eta ezagunetan."
 
-#: D003_A1_SI03
+#: D1_1_15_2
+msgid "Can ask how people are and react to news"
+msgstr ""
+
+#: D1_1_16_1
+msgid "Can describe him/herself, what he/she does and where he/she lives"
+msgstr ""
+
+#: D1_1_17_1
 msgid ""
-"I can make myself understood in a simple way but I am dependent on my "
-"partner being prepared to repeat more slowly and rephrase what I say and to "
-"help me to say what I want."
+"CAN ask simple questions of a factual nature and understand the answers "
+"provided these are expressed in simple language (for example, 'Where is the "
+"dining-room?' 'It's on the first floor', etc.)"
 msgstr ""
-"Gai naiz modu sinplean komunikatzeko, baina nire solaskidearen menpe nago, "
-"berak prest ego n behar baitu nik esandakoa astiro errepikatzeko, "
-"birformulatzeko edo nahi dudana esaten laguntzeko."
 
-#: D004_A1_SI04
+#: D1_1_17_2
+msgid "CAN make simple complaints, for example 'The water is cold'"
+msgstr ""
+
+#: D1_2_01_1
 msgid ""
-"I can make simple purchases where pointing or other gestures can support "
-"what I say."
-msgstr "Erosketa errazak egin ditzaket keinuz lagunduta edo eskuaz seinalatuta."
+"CAN call an emergency number, give location and ask for relevant service"
+msgstr ""
 
-#: D005_A1_SI05
-msgid "I can handle numbers, quantities, cost and time."
-msgstr "Gai naiz zenbakiak, zenbatekoak, salneurriak eta orduak erabiltzeko."
+#: D1_2_02_1
+msgid "Can tell a story or describe something in a simple list of points"
+msgstr ""
 
-#: D006_A1_SI06
-msgid "I can ask people for things and give people things."
-msgstr "Gai naiz jendeari gauzak eskatu eta emateko."
-
-#: D007_A1_SI07
+#: D1_2_02_2
 msgid ""
-"I can ask people questions about where they live, people they know, things "
-"they have etc. and answer such questions addressed to me provided they are "
-"articulated slowly and clearly."
+"Can describe everyday aspects of his/her environment e.g. people, places, a "
+"job or study experience"
 msgstr ""
-"Gai naiz jendeari galdera sinpleak egiteko (non bizi diren, ezagutzen duten "
-"jendea, dauzkaten gauzak etab.); eta galdera hauek niri poliki eta argi "
-"eginez gero, gai naiz erantzuteko."
 
-#: D008_A1_SI08
+#: D1_2_02_3
+msgid "Can give short, basic descriptions of events and activities"
+msgstr ""
+
+#: D1_2_02_4
 msgid ""
-"I can indicate time by such phrases as \"next week\", \"last Friday\", \"in "
-"November\", \"three o’clock\"."
+"Can describe plans and arrangements, habits and routines, past activities "
+"and personal experiences"
 msgstr ""
-"Gai naiz denbora adierazteko, \"hurrengo astean\", \"joan den ostiralean\", "
-"\"azaroan\", \"hiruretan\" bezalako esamoldeekin."
 
-#: D009_A1_SP01
+#: D1_2_02_5
 msgid ""
-"I can give personal information (address, telephone number, nationality, "
-"age, family, and hobbies)."
+"Can use simple descriptive language to make brief statements about and "
+"compare objects and possessions"
 msgstr ""
-"Gai naiz neure berri emateko: helbidea, telefono-zenbakia, herritartasuna, "
-"adina, familia, eta zaletasunak."
 
-#: D010_A1_SP02
-msgid "I can describe where I live."
-msgstr "Gai naiz non bizi naizen deskribatzeko."
-
-#: D011_A2_SI01
-msgid "I can make simple transactions in shops, post offices or banks."
+#: D1_2_02_6
+msgid "Can explain what he/she likes or dislikes about something"
 msgstr ""
-"Gai naiz salerosketa sinpleak egiteko dendetan, posta bulegoan edo bankuan."
 
-#: D012_A2_SI02
+#: D1_2_06_1
 msgid ""
-"I can use public transport: buses, trains, and taxis, ask for basic "
-"information and buy tickets."
+"CAN get the attention of staff in an appropriate way and order a meal in a "
+"restaurant"
 msgstr ""
-"Gai naiz garraio publikoak erabiltzeko (autobusak, trenak eta taxiak), "
-"oinarrizko argibideak eskatzeko edo txartelak erosteko."
 
-#: D013_A2_SI03
-msgid "I can get simple information about travel."
-msgstr "Gai naiz bidaiari buruzko informazio sinplea lortzeko."
+#: D1_2_06_2
+msgid "CAN ask simple questions about the menu and understand simple answers"
+msgstr ""
 
-#: D014_A2_SI04
-msgid "I can order something to eat or drink."
-msgstr "Gai naiz edatekoa edo jatekoa eskatzeko."
+#: D1_2_06_3
+msgid "CAN express an opinion about food"
+msgstr ""
 
-#: D015_A2_SI05
+#: D1_2_06_4
+msgid "CAN make simple complaints, for example, 'The food is cold'"
+msgstr ""
+
+#: D1_2_07_1
 msgid ""
-"I can make simple purchases by stating what I want and asking the price."
+"CAN ask for what is required, if it is something which the shopkeeper can "
+"readily understand"
 msgstr ""
-"Gai naiz erosketa sinpleak egiteko, zer nahi dudan esanez eta prezioa "
-"galdetuz."
 
-#: D016_A2_SI06
-msgid "I can ask for and give directions referring to a map or plan."
-msgstr ""
-"Gai naiz mapa edo plano baten gainean bidea galdetzeko edota adierazteko."
-
-#: D017_A2_SI07
-msgid "I can ask how people are and react to news."
-msgstr ""
-"Gai naiz jendea agurtzeko, nola dauden galdetzeko eta ematen dizkidaten "
-"berrien aurrean zerbait esateko."
-
-#: D018_A2_SI08
-msgid "I can make and respond to invitations."
-msgstr "Gai naiz gonbitak egiteko edo gonbitei erantzuteko."
-
-#: D019_A2_SI09
-msgid "I can make and accept apologies."
-msgstr "Gai naiz aitzakiakjartzeko edota onartzeko."
-
-#: D020_A2_SI10
-msgid "I can say what I like and dislike."
-msgstr "Gai naiz zer gustatzen zaidan eta zer gustatzen ez zaidan esateko."
-
-#: D021_A2_SI11
+#: D1_2_07_2
 msgid ""
-"I can discuss with other people what to do, where to go, and make "
-"arrangements to meet."
+"Can ask about things and make simple transactions in shops, post offices or "
+"banks"
 msgstr ""
-"Gai naiz beste batzuekin zer egin eta nora joan eztabaidatzeko eta "
-"elkartzeko ordua eta tokia adosteko."
 
-#: D022_A2_SI12
+#: D1_2_07_3
 msgid ""
-"I can ask people questions about what they do at work and in free time, and "
-"answer such questions addressed to me."
+"Can give and receive information about quantities, numbers, prices, etc."
 msgstr ""
-"Gai naiz jendeari lanean eta aisialdian zer egiten duen galdetzeko; baita "
-"galdera horiei erantzuteko ere, niri egiten dizkidatenean."
 
-#: D023_A2_SP01
-msgid "I can describe myself, my family and other people."
-msgstr "Gai naiz neure burua, familia eta bestelako jendea ere deskribatzeko."
-
-#: D024_A2_SP02
-msgid "I can describe where 1 live."
-msgstr "Gai naiz non bizi naizen deskribatzeko."
-
-#: D025_A2_SP03
-msgid "I can give short, basic descriptions of events."
-msgstr "Gai naiz gertaeren deskribapen labur eta oinarrizkoak egiteko."
-
-#: D026_A2_SP04
+#: D1_2_07_4
 msgid ""
-"I can describe my educational background, my present or most recent job."
+"Can make simple purchases by stating what is wanted and asking the price"
 msgstr ""
-"Gai naiz jasotako heziketa eta nire lehengo nahiz oraingo lana "
-"deskribatzeko."
 
-#: D027_A2_SP05
-msgid "I can describe my hobbies and interests in a simple way."
-msgstr "Gai naiz nire zaletasunak eta interesak sinpleki deskribatzeko."
-
-#: D028_A2_SP06
+#: D1_2_08_1
 msgid ""
-"I can describe past experiences and personal experiences (e.g. the last "
-"weekend, my last holiday)."
+"CAN ask (face-to-face) for a medical appointment and understand the reply"
 msgstr ""
-"Gai naiz izandako pasadizoak eta esperientzia pertsonalak deskribatzeko "
-"(adib. azken asteburua, azken oporrak)."
 
-#: D029_B1_SI01
+#: D1_2_08_2
 msgid ""
-"I can start, maintain and close simple face-to-face conversation on topics "
-"that are familiar or of personal interest."
+"CAN indicate the nature of a problem to a 9 professional, perhaps using "
+"gestures and body language"
 msgstr ""
-"Gai naiz aurrez aurreko elkarrizketa sinpleak hasi, mantendu eta amaitzeko, "
-"gaia ezaguna edo interes pertsonalekoa denean."
 
-#: D030_B1_SI02
+#: D1_2_13_1
+msgid "Can give a short, rehearsed, basic presentation on a familiar subject"
+msgstr ""
+
+#: D1_2_13_2
 msgid ""
-"I can maintain a conversation or discussion but may sometimes be difficult "
-"to follow when trying to say exactly what I would like to."
+"Can give a short, rehearsed presentation on a topic pertinent to his/her "
+"everyday life, briefly give reasons and explanations for opinions, plans and "
+"actions"
 msgstr ""
-"Gai naiz elkarrizketan edo eztabaidan jarduteko, baina batzuetan zaila izan "
-"liteke esan nahi nukeena ulertzea."
 
-#: D031_B1_SI03
+#: D1_2_14_1
 msgid ""
-"I can deal with most situations likely to arise when making travel "
-"arrangements through an agent or when actually travelling."
+"CAN ask for and understand the required information from a tourist office, "
+"provided this is of a familiar, non-specialised nature"
 msgstr ""
-"Gai naiz txukun moldatzeko bidaia baten erreserba agentzian egiterakoan edo "
-"bidaian bertan gerta daitezkeen gorabeheretan."
 
-#: D032_B1_SI04
-msgid "I can ask for and follow detailed directions."
+#: D1_2_14_2
+msgid "CAN give simple explanations about familiar places"
 msgstr ""
-"Gai naiz helbide bati buruzko xehetasunak galdetzeko eta ematen dizkidaten "
-"azalpen xeheak jarraitzeko."
 
-#: D033_B1_SI05
+#: D1_2_15_1
 msgid ""
-"I can express and respond to feelings such as surprise, happiness, sadness, "
-"interest and indifference."
+"Can establish social contact: greetings and farewells; introductions; giving "
+"thanks"
 msgstr ""
-"Gai naiz sentimenduak adierazteko, hala nola harridura, poza, tristura, "
-"jakin-mina edo ezaxola. Halaber, sentimenduok beste norbaitek adierazten "
-"dizkidanean, gai naiz erantzuna emateko."
 
-#: D034_B1_SI06
+#: D1_2_15_2
+msgid "Can express how he/she feels in simple terms, and express thanks"
+msgstr ""
+
+#: D1_2_15_3
+msgid "Can make and respond to invitations, suggestions and apologies"
+msgstr ""
+
+#: D1_2_15_4
+msgid "Can say what he/she likes and dislikes"
+msgstr ""
+
+#: D1_2_16_1
 msgid ""
-"I can give or seek personal views and opinions in an informal discussion "
-"with friends."
+"Can describe his/her family, living conditions, educational background, "
+"present or most recent job"
 msgstr ""
-"Gai naiz neure ikuspuntu eta iritziak azaltzeko, lagunekin edo ezagunekin "
-"hitz egiten dudanean."
 
-#: D035_B1_SI07
-msgid "I can agree and disagree politely."
-msgstr "Gai naiz ados nagoela edo ez nagoela edukazioz adierazteko."
+#: D1_2_16_2
+msgid "Can describe people, places and possessions in simple terms"
+msgstr ""
 
-#: D036_B1_SP01
-msgid "I can narrate a story."
-msgstr "Gai naiz istorioak kontatzeko."
+#: D1_2_17_1
+msgid "CAN book a room (face-to-face) in a hotel, bed and breakfast, etc."
+msgstr ""
 
-#: D037_B1_SP02
+#: D1_2_17_2
 msgid ""
-"I can give detailed accounts of experiences, describing feelings and "
-"reactions."
+"CAN make a complaint about simple matters, for example 'The light in my room "
+"doesn't work.'"
 msgstr ""
-"Gai naiz esperientziak zehatz azaltzeko, aldi berean nire sentimenduak eta "
-"erreakzioak deskribatuz."
 
-#: D038_B1_SP03
-msgid "I can describe dreams, hopes and ambitions."
-msgstr "Gai naiz nire ametsak, itxaropenak eta helburuak azaltzeko."
-
-#: D039_B1_SP04
-msgid "I can explain and give reasons for my plans, intentions and actions."
-msgstr ""
-"Gai naiz nire planak, asmoak eta ekintzak azaltzeko eta horien zergatiak "
-"emateko."
-
-#: D040_B1_SP05
-msgid "I can relate the plot of a book or film and describe my reactions."
-msgstr ""
-"Gai naiz liburuen edo filmen argumentuak kontatzeko eta nire inpresioak "
-"deskribatzeko."
-
-#: D041_B1_SP06
+#: D1_2_18_1
 msgid ""
-"I can paraphrase short written passages orally in a simple fashion, using "
-"the original text wording and ordering."
+"CAN participate in a simple phone conversation with a known person on a "
+"predictable topic, e.g. 21 arrangements"
 msgstr ""
-"Gai naiz testu idatzien pasarte laburrak sinpleki ahoz kontatzeko, "
-"jatorrizko testuaren hitzak eta ordena erabiliz."
 
-#: D042_B2_SI01
+#: D1_2_19_1
 msgid ""
-"I can initiate, maintain and end discourse naturally with effective turn-"
-"taking."
+"CAN, on arrival in a foreign country, answer routine questions such as 'How "
+"long are you staying?' and respond appropriately to instructions such as "
+"'Open your suitcase', etc."
 msgstr ""
-"Gai naiz norbaitekin naturaltasunez hizketan hasi, jardun eta bukatzeko, "
-"hitz egiteko txandak hartuz eta emanez."
 
-#: D043_B2_SI02
+#: D1_2_19_2
 msgid ""
-"I can exchange considerable quantities of detailed factual information on "
-"matters within my fields of interest."
+"CAN give and understand straightforward directions, provided that these are "
+"not lengthy and/or complex"
 msgstr ""
-"Gai naiz nire intereseko edo nire arloko informazio zehatz ugari beste "
-"norbaitekin trukatzeko."
 
-#: D044_B2_SI03
+#: D1_2_19_3
 msgid ""
-"I can convey degrees of emotion and highlight the personal significance of "
-"events and experiences."
+"CAN go to a 21 information centre at, for example, a railway/bus station and "
+"ask for information as to how to get from A to B"
 msgstr ""
-"Gai naiz emozio-graduak adierazteko eta esperientzietan edo gertaeretan "
-"axola zaidana azpimarratzeko."
 
-#: D045_B2_SI04
+#: D1_2_19_4
+msgid "CAN ask to book tickets"
+msgstr ""
+
+#: D1_2_20_1
 msgid ""
-"I can engage in extended conversation in a clearly participatory fashion on "
-"most general topics."
+"CAN ask for simple post office services (e.g. 'I want to send this to Oman', "
+"'One first class stamp, please')"
 msgstr ""
-"Gai naiz iraupen jakineko elkarrizketan era aktiboan jarduteko, mintzagaiak "
-"interes orokorrekoak direnean."
 
-#: D046_B2_SI05
+#: D1_2_20_2
+msgid "CAN ask to change money at a bank (e.g. 'Can I change these here?')"
+msgstr ""
+
+#: D1_3_01_1
 msgid ""
-"I can account for and sustain my opinions in discussion by providing "
-"relevant explanations, arguments and comments."
+"CAN indicate nature of problem and understand simple instructions and "
+"questions"
 msgstr ""
-"Gai naiz eztabaidetan neure iritziak arrazoitu eta defenditzeko, horretarako "
-"argibideak, argudioak eta iruzkinak eskainiz."
 
-#: D047_B2_SI06
+#: D1_3_02_1
 msgid ""
-"I can help a discussion along on familiar ground confirming comprehension, "
-"inviting others in etc."
+"Can give straightforward descriptions on a variety of familiar subjects "
+"within his/her field of interest"
 msgstr ""
-"Gai naiz elkarrizketari laguntzeko, gaia ezaguna denean, ulertzen dudala "
-"baieztatuz edo gainerako solaskideak hitz egitera gonbidatuz etab."
 
-#: D048_B2_SI07
+#: D1_3_02_2
 msgid ""
-"I can carry out a prepared interview, checking and confirming information, "
-"following up interesting replies."
+"Can reasonably fluently relate a straightforward narrative or description as "
+"a linear sequence of points"
 msgstr ""
-"Gai naiz aldez aurretik prestatutako elkarrizketa bati aurre egiteko, ulertu "
-"dudana zuzena ote den baieztatzeko eskatuz eta erantzun batzuetan sakonduz."
 
-#: D049_B2_SP01
+#: D1_3_02_3
 msgid ""
-"I can give clear, detailed descriptions on a wide range of subjects related "
-"to my fields of interest."
+"Can give detailed accounts of experiences, describing feelings and reactions"
 msgstr ""
-"Gai naiz deskribapen argi eta zehatzak egiteko nire gustuko arlo gehienen "
-"gainean."
 
-#: D050_B2_SP02
+#: D1_3_02_4
+msgid "Can relate details of unpredictable occurrences, e.g. an accident"
+msgstr ""
+
+#: D1_3_02_5
+msgid "Can relate the plot of a book or film and describe his/her reactions"
+msgstr ""
+
+#: D1_3_02_6
+msgid "Can describe dreams, hopes and ambitions"
+msgstr ""
+
+#: D1_3_02_7
+msgid "Can describe events, real or imagined"
+msgstr ""
+
+#: D1_3_03_1
 msgid ""
-"I can understand and summarise orally short extracts from news items, "
-"interviews or documentaries containing opinions, argument and discussion."
+"Can develop an argument well enough to be followed without difficulty most "
+"of the time"
 msgstr ""
-"Gai naiz aldizkari, elkarrizketa edo erreportajeetatik ateratako testu-"
-"zatiak irakurri eta ahoz laburtzeko, ikuspuntuak, argudioak eta eztabaidak "
-"islatuz."
 
-#: D051_B2_SP03
+#: D1_3_03_2
 msgid ""
-"I can understand and summarise orally the plot and sequence of events in an "
-"extract from a film or play."
+"Can briefly give reasons and explanations for opinions, plans and actions"
 msgstr ""
-"Gai naiz film edo antzerki-Ianen argumentua eta gertakizunen sekuentzia "
-"ulertzeko eta ahoz laburtzeko."
 
-#: D052_B2_SP04
+#: D1_3_06_1
+msgid "CAN order a meal in a restaurant"
+msgstr ""
+
+#: D1_3_06_2
 msgid ""
-"I can construct a chain of reasoned argument, linking my ideas logically."
-msgstr "Gai naiz arrazonamendu logikoak eraikitzeko eta nire ideiak uztartzeko."
+"CAN ask basic questions about the food in relation to the menu, and about "
+"the services available (e.g. use of credit cards, availability of high-"
+"chairs or half-portions for children)"
+msgstr ""
 
-#: D053_B2_SP05
+#: D1_3_06_3
 msgid ""
-"I can explain a viewpoint on a topical issue giving the advantages and "
-"disadvantages of various options."
+"CAN ask basic questions about the food and understand most explanations that "
+"are likely to be given in such establishments (e.g. when a vegetarian or "
+"someone keeping dietary laws or forbidden certain foods for medical reasons "
+"has to check the contents of a dish)"
 msgstr ""
-"Gai naiz arazoen gainean dudan ikuspuntua azaltzeko, aukeren arteko "
-"abantailak eta desabantailak agertuz."
 
-#: D054_B2_SP06
-msgid "I can speculate about causes, consequences, hypothetical situations."
-msgstr ""
-"Gai naiz gauzen zergatiez, ondorioez edota balizko egoerez ditudan "
-"irudipenak eta gogoetak azaltzeko."
-
-#: D055_C1_SI01
-msgid "I can keep up with an animated conversation between native speakers."
-msgstr ""
-"Gai naiz jatorrizko hiztunen arteko elkarrizketa bizi-bizietan zuzenean "
-"parte hartzeko."
-
-#: D056_C1_SI02
+#: D1_3_06_4
 msgid ""
-"I can use the language fluently, accurately and effectively on a wide range "
-"of general, professional or academic topics."
+"CAN make a complaint about straightforward matters, for example, the service "
+"or the bill"
 msgstr ""
-"Gai naiz erraz, zuzen eta egoki hitz egiteko gai askoren gainean: gai "
-"orokorrak, lan-esparrukoak, akademikoak, zientifikoak."
 
-#: D057_C1_SI03
+#: D1_3_07_1
+msgid "CAN go to a counter service shop and ask for most of what (s)he wants"
+msgstr ""
+
+#: D1_3_08_1
 msgid ""
-"I can use language flexibly and effectively for social purposes, including "
-"emotional, allusive and joking usage."
+"CAN ask over the phone for a medical appointment and understand the reply"
 msgstr ""
-"Gai naiz jendartean modu malgu eta eraginkorrean hitz egiteko, sentimenduak "
-"azalduz, zeharkako aipamenak eginez edo umorea erabiliz."
 
-#: D058_C1_SI04
+#: D1_3_08_2
 msgid ""
-"I can express my ideas and opinions clearly and precisely, and can present "
-"and respond to complex lines of reasoning convincingly."
+"CAN explain what is wrong in straightforward terms at a chemist's, doctor's, "
+"hospital or dentist's, especially if symptoms are visible"
 msgstr ""
-"Gai naiz nire ideiak eta iritziak eztabaidan argi eta zuzen emateko, "
-"konbentzitzeko moduan argudiatzeko, baita arrazonamendu zail eta bihurriei "
-"erantzuteko ere."
 
-#: D059_C1_SP01
-msgid "I can give clear, detailed descriptions of complex subjects."
-msgstr ""
-"Gai naiz argi eta zehatz hitz egiteko, xehetasun eta guzti, gaiak zailak eta "
-"bihurriak badira ere."
-
-#: D060_C1_SP02
-msgid "I can orally summarise long, demanding texts."
-msgstr "Gai naiz testu luze eta bihurriak ahoz laburtzeko."
-
-#: D061_C1_SP03
+#: D1_3_08_3
 msgid ""
-"I can give an extended description or account of something, integrating "
-"themes, developing particular points and concluding appropriately."
+"CAN ask for advice and understand the answer, provided this is given in "
+"everyday language"
 msgstr ""
-"Gai naiz zerbait luze eta zabal azaltzeko, gaiak uztartuz, zenbait aspektu "
-"bereziki garatuz eta nire hizketaldia egoki amaituz."
 
-#: D062_C1_SP04
+#: D1_3_13_1
 msgid ""
-"I can give a clearly developed presentation on a subject in my fields of "
-"personal or professional interest, departing when necessary from the "
-"prepared text and following up spontaneously points raised by members of the "
-"audience."
+"Can give a prepared straightforward presentation on a familiar topic within "
+"his/her field which is clear enough to be followed without difficulty most "
+"of the time, and in which the main points are explained with reasonable "
+"precision"
 msgstr ""
-"Gai naiz lan-esparruko edo arlo pertsonaleko gaiak argi egituratuta "
-"aurkezteko, beharrezkoa denean, prestatutako testutik aldenduz eta entzuleen "
-"galderei bat-batean erantzunez."
 
-#: D063_C2_SI01
+#: D1_3_14_1
 msgid ""
-"I can take part effortlessly in all conversations and discussions with "
-"native speakers."
+"CAN give simple information to a visitor about familiar places, for example "
+"her/his own school, city etc."
 msgstr ""
-"Gai naiz jatorrizko hiztunekin edozein elkarrizketa edo eztabaidatan "
-"ahaleginik gabe parte hartzeko."
 
-#: D064_C2_SP01
-msgid ""
-"I can summarise orally information from different sources, reconstructing "
-"arguments and accounts in a coherent presentation."
+#: D1_3_14_2
+msgid "CAN answer simple, predictable questions"
 msgstr ""
-"Gai naiz hainbat iturburutako informazioa ulertu eta ahoz laburtzeko, "
-"argudioak eta edukiak aurkezpen argi eta koherentean berreraikiz."
 
-#: D065_C2_SP02
+#: D1_3_15_1
 msgid ""
-"I can present ideas and viewpoints in a very flexible manner in order to "
-"give emphasis, to differentiate and to eliminate ambiguity."
+"CAN participate in a conversation in a casual or semi-formal situation for a "
+"short time"
 msgstr ""
-"Gai naiz kontzeptuak eta ikuspuntuak malgu adierazteko, horrela informazioak "
-"nabarmenduz edo bereiztuz eta zalantzak ezabatuz."
+
+#: D1_3_15_2
+msgid ""
+"Can compare and contrast alternatives, discussing what to do, where to go, "
+"who or which to choose, etc."
+msgstr ""
+
+#: D1_3_15_3
+msgid "Can enter unprepared into conversations on familiar topics"
+msgstr ""
+
+#: D1_3_15_4
+msgid ""
+"Can maintain a conversation or discussion but may sometimes be difficult to "
+"follow when trying to say exactly what he/she would like to"
+msgstr ""
+
+#: D1_3_15_5
+msgid ""
+"Can express and respond to feelings such as surprise, happiness, sadness, "
+"interest and indifference"
+msgstr ""
+
+#: D1_3_17_1
+msgid "CAN book a room in a hotel over the phone"
+msgstr ""
+
+#: D1_3_17_2
+msgid ""
+"CAN establish to his/her own satisfaction that the accommodation on offer "
+"fulfils all his/her needs"
+msgstr ""
+
+#: D1_3_17_3
+msgid ""
+"CAN deal with most situations likely to arise in a hotel, such as messages, "
+"ordering, etc"
+msgstr ""
+
+#: D1_3_19_1
+msgid "CAN go to a rental firm and ask to hire a car, boat etc."
+msgstr ""
+
+#: D1_3_19_2
+msgid ""
+"CAN deal with most routine situations likely to arise when either making 21 "
+"arrangements through a 21 agent or when actually travelling (e.g. buying "
+"tickets, checking in at an airport)"
+msgstr ""
+
+#: D1_3_20_1
+msgid ""
+"CAN ask to open an account at a bank provided that the procedure is "
+"straightforward"
+msgstr ""
+
+#: D1_4_01_1
+msgid ""
+"CAN give a report of an emergency incident, e.g. describe the circumstances "
+"of a theft to the police, give details of vehicle breakdown"
+msgstr ""
+
+#: D1_4_02_1
+msgid ""
+"Can give clear, detailed descriptions on a wide range of subjects related to "
+"his/her field of interest"
+msgstr ""
+
+#: D1_4_03_1
+msgid ""
+"Can develop an argument systematically with appropriate highlighting of "
+"significant points, and relevant  supporting detail"
+msgstr ""
+
+#: D1_4_03_2
+msgid ""
+"Can develop a clear argument, expanding and supporting his/her points of "
+"view at some length with subsidiary points and relevant examples"
+msgstr ""
+
+#: D1_4_03_3
+msgid "Can construct a chain of reasoned argument"
+msgstr ""
+
+#: D1_4_03_4
+msgid ""
+"Can explain a viewpoint on a topical issue giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+
+#: D1_4_06_1
+msgid "CAN order a meal and ask for clarification about dishes on the menu"
+msgstr ""
+
+#: D1_4_06_2
+msgid ""
+"CAN maintain an interaction related to the nature and quality of the food"
+msgstr ""
+
+#: D1_4_06_3
+msgid ""
+"CAN complain effectively about most situations that are likely to arise in a "
+"restaurant"
+msgstr ""
+
+#: D1_4_07_1
+msgid "CAN ask effectively for refund or exchange of faulty or unwanted goods"
+msgstr ""
+
+#: D1_4_07_2
+msgid "CAN bargain for what (s)he wants and reach an agreement"
+msgstr ""
+
+#: D1_4_13_1
+msgid ""
+"Can give a clear, prepared presentation, giving reasons in support of or "
+"against a particular point of view and giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+
+#: D1_4_13_2
+msgid ""
+"Can give a clear, systematically developed presentation, with highlighting "
+"of significant points, and relevant supporting detail"
+msgstr ""
+
+#: D1_4_15_1
+msgid ""
+"CAN keep up a conversation on a fairly wide range of topics, e.g. personal "
+"and professional experiences, events currently in the news"
+msgstr ""
+
+#: D1_4_15_2
+msgid "CAN express opinions on abstract/cultural matters, and defend them"
+msgstr ""
+
+#: D1_4_15_3
+msgid ""
+"Can convey degrees of emotion and highlight the personal significance of "
+"events and experiences"
+msgstr ""
+
+#: D1_4_17_1
+msgid ""
+"CAN argue/complain effectively about most problem areas that are likely to "
+"occur"
+msgstr ""
+
+#: D1_4_18_1
+msgid ""
+"CAN participate in casual conversation over the phone with a known person on "
+"a variety of topics"
+msgstr ""
+
+#: D1_4_19_1
+msgid "CAN deal with all kinds of 21 arrangements and travelling"
+msgstr ""
+
+#: D1_4_20_1
+msgid ""
+"CAN ask questions related to different types of post office services and "
+"understand answers if sympathetically expressed"
+msgstr ""
+
+#: D1_5_02_1
+msgid "Can give clear, detailed descriptions of complex subjects"
+msgstr ""
+
+#: D1_5_02_2
+msgid ""
+"Can give elaborate descriptions and narratives, integrating sub-themes, "
+"developing particular points and rounding off with an appropriate conclusion"
+msgstr ""
+
+#: D1_5_02_3
+msgid ""
+"Can give clear, smoothly flowing, elaborate and often memorable descriptions"
+msgstr ""
+
+#: D1_5_08_1
+msgid ""
+"CAN enquire effectively about 9 services provided, entitlements and "
+"procedures involved"
+msgstr ""
+
+#: D1_5_08_2
+msgid ""
+"CAN describe non-visible symptoms such as different kinds of pain, for "
+"example 'dull', 'stabbing', 'throbbing' etc."
+msgstr ""
+
+#: D1_5_13_1
+msgid ""
+"Can give a clear, well-structured presentation of a complex subject, "
+"expanding and supporting points of view at some length with subsidiary "
+"points, reasons and relevant examples"
+msgstr ""
+
+#: D1_5_13_2
+msgid ""
+"Can present a complex topic confidently and articulately to an audience "
+"unfamiliar with it, structuring and adapting the talk flexibly to meet the "
+"audience's needs"
+msgstr ""
+
+#: D1_5_14_1
+msgid "CAN show visitors round and give a detailed description of a place"
+msgstr ""
+
+#: D1_5_15_1
+msgid ""
+"CAN participate in casual conversations with appropriacy and good "
+"understanding of humour, irony and implicit cultural references"
+msgstr ""
+
+#: D1_5_15_2
+msgid "CAN pick up nuances of meaning/opinion"
+msgstr ""
+
+#: D1_5_20_1
+msgid ""
+"CAN deal effectively with most routine transactions in a bank or post office"
+msgstr ""
+
+#: D2_1_11_1
+msgid "CAN ask very simple questions for information, such as 'What is this?'"
+msgstr ""
+
+#: D2_2_11_1
+msgid "CAN understand and ask simple questions and understand simple answers"
+msgstr ""
+
+#: D2_2_11_2
+msgid "CAN express simple opinions using expressions such as 'I don't agree'"
+msgstr ""
+
+#: D2_2_11_3
+msgid ""
+"Can exchange relevant information and give his/her opinion on practical "
+"problems when asked directly"
+msgstr ""
+
+#: D2_2_11_4
+msgctxt "D2_2_11_4"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+
+#: D2_3_05_1
+msgid ""
+"CAN give a short, simple presentation or demonstration on a familiar topic"
+msgstr ""
+
+#: D2_3_11_1
+msgid ""
+"CAN take a limited part in a seminar or tutorial, provided that this is "
+"conducted sympathetically, using simple language"
+msgstr ""
+
+#: D2_3_11_2
+msgid ""
+"Can take part in routine formal discussion of familiar subjects which is "
+"conducted in clearly articulated speech in the standard dialect and which "
+"involves the exchange of factual information, receiving instructions or the "
+"discussion of solutions to practical problems"
+msgstr ""
+
+#: D2_3_11_3
+msgid ""
+"CAN ask for clarification, but this needs to be given sympathetically in "
+"order for it to be understood"
+msgstr ""
+
+#: D2_3_11_4
+msgid ""
+"Can put over a point of view clearly, but has difficulty engaging in debate"
+msgstr ""
+
+#: D2_3_11_5
+msgctxt "D2_3_11_5"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+
+#: D2_3_11_6
+msgctxt "D2_3_11_6"
+msgid "Can give brief comments on the views of others"
+msgstr ""
+
+#: D2_3_11_7
+msgid ""
+"Can summarise and give his or her opinion about a short story, article, "
+"talk, discussion, interview, or documentary and answer further questions of "
+"detail"
+msgstr ""
+
+#: D2_4_05_1
+msgid "CAN give a clear presentation on a familiar topic"
+msgstr ""
+
+#: D2_4_05_2
+msgid "CAN answer predictable or factual questions"
+msgstr ""
+
+#: D2_4_09_1
+msgid "CAN check that all instructions are understood"
+msgstr ""
+
+#: D2_4_11_1
+msgctxt "D2_4_11_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+
+#: D2_4_11_2
+msgctxt "D2_4_11_2"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+
+#: D2_4_11_3
+msgid ""
+"Can synthesise and report information and arguments from a number of sources"
+msgstr ""
+
+#: D2_4_11_4
+msgid "CAN ask questions, for example for reasons, clarification etc."
+msgstr ""
+
+#: D2_5_05_1
+msgid "CAN rebut criticisms without causing offence"
+msgstr ""
+
+#: D2_5_05_2
+msgid "CAN give coherent explanations of a theoretical nature"
+msgstr ""
+
+#: D2_5_05_3
+msgid "CAN give an effective presentation or demonstration"
+msgstr ""
+
+#: D2_5_05_4
+msgid "CAN answer unpredictable questions of a factual nature"
+msgstr ""
+
+#: D2_5_09_1
+msgid ""
+"CAN make all necessary arrangements regarding practical arrangements for "
+"study in or out of classroom with teachers, lecturers, lab and library "
+"staff, etc."
+msgstr ""
+
+#: D2_5_11_1
+msgid "CAN reformulate questions if misunderstood"
+msgstr ""
+
+#: D2_5_11_2
+msgid ""
+"CAN make critical remarks / express disagreement without causing offence"
+msgstr ""
+
+#: D2_5_11_3
+msgid "CAN take an active part in most kinds of seminars or tutorials"
+msgstr ""
+
+#: D2_5_11_4
+msgid "CAN get and hold on to his/her turn to speak"
+msgstr ""
+
+#: D2_5_11_5
+msgid "CAN rebut counter-arguments"
+msgstr ""
+
+#: D3_1_10_1
+msgid ""
+"Can reply in an interview to simple direct questions spoken very slowly and "
+"clearly in direct non-idiomatic speech about personal details"
+msgstr ""
+
+#: D3_2_04_1
+msgid ""
+"CAN offer some help to a client/customer, for example, 'I'll give you our "
+"new catalogue'"
+msgstr ""
+
+#: D3_2_04_2
+msgid ""
+"CAN state simple requirements within own job area, for example 'I want to "
+"order 25 of...'"
+msgstr ""
+
+#: D3_2_04_3
+msgid ""
+"CAN exchange opinions on familiar, predictable matters, for example, "
+"involving straightforward discussions of the 'This is better because...' "
+"type"
+msgstr ""
+
+#: D3_2_04_4
+msgid ""
+"Can discuss what to do next, making and responding to suggestions, asking "
+"for and giving directions"
+msgstr ""
+
+#: D3_2_04_5
+msgctxt "D3_2_04_5"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+
+#: D3_2_10_1
+msgid ""
+"Can answer simple questions and respond to simple statements in an interview"
+msgstr ""
+
+#: D3_2_10_2
+msgid ""
+"Can make him/herself understood in an interview and communicate ideas and "
+"information on familiar topics, provided he/she can ask for clarification "
+"occasionally, and is given some help to express what he/she wants to"
+msgstr ""
+
+#: D3_2_18_1
+msgid ""
+"CAN make an outgoing call and pass on simple, prepared messages, for example "
+"'Mr X's flight is late; he will arrive this afternoon'"
+msgstr ""
+
+#: D3_3_04_1
+msgid ""
+"CAN state routine requirements within own area of work (e.g. asking for "
+"typing to be done)"
+msgstr ""
+
+#: D3_3_04_2
+msgid ""
+"CAN greet a visitor and engage in a limited conversation for a short period "
+"of time, for example enquiring about a visitor's journey, hotel etc."
+msgstr ""
+
+#: D3_3_04_3
+msgid ""
+"CAN offer advice to clients within own job area on simple matters (e.g. "
+"'This model will give you better copies, but it is more expensive')"
+msgstr ""
+
+#: D3_3_04_4
+msgid ""
+"Can exchange, check and confirm accumulated factual information on familiar "
+"routine and non-routine matters within his/her field with some confidence"
+msgstr ""
+
+#: D3_3_04_5
+msgid "Can describe how to do something, giving detailed instructions"
+msgstr ""
+
+#: D3_3_04_6
+msgctxt "D3_3_04_6"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+
+#: D3_3_04_7
+msgctxt "D3_3_04_7"
+msgid "Can give brief comments on the views of others"
+msgstr ""
+
+#: D3_3_10_1
+msgid ""
+"Can provide concrete information required in an interview but does so with "
+"limited precision"
+msgstr ""
+
+#: D3_4_04_1
+msgid ""
+"CAN put her/his point across persuasively when talking, for example about a "
+"familiar product"
+msgstr ""
+
+#: D3_4_04_2
+msgid "Can give a clear, detailed description of how to carry out a procedure"
+msgstr ""
+
+#: D3_4_04_3
+msgid ""
+"Can understand and exchange complex information and advice on the full range "
+"of matters related to his/her occupational role"
+msgstr ""
+
+#: D3_4_04_4
+msgctxt "D3_4_04_4"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+
+#: D3_4_10_1
+msgid ""
+"Can carry out an effective, fluent interview, departing spontaneously from "
+"prepared questions, following up and probing interesting replies"
+msgstr ""
+
+#: D3_4_12_1
+msgctxt "D3_4_12_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+
+#: D3_4_12_2
+msgid ""
+"Can contribute, account for and sustain his/her opinion, evaluate "
+"alternative proposals and make and respond to hypotheses"
+msgstr ""
+
+#: D3_4_18_1
+msgid ""
+"CAN take or leave routine messages, ask for clarification or elaboration "
+"where these are not expressed clearly, with only occasional misunderstanding "
+"of facts"
+msgstr ""
+
+#: D3_5_04_1
+msgid ""
+"CAN give detailed information and state detailed requirements within "
+"familiar area of work"
+msgstr ""
+
+#: D3_5_04_2
+msgid ""
+"CAN argue his/her case effectively, justifying, if necessary, a need for "
+"service and specifying needs precisely"
+msgstr ""
+
+#: D3_5_04_3
+msgid "CAN answer questions outside own immediate area of work"
+msgstr ""
+
+#: D3_5_04_4
+msgid ""
+"CAN engage in an extended conversation with a visitor on matters within "
+"her/his authority/competence"
+msgstr ""
+
+#: D3_5_04_5
+msgid ""
+"CAN give detailed information and deal with most routine problems that are "
+"likely to arise"
+msgstr ""
+
+#: D3_5_04_6
+msgid ""
+"CAN ask questions outside own immediate area of work (e.g. asking for "
+"external legal or financial advice)"
+msgstr ""
+
+#: D3_5_04_7
+msgid ""
+"CAN advise on/handle complex, delicate or contentious issues, e.g. legal or "
+"financial situations"
+msgstr ""
+
+#: D3_5_10_1
+msgid ""
+"Can participate fully in an interview, as either interviewer or interviewee, "
+"expanding and developing the point being discussed fluently without any "
+"support, and handling interjections well"
+msgstr ""
+
+#: D3_5_10_2
+msgid "CAN deal with unpredictable questions"
+msgstr ""
+
+#: D3_5_12_1
+msgid ""
+"CAN contribute effectively to meetings and seminars within own area of work"
+msgstr ""
+
+#: D3_5_12_2
+msgid ""
+"CAN argue effectively for or against a case, and has sufficient language to "
+"be able to talk about/discuss most aspects of her/his work"
+msgstr ""
+
+#: D3_5_18_1
+msgid ""
+"CAN use the telephone confidently, even if the line is bad or the caller has "
+"a non-standard accent"
+msgstr ""
 
 #: DATE
 msgctxt "DATE"
@@ -874,9 +1382,17 @@ msgstr "Data"
 msgid "YYYY/MM/DD"
 msgstr "YYYY/MM/DD"
 
+#: DEALING_WITH_EMERGENCY_SITUATIONS
+msgid "Dealing with emergency situations"
+msgstr ""
+
 #: DELETE
 msgid "Delete"
 msgstr "Ezabatu"
+
+#: DESCRIBING_EXPERIENCES
+msgid "Describing experiences"
+msgstr ""
 
 #: DESCRIPTORS
 msgid "Descriptors"
@@ -885,6 +1401,10 @@ msgstr "Adierazleak"
 #: DEVELOPERS
 msgid "Developers"
 msgstr "Garatzaileak"
+
+#: DEVELOPING_AN_ARGUMENT
+msgid "Developing an argument"
+msgstr ""
 
 #: DEVICES_NOT_ALLOWED_ERROR
 msgid ""
@@ -953,22 +1473,6 @@ msgstr ""
 "Ezin da banda zabalera egiaztatu. 1935 portua itxita dago. RTMPT modua "
 "aktibo dago."
 
-#: ERROR_SENDING_EMAIL
-msgid "There was an error while sending the activation e-mail."
-msgstr "Errore bat egon da aktibazio eposta bidaltzerakoan."
-
-#: ERROR_USER_EMAIL_EXISTS
-msgid ""
-"The specified username or email already exists. Please choose another one."
-msgstr ""
-"Emandako erabiltzaile izena edo eposta dagoeneko hartuta dago. Mesedez, "
-"aukeratu beste bat."
-
-#: ERROR_REGISTERING_USER
-msgid ""
-"There was an error while registering in the system. Please try again later."
-msgstr "Errore bat egon da sisteman izena ematean. Mesedez, saiatu beranduago."
-
 #: ERROR_EVALUATION_DATA_NOT_SPECIFIED
 msgid "You must specify a response to evaluate before sending an evaluation."
 msgstr ""
@@ -987,6 +1491,11 @@ msgid ""
 msgstr ""
 "Ataza hau aurrera eramateko beharrezkoa den kreditu kopurua ez duzu. Bideo "
 "hau zuretzat soilik ikusgarri mantenduko da."
+
+#: ERROR_REGISTERING_USER
+msgid ""
+"There was an error while registering in the system. Please try again later."
+msgstr "Errore bat egon da sisteman izena ematean. Mesedez, saiatu beranduago."
 
 #: ERROR_SCORE_COULDNT_BE_SAVED
 msgid "Your score couldn't be saved."
@@ -1012,17 +1521,28 @@ msgstr ""
 "bideorik grabatu. Mesedez bideo iruzkin bat grabatu edo 'Bideo iruzkina "
 "erantsi' desgaitu bideo iruzkinik gordetzea nahi ez baduzu."
 
+#: ERROR_SENDING_EMAIL
+msgid "There was an error while sending the activation e-mail."
+msgstr "Errore bat egon da aktibazio eposta bidaltzerakoan."
+
 #: ERROR_SIGN_IN_TO_REQUEST
 msgid "You must Sign In to request an evaluation."
 msgstr "Ebaluaketa bat eskatzeko kautotuta egon behar zara"
+
+#: ERROR_STREAM_NOT_FOUND
+msgid "This video is unavailable. Sorry about that."
+msgstr "Bideo hau ez dago eskuragarri. Barkatu eragozpenak."
 
 #: ERROR_STREAM_PROCESSING
 msgid "This video is still processing. Sorry about that."
 msgstr "Bideo hau prozesatzen ari da. Barkatu eragozpenak."
 
-#: ERROR_STREAM_NOT_FOUND
-msgid "This video is unavailable. Sorry about that."
-msgstr "Bideo hau ez dago eskuragarri. Barkatu eragozpenak."
+#: ERROR_USER_EMAIL_EXISTS
+msgid ""
+"The specified username or email already exists. Please choose another one."
+msgstr ""
+"Emandako erabiltzaile izena edo eposta dagoeneko hartuta dago. Mesedez, "
+"aukeratu beste bat."
 
 #: ERROR_WHILE_ACTIVATING_ACCOUNT
 msgid "Error while activating your account."
@@ -1123,7 +1643,7 @@ msgid "Error while retrieving your credit history,"
 msgstr "Errorea zure kreditu historia lortzerakoan."
 
 #: ERROR_WHILE_RETRIEVING_EXERCISES
-msgid "Error while retreiving the exercises."
+msgid "Error while retrieving the exercises."
 msgstr "Errorea ariketak lortzerakoan."
 
 #: ERROR_WHILE_RETRIEVING_EXERCISE_SUBTITLES
@@ -1227,6 +1747,10 @@ msgstr "Errorea fitxategia igotzerakoan."
 msgid "Assessment date"
 msgstr "Ebaluazio data"
 
+#: EVERYDAY_LIFE_AND_TOURISM
+msgid "Everyday life & tourism"
+msgstr ""
+
 #: EXERCISE_ALREADY_REPORTED
 msgid "You already reported about this exercise."
 msgstr "Ariketa hau dagoeneko salatu duzu."
@@ -1243,6 +1767,10 @@ msgstr "Sakatu hemen zure mikrofonoa probatzeko"
 msgid "Your report has been successfully saved. Thank you."
 msgstr "Zure salaketa ondo gorde da."
 
+#: EXERCISE_TYPE
+msgid "Exercise type"
+msgstr ""
+
 #: FAQ
 msgid "FAQ"
 msgstr "FAQ"
@@ -1251,17 +1779,41 @@ msgstr "FAQ"
 msgid "Filter"
 msgstr "Iragazi"
 
-#: FILTER_BY_LANGUAGE
-msgid "Filter by language"
-msgstr "Hizkuntzaren arabera iragazi"
-
 #: FILTER_BY_DIFFICULTY
 msgid "Filter by difficulty level"
 msgstr "Zailtasun mailaren arabera iragazi"
 
+#: FILTER_BY_LANGUAGE
+msgid "Filter by language"
+msgstr "Hizkuntzaren arabera iragazi"
+
 #: FILTER_REMOVE_ALL
 msgid "Remove filters"
 msgstr "Iragazkiak ezabatu"
+
+#: FORMS_OF_QUESTIONS
+msgid "Forms of questions"
+msgstr ""
+
+#: FREE_CONTEXT
+msgid "Free context"
+msgstr ""
+
+#: GENERAL_WORK
+msgid "General work"
+msgstr ""
+
+#: GIVING_PRESENTATIONS
+msgid "Giving presentations"
+msgstr ""
+
+#: GOING_OUT_TO_EAT
+msgid "Going out to eat"
+msgstr ""
+
+#: GOING_SHOPPING
+msgid "Going shopping"
+msgstr ""
 
 #: GRABADOR
 msgid "Recorder"
@@ -1296,6 +1848,10 @@ msgstr "Ariketa Izena"
 msgid "Response Name"
 msgstr "Erantzun Izena"
 
+#: HEALTH
+msgid "Health"
+msgstr ""
+
 #: HELLO
 msgid "Hello"
 msgstr "Kaixo"
@@ -1321,7 +1877,7 @@ msgid ""
 "<b><font size =\"24\" color =\"#972c0a\">Welcome to "
 "Babelium</font></b><br/><p>Babelium is a community of people who like to "
 "learn & teach languages.</p><p>Babelium is a collaborative language "
-"practising environment. Here you'll be able to improve your speaking skills "
+"practicing environment. Here you'll be able to improve your speaking skills "
 "with the help of other users, who are native or fluent in the language "
 "you're practicing, whilst you too can help other users providing knowledge & "
 "assessment of your own mother tongue.</p><p>All you need to do is record or "
@@ -1875,6 +2431,10 @@ msgstr "Zure transkripzioa:"
 msgid "Your languages have been successfully modified."
 msgstr "Zure hizkuntzak era egokian aldatu dira."
 
+#: LANGUAGE_PRACTICE
+msgid "Language practice"
+msgstr ""
+
 #: LAST_ASSESSMENT_DATE
 msgid "Last Assessment date"
 msgstr "Azken ebaluazioaren data"
@@ -1899,10 +2459,6 @@ msgstr "A1 Hasiberria"
 msgid "A2 Elementary"
 msgstr "A2 Oinarrizkoa"
 
-#: LEVEL_B1
-msgid "B1 Pre-intermediate"
-msgstr "B1 Behe erdi-mailakoa"
-
 #: LEVEL_B11
 msgid "B1.1 Intermediate"
 msgstr "B1.1 Erdi-mailakoa"
@@ -1911,9 +2467,9 @@ msgstr "B1.1 Erdi-mailakoa"
 msgid "B1.2 Intermediate"
 msgstr "B1.2 Erdi-mailakoa"
 
-#: LEVEL_B2
-msgid "B2 Intermediate"
-msgstr "B2 Erdi-mailakoa"
+#: LEVEL_B1
+msgid "B1 Pre-intermediate"
+msgstr "B1 Behe erdi-mailakoa"
 
 #: LEVEL_B21
 msgid "B2.1 Advanced"
@@ -1923,9 +2479,17 @@ msgstr "B2.1 Aurreratua"
 msgid "B2.2 Advanced"
 msgstr "B2.2 Aurreratua"
 
+#: LEVEL_B2
+msgid "B2 Intermediate"
+msgstr "B2 Erdi-mailakoa"
+
 #: LEVEL_C1
 msgid "C1 Upper intermediate"
 msgstr "C1 Goi erdi-mailakoa"
+
+#: LINGUISTIC_ASPECT
+msgid "Linguistic Aspect"
+msgstr ""
 
 #: LOCALE_AF_ZA
 msgid "Afrikaans (South Africa)"
@@ -2114,6 +2678,10 @@ msgstr "Espainiera (Kolonbia)"
 #: LOCALE_ES_CR
 msgid "Spanish (Costa Rica)"
 msgstr "Espainiera (Costa Rica)"
+
+#: LOCALE_ES_CU
+msgid "Spanish (Cuba)"
+msgstr "Espainiera (Kuba)"
 
 #: LOCALE_ES_DO
 msgid "Spanish (Dominican Republic)"
@@ -2427,6 +2995,10 @@ msgstr "Txinera Tradizionala (Taiwan)"
 msgid "The role name can't be longer than {0} characters."
 msgstr "Rol izena ezin da {0} karaktere baino luzeagoa izan."
 
+#: MAKING_ARRANGEMENTS
+msgid "Making arrangements"
+msgstr ""
+
 #: MAXIMUM_FILESIZE_EXCEEDED
 msgid "The file you selected exceeds the maximum allowed filesize."
 msgstr ""
@@ -2446,7 +3018,7 @@ msgstr ""
 "Ebaluazio bat eskatzen baldin baduzu, zure bideoa publikoa izango da eta"
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_2
-msgid "for the users of Babelium Project. Otherways, you will be the"
+msgid "for the users of Babelium Project. Otherwise, you will be the"
 msgstr ""
 "Babelium Project-eko beste erabiltzaileek ikusi ahal izango dute. Bestela, "
 "zeuk"
@@ -2535,6 +3107,7 @@ msgid "Rate the user's response"
 msgstr "Erabiltzailearen erantzuna kalifikatu"
 
 #: MESSAGE_RATE_USER_FLUENCY
+msgctxt "MESSAGE_RATE_USER_FLUENCY"
 msgid "Pronunciation"
 msgstr "Ahoskakuntza"
 
@@ -2675,6 +3248,10 @@ msgid ""
 msgstr ""
 "Atal honetan aplikazioan gehitu dituzun bideo guztiak kudeatu ditzakezu."
 
+#: NEGATION
+msgid "Negation"
+msgstr ""
+
 #: NEW_MAIL
 msgid "New email address"
 msgstr "Eposta helbide berria"
@@ -2690,6 +3267,10 @@ msgstr "Nik ebaluatutako erantzunak"
 #: NIRIPAITUTAKOAK
 msgid "My assessed responses"
 msgstr "Niri ebaluatutako erantzunak"
+
+#: NOUN
+msgid "Noun"
+msgstr ""
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
@@ -2766,10 +3347,26 @@ msgstr "Mikrofono egiaztapena"
 msgid "Webcam and microphone"
 msgstr "Web-kamera eta mikrofonoa"
 
+#: OTHER
+msgid "Other"
+msgstr ""
+
 #: OWNER
 msgctxt "OWNER"
 msgid "Recorded by"
 msgstr "Grabatzailea"
+
+#: PARTICIPATING_IN_AN_INTERVIEW
+msgid "Participating in an interview"
+msgstr ""
+
+#: PARTICIPATING_IN_CLASS
+msgid "Participating in class"
+msgstr ""
+
+#: PARTICIPATING_IN_MEETINGS
+msgid "Participating in meetings"
+msgstr ""
 
 #: PASSWORD_SUCCESSFULLY_CHANGED
 msgid "Your password has been successfully changed."
@@ -2791,13 +3388,26 @@ msgstr "prozesatzen"
 msgid "Choose an Issue"
 msgstr "Arazo mota aukeratu"
 
+#: PROMPT_SELECT_DIFFICULTY
+msgid "Select a difficulty"
+msgstr "Zailtasun maila aukeratu"
+
 #: PROMPT_SELECT_LANGUAGE
 msgid "Select a language"
 msgstr "Hizkuntza aukeratu"
 
-#: PROMPT_SELECT_DIFFICULTY
-msgid "Select a difficulty"
-msgstr "Zailtasun maila aukeratu"
+#: PRONOUNS
+msgid "Pronoun"
+msgstr ""
+
+#: PRONUNCIATION
+msgctxt "PRONUNCIATION"
+msgid "Pronunciation"
+msgstr ""
+
+#: PUBLIC_SPEAKING
+msgid "Public speaking"
+msgstr ""
 
 #: RECORDED_BY
 msgctxt "RECORDED_BY"
@@ -2838,7 +3448,7 @@ msgid "Video already exists in Babelium Project"
 msgstr "Bideoa Babelium Project-en dagoeneko badago"
 
 #: REPORT_INNAPROPRIATE_VIDEO
-msgid "Report an innapropriate video"
+msgid "Report an inappropriate video"
 msgstr "Bideo desegoki baten berri eman"
 
 #: REPORT_OBSCENE
@@ -2955,6 +3565,10 @@ msgstr "Erabiltzaile izenak 4 karaktere izan behar ditu gutxienez."
 msgid "Show subtitles"
 msgstr "Azpitituluak agertarazi"
 
+#: SIGHTSEEING
+msgid "Sightseeing"
+msgstr ""
+
 #: SIGNUP_SECTION_DESCRIPTION
 msgid ""
 "Use this section to sign up on Babelium and thus start practicing your "
@@ -2995,17 +3609,37 @@ msgstr ""
 "Formularioa bideo berriaren datuekin bete behar duzu \n"
 "zure mozketa eskaera behar bezala erregistratzeko."
 
+#: SOCIALIZING
+msgid "Socializing"
+msgstr ""
+
 #: SORT_BY
 msgid "Sort by"
 msgstr "Honen arabera ordenatu"
+
+#: SPEAKING_ABOUT_ONESELF
+msgid "Speaking about oneself"
+msgstr ""
 
 #: SPEND_CREDITS
 msgid "Use Credits"
 msgstr "Kredituak Erabili"
 
+#: STAYING_AT_A_HOTEL
+msgid "Staying at a hotel"
+msgstr ""
+
 #: STEP_BY_STEP
 msgid "Step by step"
 msgstr "Urratsez urrats"
+
+#: STORYTELLING
+msgid "Story-telling"
+msgstr ""
+
+#: STUDIES
+msgid "Studies"
+msgstr ""
 
 #: SUBITLE_START_TIME_TOOLTIP
 msgid "Start subtitle line"
@@ -3040,6 +3674,10 @@ msgstr ""
 #: TAGS
 msgid "tags"
 msgstr "etiketak"
+
+#: TELEPHONING
+msgid "Telephoning"
+msgstr ""
 
 #: TERMS_OF_USE
 msgid "Terms of use"
@@ -3268,6 +3906,10 @@ msgstr ""
 "Igotzen ari zaren bideoa beste pertsona batek sortu badu, mesedez egiozu "
 "erreferentzia bere izena jarriz edo bere web orria adieraziz."
 
+#: TRAVEL
+msgid "Travel"
+msgstr ""
+
 #: UPLOAD_EVALUATION_EXERCISE
 msgid ""
 "Evaluation exercise: the video can't be used by others to practice and is "
@@ -3294,9 +3936,9 @@ msgstr ""
 msgid ""
 "In our research we've found that the user's concentration level drops "
 "significantly when dubbing videos longer than {0} seconds.<br>Also, since "
-"live dubbing is an stressful task, we limit the duration in hopes to keep a "
-"ballance between the amount of speaking practice the user achieves and the "
-"frustation he/she gets along the process."
+"live dubbing is a stressful task, we limit the duration in hopes to keep a "
+"balance between the amount of speaking practice the user achieves and the "
+"frustration he/she gets along the process."
 msgstr ""
 "Gure ikerkuntzan {0} segunduko baino gehiago dituzten bideoen bikoizketan "
 "erabiltzailearen kontzentrazio maila era nabarian jaisten dela behatu "
@@ -3306,7 +3948,7 @@ msgstr ""
 
 #: UPLOAD_PRACTICE_EXERCISE
 msgid ""
-"Practice exercise: users can practice an record responses following this "
+"Practice exercise: users can practice and record responses following this "
 "video"
 msgstr ""
 "Practice exercise: users can practice an record responses following this "
@@ -3332,6 +3974,10 @@ msgstr "Azken aldian jasotako ebaluazioak"
 msgid "Videos I recently uploaded"
 msgstr "Azken aldian igotako bideoak"
 
+#: USING_FINANCIAL_AND_POSTAL_SERVICES
+msgid "Using financial and postal services"
+msgstr ""
+
 #: VALID_CHARACTERS
 msgid "Valid characters: [a-zA-Z0-9_]"
 msgstr "Karaktere onartuak: [a-zA-Z0-9_]"
@@ -3343,6 +3989,10 @@ msgstr "Baliozko URL bat sartu behar duzu!"
 #: VALUATION
 msgid "Evaluation"
 msgstr "Ebaluazioa"
+
+#: VERB
+msgid "Verb"
+msgstr ""
 
 #: VIDEOCOMMENT
 msgid "Video comment"
@@ -3375,6 +4025,14 @@ msgid ""
 msgstr ""
 "Ondoko bideoek Babelium-eko zenbait ezaugarri nola erabili azaltzen dute "
 "[Ingeleraz]"
+
+#: VOCABULARY
+msgid "Vocabulary"
+msgstr ""
+
+#: VOICE_OVER
+msgid "Voice-over"
+msgstr ""
 
 #: VOLUME
 msgid "Volume"
@@ -3427,6 +4085,10 @@ msgstr "Azpitituluak erroreak ditu"
 #: WEBCAM
 msgid "Webcam"
 msgstr "Web-kamera"
+
+#: WORK
+msgid "Work"
+msgstr ""
 
 #: WRONG_FIELDS_IN_FORM
 msgid "Some form fields are wrong. Fix the errors to proceed."

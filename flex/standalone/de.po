@@ -1,20 +1,20 @@
-#. extracted from babelium-flex-standalone-site/locale/en_US/myResources.properties, babelium-flex-standalone-site/locale/de_DE/myResources.properties
+#. extracted from git/flex-standalone-site/locale/en_US/myResources.properties, git/flex-standalone-site/locale/de_DE/myResources.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: babelium-flex-standalone-site\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 13:47+0200\n"
-"PO-Revision-Date: 2013-11-25 13:47+0200\n"
-"Last-Translator: Christian Alexander Brase <christianalexander.brase@ehu.es>\n"
+"POT-Creation-Date: 2014-09-22 18:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 
 #: ABORT_RECORDING
 msgid "Abort recording"
-msgstr ""
+msgstr "Aufnahme abbrechen"
 
 #: ABOUT_SECTION_DESCRIPTION
 msgid ""
@@ -43,6 +43,10 @@ msgstr "Email Aktivierung gesendet"
 #: ADDVIDEO
 msgid "Add a video"
 msgstr "Video hinzufügen"
+
+#: ADVERB_ADJECTIVE
+msgid "Adverb/Adjective"
+msgstr ""
 
 #: ALERT_SUCCESSFUL_FILE_UPLOAD_RED5
 msgid ""
@@ -139,7 +143,7 @@ msgid "No, thanks!"
 msgstr "Nein danke!"
 
 #: BUTTON_OK
-msgid "Ok"
+msgid "OK"
 msgstr "OK"
 
 #: BUTTON_PAUSE
@@ -243,14 +247,6 @@ msgctxt "CANCEL"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: CC-BY
-msgid "Attribution"
-msgstr "schöpferisches Gemeingut"
-
-#: CC-BY-NC
-msgid "Attribution Non-Commercial"
-msgstr "schöpferisches Gemeingut-nicht kommerziell"
-
 #: CC-BY-NC-ND
 msgid "Attribution Non-Commercial No Derivative"
 msgstr "schöpferisches Gemeingut-nicht kommerziell-darf nicht bearbeitet werden"
@@ -261,6 +257,10 @@ msgstr ""
 "schöpferisches Gemeingut-nicht kommerziell- Weitergabe unter gleichen "
 "Bedingungen"
 
+#: CC-BY-NC
+msgid "Attribution Non-Commercial"
+msgstr "schöpferisches Gemeingut-nicht kommerziell"
+
 #: CC-BY-ND
 msgid "Attribution No Derivative"
 msgstr "schöpferisches Gemeingut-darf nicht bearbeitet werden"
@@ -268,6 +268,10 @@ msgstr "schöpferisches Gemeingut-darf nicht bearbeitet werden"
 #: CC-BY-SA
 msgid "Attribution Share Alike"
 msgstr "schöpferisches Gemeingut- Weitergabe unter gleichen Bedingungen"
+
+#: CC-BY
+msgid "Attribution"
+msgstr "schöpferisches Gemeingut"
 
 #: CHECK_YES_PLEASE
 msgid "Yes, please."
@@ -308,6 +312,14 @@ msgstr "Wörter durch Komma getrennt"
 #: COMMENTS
 msgid "Comment"
 msgstr "Kommentare"
+
+#: COMMUNICATION_SITUATION
+msgid "Communication situation"
+msgstr ""
+
+#: COMMUNICATIVE_COMPETENCE
+msgid "Communicative competence"
+msgstr ""
 
 #: COMPLETE_SUBTITLE_INFO
 msgid ""
@@ -421,6 +433,10 @@ msgstr "Sind die Dialoge des gesamten Videos untertitelt worden?"
 msgid "Are you sure you want to delete the selected videos?"
 msgstr "Sind Sie sicher, dass Sie das ausgewählte Video löschen möchten?"
 
+#: CONVERSATION
+msgid "Conversation"
+msgstr ""
+
 #: CONVERTED
 msgid "converted"
 msgstr "umgewandelt"
@@ -433,447 +449,1227 @@ msgstr "urheberrechtlich geschützt"
 msgid "Current email address"
 msgstr "aktuelle E-Mail-Adresse"
 
-#: D001_A1_SI01
+#: D1_1_13_1
 msgid ""
-"I can introduce somebody and use basic greetings and leave-taking "
-"expressions."
+"Can read a very short, rehearsed statement – e.g. to introduce a speaker, "
+"propose a toast"
 msgstr ""
-"Kann sich und andere vorstellen und einfache Gruß und Abschiedsformeln "
-"anwenden."
+"Kann ein kurzes, eingeübtes Statement verlesen, um z. B. einen Redner "
+"vorzustellen oder einen Toast auszubringen"
 
-#: D002_A1_SI02
+#: D1_1_15_1
 msgid ""
-"I can ask and answer simple questions, initiate and respond to simple "
-"statements in areas of immediate need or on very familiar topics."
+"Can make an introduction and use basic greeting and leave-taking expressions"
 msgstr ""
-"Kann fragen und einfache Fragen beantworten. Kann sich in einfachen, "
-"routinemäßigen Situationen verständigen."
+"Kann jemanden vorstellen und einfache Gruß- und Abschiedsformeln gebrauchen"
 
-#: D003_A1_SI03
+#: D1_1_15_2
+msgid "Can ask how people are and react to news"
+msgstr "Kann jemanden nach dem Befinden fragen und auf Neuigkeiten reagieren"
+
+#: D1_1_16_1
+msgid "Can describe him/herself, what he/she does and where he/she lives"
+msgstr ""
+"Kann sich selbst beschreiben und sagen, was er/sie beruflich tut und wo "
+"er/sie wohnt"
+
+#: D1_1_17_1
 msgid ""
-"I can make myself understood in a simple way but I am dependent on my "
-"partner being prepared to repeat more slowly and rephrase what I say and to "
-"help me to say what I want."
+"CAN ask simple questions of a factual nature and understand the answers "
+"provided these are expressed in simple language (for example, 'Where is the "
+"dining-room?' 'It's on the first floor', etc.)"
 msgstr ""
-"Kann sich mit einfachen Mitteln verständigen, wenn die Gesprächspartner "
-"langsam und deutlich sprechen und bereit sind zu helfen."
+"KANN einfache, sachliche Fragen stellen und die Antworten verstehen, soweit "
+"diese in einfacher Sprache gegeben werden (z. B. \"Wo ist der Speisesaal?\" "
+"\"Er ist im ersten Stock\" usw.)"
 
-#: D004_A1_SI04
+#: D1_1_17_2
+msgid "CAN make simple complaints, for example 'The water is cold'"
+msgstr "KANN einfache Beschwerden äußern, z. B. \"Das Wasser ist kalt\""
+
+#: D1_2_01_1
 msgid ""
-"I can make simple purchases where pointing or other gestures can support "
-"what I say."
-msgstr ""
-"Kann einfache Einkäufe machen, und in alltäglichen Situationen sich mit "
-"zusätzlichen Gesten verständlich machen."
+"CAN call an emergency number, give location and ask for relevant service"
+msgstr "KANN eine Notrufnummer anwählen, den Ort angeben und um Hilfe bitten"
 
-#: D005_A1_SI05
-msgid "I can handle numbers, quantities, cost and time."
-msgstr "Kann mit Zahlen, Mengen, Kosten und Zeitangaben umgehen."
+#: D1_2_02_1
+msgid "Can tell a story or describe something in a simple list of points"
+msgstr "Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten"
 
-#: D006_A1_SI06
-msgid "I can ask people for things and give people things."
-msgstr "Kann um einfache Dinge bitten und reagieren, wenn etwas verlangt wird."
-
-#: D007_A1_SI07
+#: D1_2_02_2
 msgid ""
-"I can ask people questions about where they live, people they know, things "
-"they have etc. and answer such questions addressed to me provided they are "
-"articulated slowly and clearly."
+"Can describe everyday aspects of his/her environment e.g. people, places, a "
+"job or study experience"
 msgstr ""
-"Kann Fragen zu ihrer Person stellen (wo sie wohnen, was für Leute sie kennen "
-"oder was für Dinge sie haben) und kann auf Fragen dieser Art Antwort geben, "
-"wenn diese einfach und klar formuliert sind."
+"Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten, z. B. "
+"über Leute, Orte, Erfahrungen in Beruf oder Ausbildung"
 
-#: D008_A1_SI08
+#: D1_2_02_3
+msgid "Can give short, basic descriptions of events and activities"
+msgstr "Kann kurz und einfach über ein Ereignis oder eine Tätigkeit berichten"
+
+#: D1_2_02_4
 msgid ""
-"I can indicate time by such phrases as \"next week\", \"last Friday\", \"in "
-"November\", \"three o’clock\"."
+"Can describe plans and arrangements, habits and routines, past activities "
+"and personal experiences"
 msgstr ""
-"Kann die Uhrzeiten und Tageszeiten anwenden zum Beispiel \"nächste Woche\", "
-"\"letzten Donnerstag\", \"im November\", \"es ist Punkt 3.00\" Uhr."
+"Kann Pläne und Vereinbarungen, Gewohnheiten und Alltagsbeschäftigungen "
+"beschreiben sowie über vergangene Aktivitäten und persönliche Erfahrungen "
+"berichten"
 
-#: D009_A1_SP01
+#: D1_2_02_5
 msgid ""
-"I can give personal information (address, telephone number, nationality, "
-"age, family, and hobbies)."
+"Can use simple descriptive language to make brief statements about and "
+"compare objects and possessions"
 msgstr ""
-"Kann persönliche Informationen über Adresse, Telefonnummer, Nationalität, "
-"Alter, Familie und Hobbys mitteilen."
+"Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, "
+"kurz beschreiben und vergleichen"
 
-#: D010_A1_SP02
-msgid "I can describe where I live."
-msgstr "Kann seinen Wohnsitz beschreiben."
+#: D1_2_02_6
+msgid "Can explain what he/she likes or dislikes about something"
+msgstr "Kann erklären, was er/sie an etwas mag oder nicht mag"
 
-#: D011_A2_SI01
-msgid "I can make simple transactions in shops, post offices or banks."
-msgstr "Kann einfache Dinge in Geschäften, Postämtern oder Banken erledigen."
-
-#: D012_A2_SI02
+#: D1_2_06_1
 msgid ""
-"I can use public transport: buses, trains, and taxis, ask for basic "
-"information and buy tickets."
+"CAN get the attention of staff in an appropriate way and order a meal in a "
+"restaurant"
+msgstr "KANN im Restaurant die Bedienung höflich rufen und ein Essen bestellen"
+
+#: D1_2_06_2
+msgid "CAN ask simple questions about the menu and understand simple answers"
 msgstr ""
-"Kann die öffentlichen Verkehrsmittel benutzen (Autobus, Zug und Taxi), um "
-"Information bitten und Fahrkarten kaufen."
+"KANN einfache Fragen über die Speisekarte stellen und einfache Antworten "
+"verstehen"
 
-#: D013_A2_SI03
-msgid "I can get simple information about travel."
-msgstr "Kann um einfache Auskunft über Reisen bitten."
+#: D1_2_06_3
+msgid "CAN express an opinion about food"
+msgstr "KANN seine Meinung über das Essen äußern"
 
-#: D014_A2_SI04
-msgid "I can order something to eat or drink."
-msgstr "Kann um Essen und Trinken bitten."
+#: D1_2_06_4
+msgid "CAN make simple complaints, for example, 'The food is cold'"
+msgstr "KANN einfache Beschwerden äußern, z. B. \"Das Essen ist kalt\""
 
-#: D015_A2_SI05
+#: D1_2_07_1
 msgid ""
-"I can make simple purchases by stating what I want and asking the price."
-msgstr "Kann einfache Einkäufe tätigen und nach Preisen fragen."
-
-#: D016_A2_SI06
-msgid "I can ask for and give directions referring to a map or plan."
-msgstr "Kann in Stadtplänen nach Orten Fragen und Auskunft geben."
-
-#: D017_A2_SI07
-msgid "I can ask how people are and react to news."
+"CAN ask for what is required, if it is something which the shopkeeper can "
+"readily understand"
 msgstr ""
-"Kann auf andere Leute eingehen und nach deren Befinden fragen bzw. auf die "
-"Antworten reagieren."
+"KANN nach dem fragen, was er/sie möchte, wenn der Verkäufer es gleich "
+"versteht"
 
-#: D018_A2_SI08
-msgid "I can make and respond to invitations."
-msgstr "Kann auf Einladungen reagieren und fragen."
-
-#: D019_A2_SI09
-msgid "I can make and accept apologies."
-msgstr "Kann sich Entschuldigen und Entschuldigungen annehmen."
-
-#: D020_A2_SI10
-msgid "I can say what I like and dislike."
-msgstr "Kann sagen, was er mag und nicht mag."
-
-#: D021_A2_SI11
+#: D1_2_07_2
 msgid ""
-"I can discuss with other people what to do, where to go, and make "
-"arrangements to meet."
+"Can ask about things and make simple transactions in shops, post offices or "
+"banks"
 msgstr ""
-"Kann mit anderen Personen etwas ausmachen, den Treffpunkt festlegen oder "
-"sich später verabreden."
+"Kann in Geschäften, Postämtern, Banken nach etwas fragen und einfache "
+"Erledigungen machen"
 
-#: D022_A2_SI12
+#: D1_2_07_3
 msgid ""
-"I can ask people questions about what they do at work and in free time, and "
-"answer such questions addressed to me."
-msgstr ""
-"Kann andere Personen über ihre Arbeit oder Freizeitaktivitäten fragen, und "
-"beantworten."
+"Can give and receive information about quantities, numbers, prices, etc."
+msgstr "Kann Informationen über Mengen, Anzahl, Preise usw. geben und verstehen"
 
-#: D023_A2_SP01
-msgid "I can describe myself, my family and other people."
-msgstr "Kann sich selbst, seine Familie und andere Menschen beschreiben."
-
-#: D024_A2_SP02
-msgid "I can describe where 1 live."
-msgstr "Kann den Wohnort beschreiben."
-
-#: D025_A2_SP03
-msgid "I can give short, basic descriptions of events."
-msgstr "Kann Ereignisse in kurzer Form wiedergeben."
-
-#: D026_A2_SP04
+#: D1_2_07_4
 msgid ""
-"I can describe my educational background, my present or most recent job."
+"Can make simple purchases by stating what is wanted and asking the price"
 msgstr ""
-"Kann über seine/ihre Schulbildung und Ausbildung sprechen, und seine "
-"gegenwärtige berufliche Situation oder das Letzte, was er/sie getan hat "
-"beschreiben."
+"Kann einfache Einkäufe machen, sagen, was er/sie sucht, und nach dem Preis "
+"fragen"
 
-#: D027_A2_SP05
-msgid "I can describe my hobbies and interests in a simple way."
-msgstr "Kann mit einfachen Worten Hobbys und Interessen beschreiben."
-
-#: D028_A2_SP06
+#: D1_2_08_1
 msgid ""
-"I can describe past experiences and personal experiences (e.g. the last "
-"weekend, my last holiday)."
-msgstr ""
-"Kann über persönliche Erfahrungen in der Vergangenheit reden (zum Beispiel "
-"in der vergangenen Woche oder den neuesten Urlaub)"
+"CAN ask (face-to-face) for a medical appointment and understand the reply"
+msgstr "KANN persönlich um einen Arzttermin bitten und die Antwort verstehen"
 
-#: D029_B1_SI01
+#: D1_2_08_2
 msgid ""
-"I can start, maintain and close simple face-to-face conversation on topics "
-"that are familiar or of personal interest."
+"CAN indicate the nature of a problem to a 9 professional, perhaps using "
+"gestures and body language"
 msgstr ""
-"Kann einfache Gespräche anfangen, durchführen und abschließen über Themen, "
-"die ihm/ihr vertraut sind oder interessiert erscheinen."
+"KANN einem Arzt eine Beschwerde beschreiben, indem er/ sie möglicherweise "
+"Gestik und Körpersprache verwendet"
 
-#: D030_B1_SI02
+#: D1_2_13_1
+msgid "Can give a short, rehearsed, basic presentation on a familiar subject"
+msgstr ""
+"Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema "
+"vortragen"
+
+#: D1_2_13_2
 msgid ""
-"I can maintain a conversation or discussion but may sometimes be difficult "
-"to follow when trying to say exactly what I would like to."
+"Can give a short, rehearsed presentation on a topic pertinent to his/her "
+"everyday life, briefly give reasons and explanations for opinions, plans and "
+"actions"
 msgstr ""
-"Sie können ein Gespräch führen oder ein Argument anführen, aber manchmal "
-"fällt ihnen es schwer, sich genau auszudrücken."
+"Kann eine kurze, eingeübte Präsentation zu einem Thema aus seinem/ihrem "
+"Alltag vortragen und dabei kurz Gründe und Erläuterungen zu Meinungen, "
+"Plänen und Handlungen geben"
 
-#: D031_B1_SI03
+#: D1_2_14_1
 msgid ""
-"I can deal with most situations likely to arise when making travel "
-"arrangements through an agent or when actually travelling."
+"CAN ask for and understand the required information from a tourist office, "
+"provided this is of a familiar, non-specialised nature"
 msgstr ""
-"Sie können sich gut in den meisten Situationen zurechtfinden, die beim "
-"Buchen einer Reise durch ein Reisebüro oder bei Reisen entstehen können."
+"KANN von einem Fremdenverkehrsamt Informationen erbitten und sie auch "
+"verstehen, sofern sie vertraut und nicht zu speziell sind"
 
-#: D032_B1_SI04
-msgid "I can ask for and follow detailed directions."
-msgstr ""
-"Sie können nach einer Adresse fragen, und die detaillierte Wegbeschreibung "
-"befolgen, die ihnen gegeben wird."
+#: D1_2_14_2
+msgid "CAN give simple explanations about familiar places"
+msgstr "KANN einfache Erklärungen zu bekannten Orten geben"
 
-#: D033_B1_SI05
+#: D1_2_15_1
 msgid ""
-"I can express and respond to feelings such as surprise, happiness, sadness, "
-"interest and indifference."
+"Can establish social contact: greetings and farewells; introductions; giving "
+"thanks"
 msgstr ""
-"Sie können Gefühle wie Überraschung, Freude, Trauer, Interesse und "
-"Gleichgültigkeit ausdrücken und bei anderen Menschen angemessen darauf "
-"reagieren."
+"Kann sozialen Kontakt herstellen durch Begrüßung, Abschied, Sich-Vorstellen, "
+"Danken"
 
-#: D034_B1_SI06
+#: D1_2_15_2
+msgid "Can express how he/she feels in simple terms, and express thanks"
+msgstr ""
+"Kann in einfachen Worten sagen, wie es ihm/ihr geht, und Dank ausdrücken"
+
+#: D1_2_15_3
+msgid "Can make and respond to invitations, suggestions and apologies"
+msgstr ""
+"Kann jemanden einladen und auf Einladungen reagieren und kann um "
+"Entschuldigung bitten und auf Entschuldigungen reagieren"
+
+#: D1_2_15_4
+msgid "Can say what he/she likes and dislikes"
+msgstr "Kann sagen, was er/sie gerne hat und was nicht"
+
+#: D1_2_16_1
 msgid ""
-"I can give or seek personal views and opinions in an informal discussion "
-"with friends."
+"Can describe his/her family, living conditions, educational background, "
+"present or most recent job"
 msgstr ""
-"Sie können Ansichten und persönliche Meinungen in informellen Gesprächen "
-"auszutauschen."
+"Kann die Familie, Lebensverhältnisse, die Ausbildung und die gegenwärtige "
+"oder die letzte berufliche Tätigkeit beschreiben"
 
-#: D035_B1_SI07
-msgid "I can agree and disagree politely."
-msgstr "Sie können höflich ihre Zustimmung oder Ablehnung ausdrücken."
+#: D1_2_16_2
+msgid "Can describe people, places and possessions in simple terms"
+msgstr "Kann mit einfachen Worten Personen, Orte, Dinge beschreiben"
 
-#: D036_B1_SP01
-msgid "I can narrate a story."
-msgstr "Sie können eine Geschichte nacherzählen."
+#: D1_2_17_1
+msgid "CAN book a room (face-to-face) in a hotel, bed and breakfast, etc."
+msgstr "KANN persönlich ein Zimmer in einem Hotel, einer Pension usw. buchen"
 
-#: D037_B1_SP02
+#: D1_2_17_2
 msgid ""
-"I can give detailed accounts of experiences, describing feelings and "
-"reactions."
+"CAN make a complaint about simple matters, for example 'The light in my room "
+"doesn't work.'"
 msgstr ""
-"Sie können Erfahrungen im Detail erzählen, Gefühle und Reaktionen "
-"beschreiben."
+"KANN sich über einfache Sachverhalte beschweren, z. B. \"Das Licht in meinem "
+"Zimmer funktioniert nicht.\""
 
-#: D038_B1_SP03
-msgid "I can describe dreams, hopes and ambitions."
-msgstr "Sie können Hoffnungen, Ambitionen und Träume beschreiben."
-
-#: D039_B1_SP04
-msgid "I can explain and give reasons for my plans, intentions and actions."
-msgstr ""
-"Sie können ihre Pläne erklären und begründen, Absichten und Handlungen "
-"aufzeigen."
-
-#: D040_B1_SP05
-msgid "I can relate the plot of a book or film and describe my reactions."
-msgstr ""
-"Sie können die Handlung eines Buches oder Films beschreiben und die "
-"Reaktionen, die es ausgelöst hat."
-
-#: D041_B1_SP06
+#: D1_2_18_1
 msgid ""
-"I can paraphrase short written passages orally in a simple fashion, using "
-"the original text wording and ordering."
+"CAN participate in a simple phone conversation with a known person on a "
+"predictable topic, e.g. 21 arrangements"
 msgstr ""
-"Sie können ganz einfache kurze Passagen aus schriftlichen Texten mit den "
-"Worten und den Inhalten des ursprünglichen Textes nacherzählen."
+"KANN sich an einem einfachen Telefongespräch mit einer bekannten Person über "
+"ein vorhersehbares Thema beteiligen, wie etwa Reisevorbereitungen"
 
-#: D042_B2_SI01
+#: D1_2_19_1
 msgid ""
-"I can initiate, maintain and end discourse naturally with effective turn-"
-"taking."
+"CAN, on arrival in a foreign country, answer routine questions such as 'How "
+"long are you staying?' and respond appropriately to instructions such as "
+"'Open your suitcase', etc."
 msgstr ""
-"Sie können ein Gespräch beginnen, führen und beenden und komplexe Inhalte "
-"korrekt darstellen."
+"KANN bei Ankunft in einem fremden Land alltägliche Fragen beantworten wie "
+"\"Wie lange bleiben Sie?\" und Anweisungen wie \"Öffnen Sie Ihren Koffer\" usw. "
+"Befolgen"
 
-#: D043_B2_SI02
+#: D1_2_19_2
 msgid ""
-"I can exchange considerable quantities of detailed factual information on "
-"matters within my fields of interest."
+"CAN give and understand straightforward directions, provided that these are "
+"not lengthy and/or complex"
 msgstr ""
-"Sie können sich zu einem breiten Themenspektrum klar und detailliert "
-"ausdrücken."
+"KANN klare Wegweisungen geben und verstehen, solange diese nicht lang "
+"und/oder kompliziert sind"
 
-#: D044_B2_SI03
+#: D1_2_19_3
 msgid ""
-"I can convey degrees of emotion and highlight the personal significance of "
-"events and experiences."
+"CAN go to a 21 information centre at, for example, a railway/bus station and "
+"ask for information as to how to get from A to B"
 msgstr ""
-"Sie können verschiedene Abstufungen an Gefühlen ausdrücken und die Bedeutung "
-"von Ereignissen und Erfahrungen vermitteln."
+"KANN zur Reiseauskunft z. B. am Bahnhof/Busbahnhof gehen und sich "
+"erkundigen, wie man von A nach B fährt"
 
-#: D045_B2_SI04
+#: D1_2_19_4
+msgid "CAN ask to book tickets"
+msgstr "KANN um die Buchung einer Fahrkarte bitten"
+
+#: D1_2_20_1
 msgid ""
-"I can engage in extended conversation in a clearly participatory fashion on "
-"most general topics."
+"CAN ask for simple post office services (e.g. 'I want to send this to Oman', "
+"'One first class stamp, please')"
 msgstr ""
-"Sie können sich aktiv an einem Gespräch über die Mehrzahl umfangreicher "
-"Themen von allgemeinem Interesse beteiligen."
+"KANN um einfache Postdienste bitten (z. B. \"Ich möchte das nach Japan "
+"schicken\", \"Eine Briefmarke für einen Euro, bitte.\")"
 
-#: D046_B2_SI05
+#: D1_2_20_2
+msgid "CAN ask to change money at a bank (e.g. 'Can I change these here?')"
+msgstr ""
+"KANN bei einer Bank Geld wechseln lassen ( z. B. \"Kann ich das hier "
+"wechseln?\")"
+
+#: D1_3_01_1
 msgid ""
-"I can account for and sustain my opinions in discussion by providing "
-"relevant explanations, arguments and comments."
+"CAN indicate nature of problem and understand simple instructions and "
+"questions"
 msgstr ""
-"Sie können eigene Meinungen darstellen und diese in Streitgesprächen mit "
-"relevanten Erklärungen, Argumenten und Kommentaren verteidigen."
+"KANN die Art des Notfalls angeben sowie einfache Anweisungen und Fragen "
+"verstehen"
 
-#: D047_B2_SI06
+#: D1_3_02_1
 msgid ""
-"I can help a discussion along on familiar ground confirming comprehension, "
-"inviting others in etc."
+"Can give straightforward descriptions on a variety of familiar subjects "
+"within his/her field of interest"
 msgstr ""
-"Kann dazu beitragen ein Gespräch auf einer vertraulichen Grundlage zu "
-"entwickeln, Verständnis ausdrücken und andere Personen dazu einladen."
+"Kann zu verschiedenen vertrauten Themen des eigenen Interessenbereichs "
+"unkomplizierte Beschreibungen oder Berichte geben"
 
-#: D048_B2_SI07
+#: D1_3_02_2
 msgid ""
-"I can carry out a prepared interview, checking and confirming information, "
-"following up interesting replies."
+"Can reasonably fluently relate a straightforward narrative or description as "
+"a linear sequence of points"
 msgstr ""
-"Sie können ein vorbereitetes Interview durchführen, Verständnis sichern und "
-"falls nötig Nachfragen."
+"Kann relativ flüssig unkomplizierte Geschichten oder Beschreibungen "
+"wiedergeben, indem er/sie die einzelnen Punkte linear aneinander reiht"
 
-#: D049_B2_SP01
+#: D1_3_02_3
 msgid ""
-"I can give clear, detailed descriptions on a wide range of subjects related "
-"to my fields of interest."
-msgstr "Sie verstehen im eigenen Spezialgebiet auch Fachdiskussionen."
+"Can give detailed accounts of experiences, describing feelings and reactions"
+msgstr ""
+"Kann detailliert über eigene Erfahrungen berichten und dabei die eigenen "
+"Gefühle und Reaktionen beschreiben"
 
-#: D050_B2_SP02
+#: D1_3_02_4
+msgid "Can relate details of unpredictable occurrences, e.g. an accident"
+msgstr ""
+"Kann über die wichtigsten Einzelheiten eines unvorhergesehenen Ereignisses "
+"(z. B. eines Unfalls) berichten"
+
+#: D1_3_02_5
+msgid "Can relate the plot of a book or film and describe his/her reactions"
+msgstr ""
+"Kann die Handlung eines Films oder eines Buchs wiedergeben und die eigenen "
+"Reaktionen beschreiben"
+
+#: D1_3_02_6
+msgid "Can describe dreams, hopes and ambitions"
+msgstr "Kann Träume, Hoffnungen, Ziele beschreiben"
+
+#: D1_3_02_7
+msgid "Can describe events, real or imagined"
+msgstr "Kann reale und erfundene Ereignisse schildern"
+
+#: D1_3_03_1
 msgid ""
-"I can understand and summarise orally short extracts from news items, "
-"interviews or documentaries containing opinions, argument and discussion."
+"Can develop an argument well enough to be followed without difficulty most "
+"of the time"
 msgstr ""
-"Kann kurze Auszüge aus Nachrichten, Interviews oder Reportagen, die "
-"Meinungen Argumente und Diskussion beinhalten verstehen und mündlich "
-"zusammenfassen."
+"Kann eine Argumentation gut genug ausführen, um die meiste Zeit ohne "
+"Schwierigkeiten verstanden zu werden"
 
-#: D051_B2_SP03
+#: D1_3_03_2
 msgid ""
-"I can understand and summarise orally the plot and sequence of events in an "
-"extract from a film or play."
+"Can briefly give reasons and explanations for opinions, plans and actions"
 msgstr ""
-"Kann die Handlung und die Abfolge der Ereignisse von einem Filmausschnitt "
-"oder ganzen Spielfilms verstehen und mündlich zusammenfassen."
+"Kann für Ansichten, Pläne oder Handlungen kurze Begründungen oder "
+"Erklärungen geben"
 
-#: D052_B2_SP04
+#: D1_3_06_1
+msgid "CAN order a meal in a restaurant"
+msgstr "KANN eine Mahlzeit in einem Restaurant bestellen"
+
+#: D1_3_06_2
 msgid ""
-"I can construct a chain of reasoned argument, linking my ideas logically."
+"CAN ask basic questions about the food in relation to the menu, and about "
+"the services available (e.g. use of credit cards, availability of high-"
+"chairs or half-portions for children)"
 msgstr ""
-"Sie können ein logisches Argument aufbauen, und entsprechende Gedanken "
-"verknüpfen."
+"KANN einfache Fragen zur Speisekarte und zu besonderen Wünschen (z.B. "
+"Bezahlung mit Kreditkarte, Fragen zu Kindermenüs, etc.) stellen"
 
-#: D053_B2_SP05
+#: D1_3_06_3
 msgid ""
-"I can explain a viewpoint on a topical issue giving the advantages and "
-"disadvantages of various options."
+"CAN ask basic questions about the food and understand most explanations that "
+"are likely to be given in such establishments (e.g. when a vegetarian or "
+"someone keeping dietary laws or forbidden certain foods for medical reasons "
+"has to check the contents of a dish)"
 msgstr ""
-"Sie können einen Standpunkt zu einer aktuellen Frage erläutern und die Vor-"
-"und Nachteile verschiedener Möglichkeiten angeben."
+"KANN einfache Fragen über das Essen stellen und einfache Erklärungen auf "
+"seine Fragen verstehen (z.B. ein Vegetarier oder jemand, der eine bestimmte "
+"Diät einhalten muß und wissen möchte, was in dem Essen ist)"
 
-#: D054_B2_SP06
-msgid "I can speculate about causes, consequences, hypothetical situations."
-msgstr ""
-"Sie können Annahmen über Ursachen und Folgen hypothetischer Situationen "
-"treffen."
-
-#: D055_C1_SI01
-msgid "I can keep up with an animated conversation between native speakers."
-msgstr ""
-"Kann sich spontan und fließend verständigen, sodass ein normales Gespräch "
-"mit Muttersprachlern ohne größere wechselseitige Anstrengung gut möglich "
-"ist."
-
-#: D056_C1_SI02
+#: D1_3_06_4
 msgid ""
-"I can use the language fluently, accurately and effectively on a wide range "
-"of general, professional or academic topics."
+"CAN make a complaint about straightforward matters, for example, the service "
+"or the bill"
 msgstr ""
-"Kann die Sprache im gesellschaftlichen und beruflichen Leben oder in "
-"Ausbildung und Studium wirksam und flexibel anwenden und gebrauchen."
+"KANN einfache Beschwerden äußern, zum Beispiel über die Dienstleistung oder "
+"die Rechnung"
 
-#: D057_C1_SI03
+#: D1_3_07_1
+msgid "CAN go to a counter service shop and ask for most of what (s)he wants"
+msgstr ""
+"KANN in ein Geschäft mit Thekenbedienung gehen und das meiste verlangen, was "
+"er/sie möchte"
+
+#: D1_3_08_1
 msgid ""
-"I can use language flexibly and effectively for social purposes, including "
-"emotional, allusive and joking usage."
-msgstr ""
-"Kann die Sprache im sozialen Kontext flexibel und effektiv einsetzen, auch "
-"um Gefühle auszudrücken und Scherze zu verwenden."
+"CAN ask over the phone for a medical appointment and understand the reply"
+msgstr "KANN telefonisch um einen Arzttermin bitten und die Antwort verstehen"
 
-#: D058_C1_SI04
+#: D1_3_08_2
 msgid ""
-"I can express my ideas and opinions clearly and precisely, and can present "
-"and respond to complex lines of reasoning convincingly."
+"CAN explain what is wrong in straightforward terms at a chemist's, doctor's, "
+"hospital or dentist's, especially if symptoms are visible"
 msgstr ""
-"Kann Ideen und Meinungen klar und präzise ausdrücken und präsentieren und "
-"auf komplexe Handlungsstränge überzeugend reagieren."
+"KANN seine/ihre Symptome mit einfachen, alltäglichen Worten beim Apotheker, "
+"im Krankenhaus, beim Arzt oder beim Zahnarzt erklären"
 
-#: D059_C1_SP01
-msgid "I can give clear, detailed descriptions of complex subjects."
-msgstr ""
-"Kann ein breites Spektrum anspruchsvoller, längerer texte verstehen und auch "
-"implizite Bedeutungen erfassen."
-
-#: D060_C1_SP02
-msgid "I can orally summarise long, demanding texts."
-msgstr ""
-"Kann Texte mit schwierigen und umfangreichen Inhalten mündlich "
-"zusammenzufassen."
-
-#: D061_C1_SP03
+#: D1_3_08_3
 msgid ""
-"I can give an extended description or account of something, integrating "
-"themes, developing particular points and concluding appropriately."
+"CAN ask for advice and understand the answer, provided this is given in "
+"everyday language"
 msgstr ""
-"Sie können eine lange Beschreibung eines Textes in Beziehung setzen, und die "
-"Integration von Themen unter bestimmten Aspekten besonders hervorheben und "
-"einen Abschluss angemessen formulieren."
+"KANN um Rat fragen und die Antwort verstehen, solange sie in Alltagssprache "
+"gegeben wird"
 
-#: D062_C1_SP04
+#: D1_3_13_1
 msgid ""
-"I can give a clearly developed presentation on a subject in my fields of "
-"personal or professional interest, departing when necessary from the "
-"prepared text and following up spontaneously points raised by members of the "
-"audience."
+"Can give a prepared straightforward presentation on a familiar topic within "
+"his/her field which is clear enough to be followed without difficulty most "
+"of the time, and in which the main points are explained with reasonable "
+"precision"
 msgstr ""
-"Sie können eine Präsentation über ein Thema ihres persönlichen Interesses "
-"oder Fachgebiet klar formuliert entwickeln, und wenn nötig vom vorbereiteten "
-"Text abweichen und konkrete Fragen aus dem Publikum spontan einbeziehen."
+"Kann eine vorbereitete, unkomplizierte Präsentation zu einem vertrauten "
+"Thema aus seinem/ihrem Fachgebiet so klar vortragen, dass man ihr meist "
+"mühelos folgen kann, wobei die Hauptpunkte hinreichend präzise erläutert "
+"werden"
 
-#: D063_C2_SI01
+#: D1_3_14_1
 msgid ""
-"I can take part effortlessly in all conversations and discussions with "
-"native speakers."
+"CAN give simple information to a visitor about familiar places, for example "
+"her/his own school, city etc."
 msgstr ""
-"Kann sich mühelos an allen Gesprächen und Diskussionen mit Muttersprachlern "
-"beteiligen."
+"KANN einem Besucher einfache Informationen über bekannte Orte geben, z. B. "
+"seine/ihre Schule, Stadt usw."
 
-#: D064_C2_SP01
-msgid ""
-"I can summarise orally information from different sources, reconstructing "
-"arguments and accounts in a coherent presentation."
-msgstr ""
-"Kann Informationen aus verschiedenen schriftlichen und mündlichen Quellen "
-"zusammenfassen und dabei Begründungen und Erklärungen in einer "
-"zusammenhängenden Darstellung wiedergeben."
+#: D1_3_14_2
+msgid "CAN answer simple, predictable questions"
+msgstr "KANN einfache, vorhersehbare Fragen beantworten"
 
-#: D065_C2_SP02
+#: D1_3_15_1
 msgid ""
-"I can present ideas and viewpoints in a very flexible manner in order to "
-"give emphasis, to differentiate and to eliminate ambiguity."
+"CAN participate in a conversation in a casual or semi-formal situation for a "
+"short time"
 msgstr ""
-"Kann Ideen und Standpunkte sehr flexibel präsentieren, um den Schwerpunkt "
-"differenziert wiederzugeben und auch bei komplexeren Sachverhalten "
-"Unklarheiten beseitigen."
+"KANN sich an einem Gespräch in einer privaten oder halbformellen Situation "
+"für kurze Zeit beteiligen"
+
+#: D1_3_15_2
+msgid ""
+"Can compare and contrast alternatives, discussing what to do, where to go, "
+"who or which to choose, etc."
+msgstr ""
+"Kann in Gesprächen darüber, was man tun, wohin man gehen oder was man "
+"auswählen sollte, Vergleiche anstellen und verschiedene Möglichkeiten "
+"einander gegenüberstellen"
+
+#: D1_3_15_3
+msgid "Can enter unprepared into conversations on familiar topics"
+msgstr "Kann ohne Vorbereitung an Gesprächen über vertraute Themen teilnehmen "
+
+#: D1_3_15_4
+msgid ""
+"Can maintain a conversation or discussion but may sometimes be difficult to "
+"follow when trying to say exactly what he/she would like to"
+msgstr ""
+"Kann ein Gespräch oder eine Diskussion aufrechterhalten, ist aber "
+"möglicherweise manchmal schwer zu verstehen, wenn er/sie versucht, genau "
+"auszudrücken, was er/sie sagen möchte"
+
+#: D1_3_15_5
+msgid ""
+"Can express and respond to feelings such as surprise, happiness, sadness, "
+"interest and indifference"
+msgstr ""
+"Kann Gefühle wie Überraschung, Freude, Trauer, Interesse und "
+"Gleichgültigkeit ausdrücken und auf entsprechende Gefühlsäußerungen "
+"reagieren"
+
+#: D1_3_17_1
+msgid "CAN book a room in a hotel over the phone"
+msgstr "KANN ein Hotelzimmer telefonisch buchen"
+
+#: D1_3_17_2
+msgid ""
+"CAN establish to his/her own satisfaction that the accommodation on offer "
+"fulfils all his/her needs"
+msgstr ""
+"KANN feststellen, ob die angebotene Unterkunft seinen/ihren Bedürfnissen "
+"entspricht"
+
+#: D1_3_17_3
+msgid ""
+"CAN deal with most situations likely to arise in a hotel, such as messages, "
+"ordering, etc"
+msgstr ""
+"KANN die meisten Situationen bewältigen, die in einem Hotel oft auftreten, "
+"wie Nachrichten hinterlassen oder empfangen, etwas bestellen usw."
+
+#: D1_3_19_1
+msgid "CAN go to a rental firm and ask to hire a car, boat etc."
+msgstr "KANN zu einer Vermiet-Agentur gehen und ein Auto, Boot usw. Mieten"
+
+#: D1_3_19_2
+msgid ""
+"CAN deal with most routine situations likely to arise when either making 21 "
+"arrangements through a 21 agent or when actually travelling (e.g. buying "
+"tickets, checking in at an airport)"
+msgstr ""
+"KANN die meisten alltäglichen Situationen bewältigen, die normalerweise "
+"auftreten, wenn man eine Reise über ein Reisebüro bucht oder wenn man reist "
+"(z. B. Fahrkarten kaufen, am Flughafen einchecken)"
+
+#: D1_3_20_1
+msgid ""
+"CAN ask to open an account at a bank provided that the procedure is "
+"straightforward"
+msgstr ""
+"KANN ein Konto bei einer Bank eröffnen, sofern der Vorgang leicht "
+"verständlich ist"
+
+#: D1_4_01_1
+msgid ""
+"CAN give a report of an emergency incident, e.g. describe the circumstances "
+"of a theft to the police, give details of vehicle breakdown"
+msgstr ""
+"KANN über einen Notfall berichten, d.h. z. B. die Umstände eines Diebstahls "
+"der Polizei beschreiben, bei einer Autopanne Einzelheiten angeben"
+
+#: D1_4_02_1
+msgid ""
+"Can give clear, detailed descriptions on a wide range of subjects related to "
+"his/her field of interest"
+msgstr ""
+"Kann im Rahmen des eigenen Interessengebiets zu einem breiten Themenspektrum "
+"klare und detaillierte Beschreibungen und Berichte geben"
+
+#: D1_4_03_1
+msgid ""
+"Can develop an argument systematically with appropriate highlighting of "
+"significant points, and relevant  supporting detail"
+msgstr ""
+"Kann etwas systematisch erörtern und dabei entscheidende Punkte in "
+"angemessener Weise hervorheben und stützende Einzelheiten anführen"
+
+#: D1_4_03_2
+msgid ""
+"Can develop a clear argument, expanding and supporting his/her points of "
+"view at some length with subsidiary points and relevant examples"
+msgstr ""
+"Kann etwas klar erörtern, indem er/sie die eigenen Standpunkte ausführlich "
+"darstellt und durch Unterpunkte oder geeignete Beispiele stützt"
+
+#: D1_4_03_3
+msgid "Can construct a chain of reasoned argument"
+msgstr "Kann seine/ihre Argumentation logisch aufbauen und verbinden"
+
+#: D1_4_03_4
+msgid ""
+"Can explain a viewpoint on a topical issue giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+"Kann den Standpunkt zu einem Problem erklären und die Vor- und Nachteile "
+"verschiedener Alternativen angeben"
+
+#: D1_4_06_1
+msgid "CAN order a meal and ask for clarification about dishes on the menu"
+msgstr ""
+"KANN ein Essen bestellen und sich die Speisen auf der Karte erklären lassen"
+
+#: D1_4_06_2
+msgid ""
+"CAN maintain an interaction related to the nature and quality of the food"
+msgstr "KANN sich über die Art und Qualität des Essens äußern"
+
+#: D1_4_06_3
+msgid ""
+"CAN complain effectively about most situations that are likely to arise in a "
+"restaurant"
+msgstr ""
+"KANN sich über die meisten Situationen, die häufig in einem Restaurant "
+"vorkommen, erfolgreich beschweren"
+
+#: D1_4_07_1
+msgid "CAN ask effectively for refund or exchange of faulty or unwanted goods"
+msgstr ""
+"KANN erfolgreich um Vergütung oder Umtausch defekter oder unerwünschter Ware "
+"bitten"
+
+#: D1_4_07_2
+msgid "CAN bargain for what (s)he wants and reach an agreement"
+msgstr ""
+"KANN über den Preis von dem, was er/sie möchte, verhandeln und sich einigen"
+
+#: D1_4_13_1
+msgid ""
+"Can give a clear, prepared presentation, giving reasons in support of or "
+"against a particular point of view and giving the advantages and "
+"disadvantages of various options"
+msgstr ""
+"Kann eine klare, vorbereitete Präsentation vortragen und dabei Gründe für "
+"oder gegen einen Standpunkt anführen und die Vor- und Nachteile "
+"verschiedener Alternativen angeben"
+
+#: D1_4_13_2
+msgid ""
+"Can give a clear, systematically developed presentation, with highlighting "
+"of significant points, and relevant supporting detail"
+msgstr ""
+"Kann eine klare und systematisch angelegte Präsentation vortragen und dabei "
+"wesentliche Punkte und relevante unterstützende Details hervorheben"
+
+#: D1_4_15_1
+msgid ""
+"CAN keep up a conversation on a fairly wide range of topics, e.g. personal "
+"and professional experiences, events currently in the news"
+msgstr ""
+"KANN ein Gespräch über eine relativ breite Auswahl von Themen "
+"aufrechterhalten, z.B. persönliche und berufliche Erfahrungen oder aktuelle "
+"Ereignisse in den Nachrichten"
+
+#: D1_4_15_2
+msgid "CAN express opinions on abstract/cultural matters, and defend them"
+msgstr ""
+"KANN seine/ihre Meinung über abstrakte/kulturelle Themen äußern und "
+"verteidigen"
+
+#: D1_4_15_3
+msgid ""
+"Can convey degrees of emotion and highlight the personal significance of "
+"events and experiences"
+msgstr ""
+"Kann verschieden starke Gefühle zum Ausdruck bringen und die persönliche "
+"Bedeutung von Ereignissen und Erfahrungen hervorheben"
+
+#: D1_4_17_1
+msgid ""
+"CAN argue/complain effectively about most problem areas that are likely to "
+"occur"
+msgstr ""
+"KANN erfolgreich über die meisten Probleme, die häufig auftreten, "
+"argumentieren/sich beschweren"
+
+#: D1_4_18_1
+msgid ""
+"CAN participate in casual conversation over the phone with a known person on "
+"a variety of topics"
+msgstr ""
+"KANN an einem informellen Telefongespräch mit einer bekannten Person über "
+"viele verschiedene Themen teilnehmen"
+
+#: D1_4_19_1
+msgid "CAN deal with all kinds of 21 arrangements and travelling"
+msgstr "KANN jede Form von Reisevorbereitungen und Reisen bewältigen"
+
+#: D1_4_20_1
+msgid ""
+"CAN ask questions related to different types of post office services and "
+"understand answers if sympathetically expressed"
+msgstr ""
+"KANN Fragen bezüglich der verschiedenen Postdienste stellen und Antworten "
+"verstehen, die einfühlend ausgedrückt werden"
+
+#: D1_5_02_1
+msgid "Can give clear, detailed descriptions of complex subjects"
+msgstr "Kann komplexe Sachverhalte klar und detailliert darstellen"
+
+#: D1_5_02_2
+msgid ""
+"Can give elaborate descriptions and narratives, integrating sub-themes, "
+"developing particular points and rounding off with an appropriate conclusion"
+msgstr ""
+"Kann Sachverhalte ausführlich beschreiben und Geschichten erzählen, kann "
+"untergeordnete Themen integrieren, bestimmte Punkte genauer ausführen und "
+"alles mit einem angemessenen Schluss abrunden"
+
+#: D1_5_02_3
+msgid ""
+"Can give clear, smoothly flowing, elaborate and often memorable descriptions"
+msgstr ""
+"Kann Sachverhalte klar, flüssig, ausführlich und oft sehr interessant "
+"darstellen"
+
+#: D1_5_08_1
+msgid ""
+"CAN enquire effectively about 9 services provided, entitlements and "
+"procedures involved"
+msgstr ""
+"KANN sich erfolgreich über angebotene Gesundheitsleistungen, Ansprüche und "
+"Verfahren erkundigen"
+
+#: D1_5_08_2
+msgid ""
+"CAN describe non-visible symptoms such as different kinds of pain, for "
+"example 'dull', 'stabbing', 'throbbing' etc."
+msgstr ""
+"KANN unsichtbare Symptome sowie verschiedene Arten von Schmerzen "
+"beschreiben, zum Beispiel \"dumpf\", \"stechend\", \"pochend\""
+
+#: D1_5_13_1
+msgid ""
+"Can give a clear, well-structured presentation of a complex subject, "
+"expanding and supporting points of view at some length with subsidiary "
+"points, reasons and relevant examples"
+msgstr ""
+"Kann ein komplexes Thema gut strukturiert und klar vortragen und dabei die "
+"eigenen Standpunkte ausführlich darstellen und durch Unterpunkte, geeignete "
+"Beispiele oder Begründungen stützen"
+
+#: D1_5_13_2
+msgid ""
+"Can present a complex topic confidently and articulately to an audience "
+"unfamiliar with it, structuring and adapting the talk flexibly to meet the "
+"audience's needs"
+msgstr ""
+"Kann sicher und gut verständlich einem Publikum ein komplexes Thema "
+"vortragen, mit dem es nicht vertraut ist, und dabei die Rede flexibel den "
+"Bedürfnissen des Publikums anpassen und entsprechend strukturieren"
+
+#: D1_5_14_1
+msgid "CAN show visitors round and give a detailed description of a place"
+msgstr ""
+"KANN Besucher herumführen und eine detaillierte Beschreibung eines Ortes "
+"geben"
+
+#: D1_5_15_1
+msgid ""
+"CAN participate in casual conversations with appropriacy and good "
+"understanding of humour, irony and implicit cultural references"
+msgstr ""
+"KANN an Alltagsgesprächen angemessen und mit gutem Verständnis von Humor, "
+"Ironie und impliziten kulturellen Anspielungen teilnehmen"
+
+#: D1_5_15_2
+msgid "CAN pick up nuances of meaning/opinion"
+msgstr "KANN Nuancen von Bedeutungen/Meinungen verstehen"
+
+#: D1_5_20_1
+msgid ""
+"CAN deal effectively with most routine transactions in a bank or post office"
+msgstr ""
+"KANN erfolgreich mit den meisten alltäglichen Transaktionen in der Bank oder "
+"im Postamt fertig werden"
+
+#: D2_1_11_1
+msgid "CAN ask very simple questions for information, such as 'What is this?'"
+msgstr ""
+"KANN sehr einfache Informationen erfragen, z..B. durch Fragen wie \"Was ist "
+"das?\""
+
+#: D2_2_11_1
+msgid "CAN understand and ask simple questions and understand simple answers"
+msgstr "KANN einfache vorhersehbare Fragen verstehen und beantworten"
+
+#: D2_2_11_2
+msgid "CAN express simple opinions using expressions such as 'I don't agree'"
+msgstr ""
+"KANN einfache Meinungen ausdrücken, in dem er/sie Ausdrücke verwendet wie "
+"\"Ich stimme dem nicht zu\""
+
+#: D2_2_11_3
+msgid ""
+"Can exchange relevant information and give his/her opinion on practical "
+"problems when asked directly"
+msgstr ""
+"Kann relevante Informationen austauschen und, wenn direkt danach gefragt, "
+"die eigene Meinung zu einer praktischen Frage äußern"
+
+#: D2_2_11_4
+msgctxt "D2_2_11_4"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+"Kann sich bei einfachen Routineaufgaben verständigen und dabei einfache "
+"Wendungen gebrauchen, um Dinge zu erbitten oder zu geben, einfache "
+"Informationen zu erfragen und zubesprechen, was man als Nächstes tun sollte"
+
+#: D2_3_05_1
+msgid ""
+"CAN give a short, simple presentation or demonstration on a familiar topic"
+msgstr ""
+"KANN eine kurze, einfache Präsentation oder Demonstration über ein "
+"vertrautes Thema geben"
+
+#: D2_3_11_1
+msgid ""
+"CAN take a limited part in a seminar or tutorial, provided that this is "
+"conducted sympathetically, using simple language"
+msgstr ""
+"KANN mit Einschränkungen an einem Seminar oder Kurs teilnehmen, "
+"vorausgesetzt, daß der Dozent auf ihn/sie eingeht und eine einfache Sprache "
+"benutzt"
+
+#: D2_3_11_2
+msgid ""
+"Can take part in routine formal discussion of familiar subjects which is "
+"conducted in clearly articulated speech in the standard dialect and which "
+"involves the exchange of factual information, receiving instructions or the "
+"discussion of solutions to practical problems"
+msgstr ""
+"Kann an routinemäßigen formellen Diskussionen über vertraute Themen "
+"teilnehmen, bei denen es darum geht, Sachinformationen auszutauschen, "
+"Anweisungen entgegenzunehmen oder Lösungsmöglichkeiten für praktische "
+"Probleme zu diskutieren, sofern deutlich gesprochen und Standardsprache "
+"verwendet wird"
+
+#: D2_3_11_3
+msgid ""
+"CAN ask for clarification, but this needs to be given sympathetically in "
+"order for it to be understood"
+msgstr ""
+"KANN um Erläuterung bitten, aber die Erläuterung muß \"wohlwollend\" gegeben "
+"werden, damit sie verstanden werden kann"
+
+#: D2_3_11_4
+msgid ""
+"Can put over a point of view clearly, but has difficulty engaging in debate"
+msgstr ""
+"Kann einen Standpunkt klar machen, hat aber Schwierigkeiten wenn er/sie sich "
+"auf eine Debatte einlässt"
+
+#: D2_3_11_5
+msgctxt "D2_3_11_5"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+"Kann erklären, warum etwas ein Problem ist, kann diskutieren, was man als "
+"Nächstes tun sollte, und kann Alternativen vergleichen und einander "
+"gegenüberstellen"
+
+#: D2_3_11_6
+msgctxt "D2_3_11_6"
+msgid "Can give brief comments on the views of others"
+msgstr "Kann die Standpunkte anderer kurz kommentieren"
+
+#: D2_3_11_7
+msgid ""
+"Can summarise and give his or her opinion about a short story, article, "
+"talk, discussion, interview, or documentary and answer further questions of "
+"detail"
+msgstr ""
+"Kann eine kurze Geschichte, einen Artikel, einen Vortrag, ein Interview oder "
+"eine Dokumentarsendung zusammenfassen, dazu Stellung nehmen und "
+"Informationsfragen dazu beantworten"
+
+#: D2_4_05_1
+msgid "CAN give a clear presentation on a familiar topic"
+msgstr "KANN eine klare Präsentation über ein vertrautes Thema geben"
+
+#: D2_4_05_2
+msgid "CAN answer predictable or factual questions"
+msgstr "KANN vorhersehbare und faktische Fragen beantworten"
+
+#: D2_4_09_1
+msgid "CAN check that all instructions are understood"
+msgstr "KANN überprüfen, daß er/sie die Anweisungen richtig verstanden hat"
+
+#: D2_4_11_1
+msgctxt "D2_4_11_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+"Kann seine/ihre Gedanken und Meinungen präzise ausdrücken, überzeugend "
+"argumentieren und auf komplexe Argumentationen anderer reagieren"
+
+#: D2_4_11_2
+msgctxt "D2_4_11_2"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+"Kann eine Angelegenheit oder ein Problem klar darlegen, dabei Vermutungen "
+"über Ursachen und Folgen anstellen und die Vor- und Nachteile verschiedener "
+"Ansätze gegeneinander abwägen"
+
+#: D2_4_11_3
+msgid ""
+"Can synthesise and report information and arguments from a number of sources"
+msgstr ""
+"Kann Informationen und Argumente aus verschiedenen Quellen zusammenfassen "
+"und wiedergeben"
+
+#: D2_4_11_4
+msgid "CAN ask questions, for example for reasons, clarification etc."
+msgstr "KANN Fragen stellen, z. B. nach Ursachen, Erläuterungen etc."
+
+#: D2_5_05_1
+msgid "CAN rebut criticisms without causing offence"
+msgstr "KANN Kritik zurückweisen, ohne beleidigend zu wirken"
+
+#: D2_5_05_2
+msgid "CAN give coherent explanations of a theoretical nature"
+msgstr "KANN zusammenhängende Erläuterungen theoretischer Art geben"
+
+#: D2_5_05_3
+msgid "CAN give an effective presentation or demonstration"
+msgstr "KANN eine erfolgreiche Präsentation oder Demonstration geben"
+
+#: D2_5_05_4
+msgid "CAN answer unpredictable questions of a factual nature"
+msgstr "KANN unvorhersehbare Fragen faktischer Art beantworten"
+
+#: D2_5_09_1
+msgid ""
+"CAN make all necessary arrangements regarding practical arrangements for "
+"study in or out of classroom with teachers, lecturers, lab and library "
+"staff, etc."
+msgstr ""
+"KANN alle Vereinbarungen treffen, die für die praktische Durchführung des "
+"Studiums innerhalb und außerhalb des Klassenzimmers notwendig sind, d. h. "
+"mit Lehrern, Dozenten, Labor- und Bibliothekspersonal etc."
+
+#: D2_5_11_1
+msgid "CAN reformulate questions if misunderstood"
+msgstr "KANN Fragen, wenn sie mißverstanden wurden, umformulieren"
+
+#: D2_5_11_2
+msgid ""
+"CAN make critical remarks / express disagreement without causing offence"
+msgstr ""
+"KANN Kritik äußern/einen anderen Standpunkt einnehmen, ohne beleidigend zu "
+"wirken"
+
+#: D2_5_11_3
+msgid "CAN take an active part in most kinds of seminars or tutorials"
+msgstr "KANN aktiv an den meisten Seminaren oder Kursen teilnehmen"
+
+#: D2_5_11_4
+msgid "CAN get and hold on to his/her turn to speak"
+msgstr "KANN seinen Sprechanteil am Gespräch behaupten"
+
+#: D2_5_11_5
+msgid "CAN rebut counter-arguments"
+msgstr "KANN Gegenargumente zurückweisen"
+
+#: D3_1_10_1
+msgid ""
+"Can reply in an interview to simple direct questions spoken very slowly and "
+"clearly in direct non-idiomatic speech about personal details"
+msgstr ""
+"Kann in einem Interviewgespräch einfache, direkte Fragen zur Person "
+"beantworten, wenn die Fragen langsam, deutlich und in direkter, nicht-"
+"idiomatischer Sprache gestellt werden"
+
+#: D3_2_04_1
+msgid ""
+"CAN offer some help to a client/customer, for example, 'I'll give you our "
+"new catalogue'"
+msgstr ""
+"KANN dem Kunden einfache Hilfe anbieten, z. B. \"Ich gebe Ihnen unseren neuen "
+"Katalog\""
+
+#: D3_2_04_2
+msgid ""
+"CAN state simple requirements within own job area, for example 'I want to "
+"order 25 of...'"
+msgstr ""
+"KANN innerhalb seines/ihres eigenen Arbeitsgebiets einfache Bedürfnisse "
+"äußern, z. B. \"Ich möchte 25... bestellen.\"  "
+
+#: D3_2_04_3
+msgid ""
+"CAN exchange opinions on familiar, predictable matters, for example, "
+"involving straightforward discussions of the 'This is better because...' "
+"type"
+msgstr ""
+"KANN sich äußern zu alltäglichen, vorhersehbaren Vorgängen, z.B. wenn diese "
+"nur eine einfache Diskussion verlangen wie \"Das wäre besser, weil...\""
+
+#: D3_2_04_4
+msgid ""
+"Can discuss what to do next, making and responding to suggestions, asking "
+"for and giving directions"
+msgstr ""
+"Kann diskutieren, was man als Nächstes tun sollte, kann Vorschläge machen "
+"und auf Vorschläge reagieren, kann um Anleitungen bitten und Anleitungen "
+"geben"
+
+#: D3_2_04_5
+msgctxt "D3_2_04_5"
+msgid ""
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next"
+msgstr ""
+"Kann sich bei einfachen Routineaufgaben verständigen und dabei einfache "
+"Wendungen gebrauchen, um Dinge zu erbitten oder zu geben, einfache "
+"Informationen zu erfragen und zu besprechen, was man als Nächstes tun sollte"
+
+#: D3_2_10_1
+msgid ""
+"Can answer simple questions and respond to simple statements in an interview"
+msgstr ""
+"Kann in einem Interview einfache Fragen beantworten und auf einfache "
+"Feststellungen reagieren"
+
+#: D3_2_10_2
+msgid ""
+"Can make him/herself understood in an interview and communicate ideas and "
+"information on familiar topics, provided he/she can ask for clarification "
+"occasionally, and is given some help to express what he/she wants to"
+msgstr ""
+"Kann sich in einem Interview verständlich machen und Informationen und Ideen "
+"zu vertrauten Themen mitteilen, vorausgesetzt, er/sie kann gelegentlich um "
+"Klärung bitten und erhält Hilfe, das auszudrücken, was er/sie sagen möchte"
+
+#: D3_2_18_1
+msgid ""
+"CAN make an outgoing call and pass on simple, prepared messages, for example "
+"'Mr X's flight is late; he will arrive this afternoon'"
+msgstr ""
+"KANN ein Telefongespräch führen und einfache, vorbereitete Nachrichten "
+"weitergeben, z. B. \"Der Flug von Herrn X hat Verspätung; er kommt heute "
+"nachmittag an.\""
+
+#: D3_3_04_1
+msgid ""
+"CAN state routine requirements within own area of work (e.g. asking for "
+"typing to be done)"
+msgstr ""
+"KANN alltägliche Bedürfnisse innerhalb des eigenen Arbeitsbereichs benennen "
+"(z. B. um die Erledigung von Schreibarbeit bitten)"
+
+#: D3_3_04_2
+msgid ""
+"CAN greet a visitor and engage in a limited conversation for a short period "
+"of time, for example enquiring about a visitor's journey, hotel etc."
+msgstr ""
+"KANN einen Besucher begrüßen und für eine begrenzte Zeit sich mit ihm "
+"unterhalten, z. B. sich erkundigen über die Reise eines Besuchers, sein "
+"Hotel etc."
+
+#: D3_3_04_3
+msgid ""
+"CAN offer advice to clients within own job area on simple matters (e.g. "
+"'This model will give you better copies, but it is more expensive')"
+msgstr ""
+"KANN den Kunden innerhalb des eigenen Arbeitsgebiets in einfachen "
+"Angelegenheiten beraten (z.B. Dieses Modell macht bessere Kopien, ist aber "
+"teurer)"
+
+#: D3_3_04_4
+msgid ""
+"Can exchange, check and confirm accumulated factual information on familiar "
+"routine and non-routine matters within his/her field with some confidence"
+msgstr ""
+"Kann im eigenen Sachgebiet mit einer gewissen Sicherheit größere Mengen von "
+"Sachinformationen über vertraute Routineangelegenheiten und über weniger "
+"routinemäßige Dinge austauschen"
+
+#: D3_3_04_5
+msgid "Can describe how to do something, giving detailed instructions"
+msgstr ""
+"Kann beschreiben, wie man etwas macht, und kann genaue Anweisungen geben "
+
+#: D3_3_04_6
+msgctxt "D3_3_04_6"
+msgid ""
+"Can explain why something is a problem, discuss what to do next, compare and "
+"contrast alternatives"
+msgstr ""
+"Kann erklären, warum etwas ein Problem ist, kann diskutieren, was man als "
+"Nächstes tun sollte, und kann Alternativen vergleichen und einander "
+"gegenüberstellen"
+
+#: D3_3_04_7
+msgctxt "D3_3_04_7"
+msgid "Can give brief comments on the views of others"
+msgstr "Kann die Standpunkte anderer kurz kommentieren"
+
+#: D3_3_10_1
+msgid ""
+"Can provide concrete information required in an interview but does so with "
+"limited precision"
+msgstr ""
+"Kann in einem Interview- oder Konsultationsgespräch konkrete Auskünfte geben "
+"(z.B. beim Arzt Symptome beschreiben), tut das aber mit begrenzter "
+"Genauigkeit"
+
+#: D3_4_04_1
+msgid ""
+"CAN put her/his point across persuasively when talking, for example about a "
+"familiar product"
+msgstr ""
+"KANN in einem Gespräch seine Meinung überzeugend darstellen, z. B. über ein "
+"bekanntes Produkt"
+
+#: D3_4_04_2
+msgid "Can give a clear, detailed description of how to carry out a procedure"
+msgstr ""
+"Kann klar, detailliert beschreiben, wie bei einem Verfahren vorgegangen "
+"werden kann"
+
+#: D3_4_04_3
+msgid ""
+"Can understand and exchange complex information and advice on the full range "
+"of matters related to his/her occupational role"
+msgstr ""
+"Kann komplexe Informationen und Ratschläge in Zusammenhang mit allen Dingen, "
+"die mit seinem/ihrem Beruf zu tun haben, verstehen und austauschen"
+
+#: D3_4_04_4
+msgctxt "D3_4_04_4"
+msgid ""
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches"
+msgstr ""
+"Kann eine Angelegenheit oder ein Problem klar darlegen, dabei Vermutungen "
+"über Ursachen und Folgen anstellen und die Vor- und Nachteile verschiedener "
+"Ansätze gegeneinander abwägen"
+
+#: D3_4_10_1
+msgid ""
+"Can carry out an effective, fluent interview, departing spontaneously from "
+"prepared questions, following up and probing interesting replies"
+msgstr ""
+"Kann wirksam und flüssig ein Interviewgespräch führen, von vorbereiteten "
+"Fragen spontan abweichen, auf interessante Antworten näher eingehen und "
+"nachfragen"
+
+#: D3_4_12_1
+msgctxt "D3_4_12_1"
+msgid ""
+"Can express his/her ideas and opinions with precision, present and respond "
+"to complex lines of argument convincingly"
+msgstr ""
+"Kann seine/ihre Gedanken und Meinungen präzise ausdrücken, überzeugend "
+"argumentieren und auf komplexe Argumentationen anderer reagieren"
+
+#: D3_4_12_2
+msgid ""
+"Can contribute, account for and sustain his/her opinion, evaluate "
+"alternative proposals and make and respond to hypotheses"
+msgstr ""
+"Kann zur Diskussion beitragen, den eigenen Standpunkt begründen und "
+"verteidigen, alternative Vorschläge beurteilen, Hypothesen aufstellen und "
+"auf Hypothesen anderer reagieren"
+
+#: D3_4_18_1
+msgid ""
+"CAN take or leave routine messages, ask for clarification or elaboration "
+"where these are not expressed clearly, with only occasional misunderstanding "
+"of facts"
+msgstr ""
+"KANN Routinenachrichten aufnehmen oder hinterlassen, um Klärung oder "
+"Erläuterung bitten, falls diese undeutlich waren, wobei nur gelegentlich "
+"Mißverständnisse auftreten"
+
+#: D3_5_04_1
+msgid ""
+"CAN give detailed information and state detailed requirements within "
+"familiar area of work"
+msgstr ""
+"KANN genaue Informationen geben und Bedürfnisse äußern in einem ihm/ihr "
+"vertrauten Arbeitsbereich"
+
+#: D3_5_04_2
+msgid ""
+"CAN argue his/her case effectively, justifying, if necessary, a need for "
+"service and specifying needs precisely"
+msgstr ""
+"KANN erfolgreich seine Meinung vertreten und, falls erforderlich, die "
+"Notwendigkeit von Leistungen begründen und Bedürfnisse genau erklären"
+
+#: D3_5_04_3
+msgid "CAN answer questions outside own immediate area of work"
+msgstr ""
+"KANN Fragen, die nicht zu seinem/ihrem unmittelbaren Arbeitsgebiet gehören, "
+"beantworten.  "
+
+#: D3_5_04_4
+msgid ""
+"CAN engage in an extended conversation with a visitor on matters within "
+"her/his authority/competence"
+msgstr ""
+"KANN ein längeres Gespräch mit einem Gast über Angelegenheiten seiner/ihrer "
+"Kompetenz führen"
+
+#: D3_5_04_5
+msgid ""
+"CAN give detailed information and deal with most routine problems that are "
+"likely to arise"
+msgstr ""
+"KANN detaillierte Informationen geben und die meisten alltäglichen Probleme "
+"bewältigen, die anfallen könnten"
+
+#: D3_5_04_6
+msgid ""
+"CAN ask questions outside own immediate area of work (e.g. asking for "
+"external legal or financial advice)"
+msgstr ""
+"KANN Fragen außerhalb des eigenen direkten Arbeitsbereichs stellen (z. B. "
+"einen juristischen oder finanziellen Rat von außerhalb einholen)"
+
+#: D3_5_04_7
+msgid ""
+"CAN advise on/handle complex, delicate or contentious issues, e.g. legal or "
+"financial situations"
+msgstr ""
+"KANN in komplizierten, heiklen und umstrittenen Angelegenheiten beraten, "
+"z.B. bei juristischen und finanzpolitischen Fragen"
+
+#: D3_5_10_1
+msgid ""
+"Can participate fully in an interview, as either interviewer or interviewee, "
+"expanding and developing the point being discussed fluently without any "
+"support, and handling interjections well"
+msgstr ""
+"Kann uneingeschränkt an einem Interview teilnehmen, sowohl als "
+"Interviewer/in als auch als Interviewte/r; kann die diskutierte Frage "
+"flüssig und ohne fremde Hilfe ausführen und entwickeln; kann gut mit "
+"Einwürfen umgehen"
+
+#: D3_5_10_2
+msgid "CAN deal with unpredictable questions"
+msgstr "KANN mit unvorhersehbaren Fragen umgehen"
+
+#: D3_5_12_1
+msgid ""
+"CAN contribute effectively to meetings and seminars within own area of work"
+msgstr ""
+"KANN erfolgreich zu Besprechungen und Seminaren innerhalb des eigenen "
+"Arbeitsgebiets beitragen"
+
+#: D3_5_12_2
+msgid ""
+"CAN argue effectively for or against a case, and has sufficient language to "
+"be able to talk about/discuss most aspects of her/his work"
+msgstr ""
+"KANN erfolgreich gegen oder für einen Standpunkt diskutieren und ist "
+"sprachlich in der Lage, die meisten Aspekte seiner/ihrer Arbeit zu "
+"besprechen"
+
+#: D3_5_18_1
+msgid ""
+"CAN use the telephone confidently, even if the line is bad or the caller has "
+"a non-standard accent"
+msgstr ""
+"KANN sicher das Telephon benutzen, auch wenn die Verbindung schlecht ist "
+"oder der Anrufer einen ungewöhnlichen Akzent hat"
 
 #: DATE
 msgctxt "DATE"
@@ -884,9 +1680,17 @@ msgstr "Datum"
 msgid "YYYY/MM/DD"
 msgstr "TT/MM/JJJJ"
 
+#: DEALING_WITH_EMERGENCY_SITUATIONS
+msgid "Dealing with emergency situations"
+msgstr "Notfälle"
+
 #: DELETE
 msgid "Delete"
 msgstr "löschen"
+
+#: DESCRIBING_EXPERIENCES
+msgid "Describing experiences"
+msgstr "Erfahrungen mitteilen"
 
 #: DESCRIPTORS
 msgid "Descriptors"
@@ -895,6 +1699,10 @@ msgstr "Beschreibungen"
 #: DEVELOPERS
 msgid "Developers"
 msgstr "Entwickler"
+
+#: DEVELOPING_AN_ARGUMENT
+msgid "Developing an argument"
+msgstr "Argumentieren"
 
 #: DEVICES_NOT_ALLOWED_ERROR
 msgid ""
@@ -961,24 +1769,6 @@ msgstr ""
 "Die Internetverbindung/Bandbreite kann nicht festgestellt werden. Der Port "
 "1935 ist gesperrt. RTMPT aktiv."
 
-#: ERROR_SENDING_EMAIL
-msgid "There was an error while sending the activation e-mail."
-msgstr "Es ist ein Fehler beim Versenden der Aktivierungs-E-Mail aufgetreten."
-
-#: ERROR_USER_EMAIL_EXISTS
-msgid ""
-"The specified username or email already exists. Please choose another one."
-msgstr ""
-"Der angegebene Benutzername dieser E-Mail-Adresse ist bereits vorhanden. "
-"Bitte wählen Sie einen anderen."
-
-#: ERROR_REGISTERING_USER
-msgid ""
-"There was an error while registering in the system. Please try again later."
-msgstr ""
-"Es ist ein Fehler im System während der Anmeldung für das System "
-"aufgetreten. Bitte versuchen sie es später noch einmal."
-
 #: ERROR_EVALUATION_DATA_NOT_SPECIFIED
 msgid "You must specify a response to evaluate before sending an evaluation."
 msgstr ""
@@ -997,6 +1787,13 @@ msgid ""
 msgstr ""
 "Sie haben nicht genug Kredits, um diese Aktivität auszuführen. Das Video "
 "wird weiterhin für Sie individuell verfügbar sein."
+
+#: ERROR_REGISTERING_USER
+msgid ""
+"There was an error while registering in the system. Please try again later."
+msgstr ""
+"Es ist ein Fehler im System während der Anmeldung für das System "
+"aufgetreten. Bitte versuchen sie es später noch einmal."
 
 #: ERROR_SCORE_COULDNT_BE_SAVED
 msgid "Your score couldn't be saved."
@@ -1024,17 +1821,28 @@ msgstr ""
 "auf oder deaktivieren Sie \"Kommentare als Video einfügen\", wenn Sie "
 "Kommentare nicht auf Video speichern möchten."
 
+#: ERROR_SENDING_EMAIL
+msgid "There was an error while sending the activation e-mail."
+msgstr "Es ist ein Fehler beim Versenden der Aktivierungs-E-Mail aufgetreten."
+
 #: ERROR_SIGN_IN_TO_REQUEST
 msgid "You must Sign In to request an evaluation."
 msgstr "Sie müssen angemeldet sein, um eine Bewertung zu erhalten."
+
+#: ERROR_STREAM_NOT_FOUND
+msgid "This video is unavailable. Sorry about that."
+msgstr ""
 
 #: ERROR_STREAM_PROCESSING
 msgid "This video is still processing. Sorry about that."
 msgstr ""
 
-#: ERROR_STREAM_NOT_FOUND
-msgid "This video is unavailable. Sorry about that."
+#: ERROR_USER_EMAIL_EXISTS
+msgid ""
+"The specified username or email already exists. Please choose another one."
 msgstr ""
+"Der angegebene Benutzername dieser E-Mail-Adresse ist bereits vorhanden. "
+"Bitte wählen Sie einen anderen."
 
 #: ERROR_WHILE_ACTIVATING_ACCOUNT
 msgid "Error while activating your account."
@@ -1143,7 +1951,7 @@ msgid "Error while retrieving your credit history,"
 msgstr "Ihr Punktekonto ist zurzeit nicht verfügbar."
 
 #: ERROR_WHILE_RETRIEVING_EXERCISES
-msgid "Error while retreiving the exercises."
+msgid "Error while retrieving the exercises."
 msgstr "Ihre Übungen sind zurzeit nicht verfügbar."
 
 #: ERROR_WHILE_RETRIEVING_EXERCISE_SUBTITLES
@@ -1247,6 +2055,10 @@ msgstr "Fehler beim Hochladen der Datei"
 msgid "Assessment date"
 msgstr "Bewertungsdatum"
 
+#: EVERYDAY_LIFE_AND_TOURISM
+msgid "Everyday life & tourism"
+msgstr "Sozialkontakte und Tourismus"
+
 #: EXERCISE_ALREADY_REPORTED
 msgid "You already reported about this exercise."
 msgstr "Sie haben bereits über diese Übung bereits berichtet."
@@ -1263,6 +2075,10 @@ msgstr "Klicken Sie hier, um die Funktion Ihres Mikrofons zu überprüfen."
 msgid "Your report has been successfully saved. Thank you."
 msgstr "Ihr Antrag wurde erfolgreich gespeichert."
 
+#: EXERCISE_TYPE
+msgid "Exercise type"
+msgstr ""
+
 #: FAQ
 msgid "FAQ"
 msgstr "FAQ"
@@ -1271,17 +2087,41 @@ msgstr "FAQ"
 msgid "Filter"
 msgstr "Filtereinstellungen"
 
-#: FILTER_BY_LANGUAGE
-msgid "Filter by language"
-msgstr "Nach Sprache filtern"
-
 #: FILTER_BY_DIFFICULTY
 msgid "Filter by difficulty level"
 msgstr "Nach Schwierigkeitsgrad filtern"
 
+#: FILTER_BY_LANGUAGE
+msgid "Filter by language"
+msgstr "Nach Sprache filtern"
+
 #: FILTER_REMOVE_ALL
 msgid "Remove filters"
 msgstr "Filter entfernen"
+
+#: FORMS_OF_QUESTIONS
+msgid "Forms of questions"
+msgstr ""
+
+#: FREE_CONTEXT
+msgid "Free context"
+msgstr ""
+
+#: GENERAL_WORK
+msgid "General work"
+msgstr "Arbeit"
+
+#: GIVING_PRESENTATIONS
+msgid "Giving presentations"
+msgstr "Präsentationen"
+
+#: GOING_OUT_TO_EAT
+msgid "Going out to eat"
+msgstr "Essen und Trinken"
+
+#: GOING_SHOPPING
+msgid "Going shopping"
+msgstr "Einkaufen"
 
 #: GRABADOR
 msgid "Recorder"
@@ -1316,6 +2156,10 @@ msgstr "Eine Überschrift für die Übung angeben"
 msgid "Response Name"
 msgstr "Eine Überschrift für die Antwort angeben"
 
+#: HEALTH
+msgid "Health"
+msgstr "Gesundheit"
+
 #: HELLO
 msgid "Hello"
 msgstr "Hallo"
@@ -1341,7 +2185,7 @@ msgid ""
 "<b><font size =\"24\" color =\"#972c0a\">Welcome to "
 "Babelium</font></b><br/><p>Babelium is a community of people who like to "
 "learn & teach languages.</p><p>Babelium is a collaborative language "
-"practising environment. Here you'll be able to improve your speaking skills "
+"practicing environment. Here you'll be able to improve your speaking skills "
 "with the help of other users, who are native or fluent in the language "
 "you're practicing, whilst you too can help other users providing knowledge & "
 "assessment of your own mother tongue.</p><p>All you need to do is record or "
@@ -1895,6 +2739,10 @@ msgstr "Ihr Transkriptionsprotokoll"
 msgid "Your languages have been successfully modified."
 msgstr "Ihre Sprachen wurden erfolgreich geändert."
 
+#: LANGUAGE_PRACTICE
+msgid "Language practice"
+msgstr ""
+
 #: LAST_ASSESSMENT_DATE
 msgid "Last Assessment date"
 msgstr "Zeitpunkt letzte Bewertung"
@@ -1919,10 +2767,6 @@ msgstr "A1 Einstieg"
 msgid "A2 Elementary"
 msgstr "A2 Grundlagen"
 
-#: LEVEL_B1
-msgid "B1 Pre-intermediate"
-msgstr "B1 Mittelstufe"
-
 #: LEVEL_B11
 msgid "B1.1 Intermediate"
 msgstr "B1.1 mäßige Mittelstufe"
@@ -1931,9 +2775,9 @@ msgstr "B1.1 mäßige Mittelstufe"
 msgid "B1.2 Intermediate"
 msgstr "B1,2 gute Mittelstufe"
 
-#: LEVEL_B2
-msgid "B2 Intermediate"
-msgstr "B2 fortgeschrittene Mittelstufe"
+#: LEVEL_B1
+msgid "B1 Pre-intermediate"
+msgstr "B1 Mittelstufe"
 
 #: LEVEL_B21
 msgid "B2.1 Advanced"
@@ -1943,9 +2787,17 @@ msgstr "B2.1 mäßige fortgeschrittene Mittelstufe"
 msgid "B2.2 Advanced"
 msgstr "B2.2 gute fortgeschrittene Mittelstufe"
 
+#: LEVEL_B2
+msgid "B2 Intermediate"
+msgstr "B2 fortgeschrittene Mittelstufe"
+
 #: LEVEL_C1
 msgid "C1 Upper intermediate"
 msgstr "C1 Kompetente Sprachverwendung-fortgeschrittene Kenntnisse"
+
+#: LINGUISTIC_ASPECT
+msgid "Linguistic Aspect"
+msgstr ""
 
 #: LOCALE_AF_ZA
 msgid "Afrikaans (South Africa)"
@@ -2134,6 +2986,10 @@ msgstr "Spanisch (Kolumbien)"
 #: LOCALE_ES_CR
 msgid "Spanish (Costa Rica)"
 msgstr "Spanisch (Costa Rica)"
+
+#: LOCALE_ES_CU
+msgid "Spanish (Cuba)"
+msgstr "Spanisch (Kuba)"
 
 #: LOCALE_ES_DO
 msgid "Spanish (Dominican Republic)"
@@ -2447,6 +3303,10 @@ msgstr "Hochchinesisch (Taiwan)"
 msgid "The role name can't be longer than {0} characters."
 msgstr "Die Rolle darf nicht mehr als {0} Buchstaben haben."
 
+#: MAKING_ARRANGEMENTS
+msgid "Making arrangements"
+msgstr "Studienorganisation"
+
 #: MAXIMUM_FILESIZE_EXCEEDED
 msgid "The file you selected exceeds the maximum allowed filesize."
 msgstr ""
@@ -2467,7 +3327,7 @@ msgid "If you ask for an evaluation, your video will be publicly available"
 msgstr "Wenn Sie eine Bewertung beantragen, wird Ihre Aufnahme ifreigegeben."
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_2
-msgid "for the users of Babelium Project. Otherways, you will be the"
+msgid "for the users of Babelium Project. Otherwise, you will be the"
 msgstr "Für alle Nutzer von Babelium."
 
 #: MESSAGE_ASK_EVALUATION_EXPLAIN_3
@@ -2553,6 +3413,7 @@ msgid "Rate the user's response"
 msgstr "Bewerten Sie die Nutzerantwort"
 
 #: MESSAGE_RATE_USER_FLUENCY
+msgctxt "MESSAGE_RATE_USER_FLUENCY"
 msgid "Pronunciation"
 msgstr "Aussprache"
 
@@ -2694,6 +3555,10 @@ msgstr ""
 "In diesem Bereich können Sie alle Videos verwalten, die sie in die Anwendung "
 "einbezogen haben. "
 
+#: NEGATION
+msgid "Negation"
+msgstr ""
+
 #: NEW_MAIL
 msgid "New email address"
 msgstr "Neue Email Adresse"
@@ -2709,6 +3574,10 @@ msgstr "Übungen, die von mir bewertet wurden."
 #: NIRIPAITUTAKOAK
 msgid "My assessed responses"
 msgstr "Eigene Übungen, die von anderen bewertet wurden."
+
+#: NOUN
+msgid "Noun"
+msgstr ""
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
@@ -2785,10 +3654,26 @@ msgstr "Mikrofon testen"
 msgid "Webcam and microphone"
 msgstr "Webkamera und Mikrofon"
 
+#: OTHER
+msgid "Other"
+msgstr ""
+
 #: OWNER
 msgctxt "OWNER"
 msgid "Recorded by"
 msgstr "Aufgenommen von:"
+
+#: PARTICIPATING_IN_AN_INTERVIEW
+msgid "Participating in an interview"
+msgstr "Interviews"
+
+#: PARTICIPATING_IN_CLASS
+msgid "Participating in class"
+msgstr "Beteiligung am Unterricht"
+
+#: PARTICIPATING_IN_MEETINGS
+msgid "Participating in meetings"
+msgstr "Besprechungen"
 
 #: PASSWORD_SUCCESSFULLY_CHANGED
 msgid "Your password has been successfully changed."
@@ -2810,13 +3695,26 @@ msgstr "Daten werden verarbeitet"
 msgid "Choose an Issue"
 msgstr "Wählen Sie ein Thema aus"
 
+#: PROMPT_SELECT_DIFFICULTY
+msgid "Select a difficulty"
+msgstr "Wählen Sie einen Schwierigkeitsgrad aus"
+
 #: PROMPT_SELECT_LANGUAGE
 msgid "Select a language"
 msgstr "Wählen Sie eine Sprache aus"
 
-#: PROMPT_SELECT_DIFFICULTY
-msgid "Select a difficulty"
-msgstr "Wählen Sie einen Schwierigkeitsgrad aus"
+#: PRONOUNS
+msgid "Pronoun"
+msgstr ""
+
+#: PRONUNCIATION
+msgctxt "PRONUNCIATION"
+msgid "Pronunciation"
+msgstr ""
+
+#: PUBLIC_SPEAKING
+msgid "Public speaking"
+msgstr "Vor Publikum sprechen"
 
 #: RECORDED_BY
 msgctxt "RECORDED_BY"
@@ -2857,7 +3755,7 @@ msgid "Video already exists in Babelium Project"
 msgstr "Das Video existiert bereits im Babelium Projekt"
 
 #: REPORT_INNAPROPRIATE_VIDEO
-msgid "Report an innapropriate video"
+msgid "Report an inappropriate video"
 msgstr "Unzulässiges Video melden"
 
 #: REPORT_OBSCENE
@@ -2974,6 +3872,10 @@ msgstr "Der Benutzername sollte mindestens 4 Buchstaben haben."
 msgid "Show subtitles"
 msgstr "Untertitel anzeigen"
 
+#: SIGHTSEEING
+msgid "Sightseeing"
+msgstr "Besichtigungen"
+
 #: SIGNUP_SECTION_DESCRIPTION
 msgid ""
 "Use this section to sign up on Babelium and thus start practicing your "
@@ -3014,17 +3916,37 @@ msgstr ""
 "Achtung: Sie müssen das Formular mit den Details des neuen Videos ausfüllen, "
 "damit Ihre Anfrage zur Textkürzung registriert werden kann."
 
+#: SOCIALIZING
+msgid "Socializing"
+msgstr "Gesellschaftliche Beziehungen"
+
 #: SORT_BY
 msgid "Sort by"
 msgstr "Sortieren nach"
+
+#: SPEAKING_ABOUT_ONESELF
+msgid "Speaking about oneself"
+msgstr "Informationen zur Person"
 
 #: SPEND_CREDITS
 msgid "Use Credits"
 msgstr "Kredits verwenden"
 
+#: STAYING_AT_A_HOTEL
+msgid "Staying at a hotel"
+msgstr "Hotel"
+
 #: STEP_BY_STEP
 msgid "Step by step"
 msgstr "Schritt für Schritt"
+
+#: STORYTELLING
+msgid "Story-telling"
+msgstr ""
+
+#: STUDIES
+msgid "Studies"
+msgstr "Studium"
 
 #: SUBITLE_START_TIME_TOOLTIP
 msgid "Start subtitle line"
@@ -3058,6 +3980,10 @@ msgstr ""
 #: TAGS
 msgid "tags"
 msgstr "Etiketten"
+
+#: TELEPHONING
+msgid "Telephoning"
+msgstr "Telefonieren"
 
 #: TERMS_OF_USE
 msgid "Terms of use"
@@ -3288,6 +4214,10 @@ msgstr ""
 "Wenn das Video von jemand anderem erstellt wurde, bitte hier auf den Autor "
 "oder die Website verweisen, von der es heruntergeladen wurde."
 
+#: TRAVEL
+msgid "Travel"
+msgstr "Reisen"
+
 #: UPLOAD_EVALUATION_EXERCISE
 msgid ""
 "Evaluation exercise: the video can't be used by others to practice and is "
@@ -3315,9 +4245,9 @@ msgstr ""
 msgid ""
 "In our research we've found that the user's concentration level drops "
 "significantly when dubbing videos longer than {0} seconds.<br>Also, since "
-"live dubbing is an stressful task, we limit the duration in hopes to keep a "
-"ballance between the amount of speaking practice the user achieves and the "
-"frustation he/she gets along the process."
+"live dubbing is a stressful task, we limit the duration in hopes to keep a "
+"balance between the amount of speaking practice the user achieves and the "
+"frustration he/she gets along the process."
 msgstr ""
 "In einer Untersuchung wurde festgestellt, dass die Konzentration deutlich "
 "nachlässt, wenn man Videos untertitelt, die länger als {0} Sekunden dauern. "
@@ -3328,7 +4258,7 @@ msgstr ""
 
 #: UPLOAD_PRACTICE_EXERCISE
 msgid ""
-"Practice exercise: users can practice an record responses following this "
+"Practice exercise: users can practice and record responses following this "
 "video"
 msgstr ""
 "Übung: Nutzer können eine Aufzeichnung Ihrer Antworten mit diesem Video "
@@ -3354,6 +4284,10 @@ msgstr "Zuletzt erhaltene Bewertungen."
 msgid "Videos I recently uploaded"
 msgstr "Zuletzt hochgeladene Videos"
 
+#: USING_FINANCIAL_AND_POSTAL_SERVICES
+msgid "Using financial and postal services"
+msgstr "Dienstleistungsgespräche (Finanz- und Postdienstleistungen)"
+
 #: VALID_CHARACTERS
 msgid "Valid characters: [a-zA-Z0-9_]"
 msgstr "Gültige Zeichen: [a-zA-Z0-9_]"
@@ -3365,6 +4299,10 @@ msgstr "Bitte geben Sie eine gültige URL ein!"
 #: VALUATION
 msgid "Evaluation"
 msgstr "Bewertung"
+
+#: VERB
+msgid "Verb"
+msgstr ""
 
 #: VIDEOCOMMENT
 msgid "Video comment"
@@ -3397,6 +4335,14 @@ msgid ""
 msgstr ""
 "Die folgenden Videos erklären, wie man einen Teil der Anwendungen von "
 "Babelium [auf Englisch] verwenden kann."
+
+#: VOCABULARY
+msgid "Vocabulary"
+msgstr ""
+
+#: VOICE_OVER
+msgid "Voice-over"
+msgstr ""
 
 #: VOLUME
 msgid "Volume"
@@ -3453,6 +4399,10 @@ msgstr "Die Untertitel sind fehlerhaft."
 #: WEBCAM
 msgid "Webcam"
 msgstr "Webkamera"
+
+#: WORK
+msgid "Work"
+msgstr "Arbeit"
 
 #: WRONG_FIELDS_IN_FORM
 msgid "Some form fields are wrong. Fix the errors to proceed."
