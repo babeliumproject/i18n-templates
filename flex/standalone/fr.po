@@ -1,16 +1,16 @@
-#. extracted from git/flex-standalone-site/locale/en_US/myResources.properties, git/flex-standalone-site/locale/fr_FR/myResources.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-22 18:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-22 18:31+0200\n"
+"PO-Revision-Date: 2014-10-18 15:27+0000\n"
+"Last-Translator: amanda <amanda.edmonds@univ-pau.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Launchpad-Export-Date: 2014-10-20 12:56+0000\n"
+"X-Generator: Launchpad (build 17196)\n"
 
 #: ABORT_RECORDING
 msgid "Abort recording"
@@ -46,7 +46,7 @@ msgstr "Ajouter une vidéo"
 
 #: ADVERB_ADJECTIVE
 msgid "Adverb/Adjective"
-msgstr ""
+msgstr "Adverbe/adjectif"
 
 #: ALERT_SUCCESSFUL_FILE_UPLOAD_RED5
 msgid ""
@@ -211,7 +211,7 @@ msgstr "Montrer les options disponibles"
 
 #: BUTTON_SHOW_PRIVACY_SETTINGS
 msgid "Show privacy settings"
-msgstr ""
+msgstr "Montrez les données personnelles"
 
 #: BUTTON_SOMEONE_EVALUATE_ME
 msgid "Someone evaluate me!"
@@ -314,11 +314,11 @@ msgstr "Commentaire"
 
 #: COMMUNICATION_SITUATION
 msgid "Communication situation"
-msgstr ""
+msgstr "Situation de communication"
 
 #: COMMUNICATIVE_COMPETENCE
 msgid "Communicative competence"
-msgstr ""
+msgstr "Compétence de communication"
 
 #: COMPLETE_SUBTITLE_INFO
 msgid ""
@@ -428,7 +428,7 @@ msgstr "Es-tu sûr de vouloir éliminer les sous-titres selectionnés?"
 
 #: CONVERSATION
 msgid "Conversation"
-msgstr ""
+msgstr "Conversation"
 
 #: CONVERTED
 msgid "converted"
@@ -506,7 +506,7 @@ msgstr ""
 msgid "Can give short, basic descriptions of events and activities"
 msgstr ""
 "Peut faire une description brève et élémentaire d'un événement ou d'une "
-"activité "
+"activité"
 
 #: D1_2_02_4
 msgid ""
@@ -756,7 +756,7 @@ msgstr ""
 #: D1_3_02_4
 msgid "Can relate details of unpredictable occurrences, e.g. an accident"
 msgstr ""
-"Peut relater les détails essentiels d'un événement fortuit, tel un accident "
+"Peut relater les détails essentiels d'un événement fortuit, tel un accident"
 
 #: D1_3_02_5
 msgid "Can relate the plot of a book or film and describe his/her reactions"
@@ -798,9 +798,8 @@ msgid ""
 "chairs or half-portions for children)"
 msgstr ""
 "EST CAPABLE de poser des questions simples sur la nourriture en rapport avec "
-"le menu et sur la possibilité de certains services (utilisation de cartes "
-"de crédit, possibilité de chaises hautes et de demi-portions pour les "
-"enfants)"
+"le menu et sur la possibilité de certains services (utilisation de cartes de "
+"crédit, possibilité de chaises hautes et de demi-portions pour les enfants)"
 
 #: D1_3_06_3
 msgid ""
@@ -1021,7 +1020,8 @@ msgstr ""
 "présenter dans un restaurant"
 
 #: D1_4_07_1
-msgid "CAN ask effectively for refund or exchange of faulty or unwanted goods"
+msgid ""
+"CAN ask effectively for refund or exchange of faulty or unwanted goods"
 msgstr ""
 "EST CAPABLE de demander l'échange ou le remboursement d'une marchandise "
 "défectueuse ou qu'il ne désire plus"
@@ -1046,7 +1046,7 @@ msgid ""
 msgstr ""
 "Peut faire un exposé clair, préparé, en avançant des raisons pour ou contre "
 "un point de vue particulier et en présentant les avantages et les "
-"inconvénients d'options diverses "
+"inconvénients d'options diverses"
 
 #: D1_4_15_1
 msgid ""
@@ -1054,8 +1054,7 @@ msgid ""
 "and professional experiences, events currently in the news"
 msgstr ""
 "EST CAPABLE de soutenir une conversation sur un grand éventail de sujets, "
-"comme les expériences personnelles ou professionnelles, les faits "
-"d'actualité"
+"comme les expériences personnelles ou professionnelles, les faits d'actualité"
 
 #: D1_4_15_2
 msgid "CAN express opinions on abstract/cultural matters, and defend them"
@@ -1184,7 +1183,8 @@ msgstr ""
 "poste ou à la banque"
 
 #: D2_1_11_1
-msgid "CAN ask very simple questions for information, such as 'What is this?'"
+msgid ""
+"CAN ask very simple questions for information, such as 'What is this?'"
 msgstr ""
 "EST CAPABLE de poser des questions simples du type \"Qu'est-ce que c'est ?\""
 
@@ -1228,8 +1228,7 @@ msgid ""
 "conducted sympathetically, using simple language"
 msgstr ""
 "EST CAPABLE de participer de façon limitée à un séminaire ou à des travaux "
-"dirigés s'ils sont conduits avec bienveillance en utilisant un langage "
-"simple"
+"dirigés s'ils sont conduits avec bienveillance en utilisant un langage simple"
 
 #: D2_3_11_2
 msgid ""
@@ -1336,7 +1335,8 @@ msgstr "EST CAPABLE de donner des explications théoriques cohérentes"
 
 #: D2_5_05_3
 msgid "CAN give an effective presentation or demonstration"
-msgstr "EST CAPABLE de faire efficacement une présentation ou une démonstration"
+msgstr ""
+"EST CAPABLE de faire efficacement une présentation ou une démonstration"
 
 #: D2_5_05_4
 msgid "CAN answer unpredictable questions of a factual nature"
@@ -1404,8 +1404,7 @@ msgstr ""
 #: D3_2_04_3
 msgid ""
 "CAN exchange opinions on familiar, predictable matters, for example, "
-"involving straightforward discussions of the 'This is better because...' "
-"type"
+"involving straightforward discussions of the 'This is better because...' type"
 msgstr ""
 "EST CAPABLE d'échanger des points de vue sur des sujets courants du moment "
 "que les discussions ne dépassent pas le cadre de \"Ceci est mieux parce "
@@ -1527,7 +1526,8 @@ msgstr ""
 "exemple, d'un produit familier"
 
 #: D3_4_04_2
-msgid "Can give a clear, detailed description of how to carry out a procedure"
+msgid ""
+"Can give a clear, detailed description of how to carry out a procedure"
 msgstr "Peut faire la description claire et détaillée d'une démarche"
 
 #: D3_4_04_3
@@ -1744,6 +1744,9 @@ msgid ""
 "training and development. Elurnet is the only authorized Babelium official "
 "support and services provider."
 msgstr ""
+"We also work closely with Elurnet, a company that focuses on open source "
+"training and development. Elurnet is the only authorized Babelium official "
+"support and services provider."
 
 #: EMAIL_ACTIVACION
 msgid "An activation email has been sent."
@@ -1780,7 +1783,8 @@ msgid "You must specify a response to evaluate before sending an evaluation."
 msgstr "Tu dois spécifier une réponse à évaluer."
 
 #: ERROR_FILL_COMPULSORY_DATA
-msgid "You must fill all the compulsory data in order to save your evaluation."
+msgid ""
+"You must fill all the compulsory data in order to save your evaluation."
 msgstr ""
 "Tu dois remplis toutes les données obligatoires pour pouvoir envoyer ton "
 "évaluation."
@@ -1812,8 +1816,8 @@ msgid ""
 msgstr ""
 "Tu as choisi d'ajouter un commentaire à cette évaluation, mais tu n'en as "
 "ajouté aucun. S'il te plait, ajoute un commentaire texte ou décoche la case "
-"\"Inclure le texte commentaire\" si tu ne veux pas enregistrer un commentaire "
-"texte."
+"\"Inclure le texte commentaire\" si tu ne veux pas enregistrer un "
+"commentaire texte."
 
 #: ERROR_SELECTED_VIDEO_COMMENT_NO_FILL
 msgid ""
@@ -1836,11 +1840,11 @@ msgstr "Tu dois être connecté pour démander une évaluation."
 
 #: ERROR_STREAM_NOT_FOUND
 msgid "This video is unavailable. Sorry about that."
-msgstr ""
+msgstr "Désolé, la vidéo est indisponible"
 
 #: ERROR_STREAM_PROCESSING
 msgid "This video is still processing. Sorry about that."
-msgstr ""
+msgstr "Désolé, la vidéo est en cours de fabrication"
 
 #: ERROR_USER_EMAIL_EXISTS
 msgid ""
@@ -1973,8 +1977,7 @@ msgstr ""
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_ASSESSED_BY_OTHERS
 msgid ""
-"Error while retrieving your responses that have been assessed by other "
-"users."
+"Error while retrieving your responses that have been assessed by other users."
 msgstr ""
 "Erreur lors de la récupération des réponses évaluées par d'autres "
 "utilisateurs"
@@ -1985,7 +1988,8 @@ msgstr "Erreur lors de la récupération des évaluations de cette réponse"
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_WAITING
 msgid "Error while retrieving responses waiting assessment."
-msgstr "Erreur lors de la récupération des réponses en attente d'être évaluées"
+msgstr ""
+"Erreur lors de la récupération des réponses en attente d'être évaluées"
 
 #: ERROR_WHILE_RETRIEVING_RESPONSES_YOU_ASSESSED
 msgid "Error while retrieving the responses you assessed."
@@ -2083,7 +2087,7 @@ msgstr "Ton rapport a été bien enrégistré"
 
 #: EXERCISE_TYPE
 msgid "Exercise type"
-msgstr ""
+msgstr "Type d'exercice"
 
 #: FAQ
 msgid "FAQ"
@@ -2107,11 +2111,11 @@ msgstr "Enlever les filtres"
 
 #: FORMS_OF_QUESTIONS
 msgid "Forms of questions"
-msgstr ""
+msgstr "Types de questions"
 
 #: FREE_CONTEXT
 msgid "Free context"
-msgstr ""
+msgstr "Contexte libre"
 
 #: GENERAL_WORK
 msgid "General work"
@@ -2391,8 +2395,7 @@ msgstr "Fluidité"
 
 #: LABEL_GUEST_EDIT_WARNING
 msgid ""
-"You are not logged in so the changes you make to this subtitle won't be "
-"saved"
+"You are not logged in so the changes you make to this subtitle won't be saved"
 msgstr ""
 "Comme tu n'es pas connecté, les modifications que tu as apportées à ce sous-"
 "titre ne seront pas enregistrées."
@@ -2740,7 +2743,7 @@ msgstr "Tes langues ont été modifiées aves succès"
 
 #: LANGUAGE_PRACTICE
 msgid "Language practice"
-msgstr ""
+msgstr "Entraînement"
 
 #: LAST_ASSESSMENT_DATE
 msgid "Last Assessment date"
@@ -2796,7 +2799,7 @@ msgstr "C1 Avancé superieur"
 
 #: LINGUISTIC_ASPECT
 msgid "Linguistic Aspect"
-msgstr ""
+msgstr "Aspect linguistique"
 
 #: LOCALE_AF_ZA
 msgid "Afrikaans (South Africa)"
@@ -3381,7 +3384,8 @@ msgstr "choisis celui que tu veux jouer"
 
 #: MESSAGE_FILL_THE_REQUIRED_FIELDS
 msgid "You must fill all the required fields to save the exercise."
-msgstr "Tu dois remplir tous les infos demandées  pour sauvegarder l'exercice."
+msgstr ""
+"Tu dois remplir tous les infos demandées  pour sauvegarder l'exercice."
 
 #: MESSAGE_MAIN_LANGUAGE
 msgid "Tell us which is your main language or mother tongue"
@@ -3551,7 +3555,7 @@ msgstr "Dans cette section tu peux gérer toutes tes vidéos"
 
 #: NEGATION
 msgid "Negation"
-msgstr ""
+msgstr "Négation"
 
 #: NEW_MAIL
 msgid "New email address"
@@ -3571,7 +3575,7 @@ msgstr "Mes réponses évaluées."
 
 #: NOUN
 msgid "Noun"
-msgstr ""
+msgstr "Nom"
 
 #: NO_COMMENT_AVAILABLE
 msgid "No comment was added"
@@ -3650,7 +3654,7 @@ msgstr "Webcam et microphone"
 
 #: OTHER
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #: OWNER
 msgctxt "OWNER"
@@ -3699,12 +3703,12 @@ msgstr "Sélectionne une langue"
 
 #: PRONOUNS
 msgid "Pronoun"
-msgstr ""
+msgstr "Pronom"
 
 #: PRONUNCIATION
 msgctxt "PRONUNCIATION"
 msgid "Pronunciation"
-msgstr ""
+msgstr "Prononciation"
 
 #: PUBLIC_SPEAKING
 msgid "Public speaking"
@@ -3885,8 +3889,7 @@ msgstr "Quelqu'un d'autre est en train d'éditer les mêmes sous-titres"
 #: SLICEABORT_TEXT
 msgid "The video's duration exceeds the limit, the video can't be downloaded"
 msgstr ""
-"La durée de la vidéo dépasse la limite, la vidéo ne peut pas être "
-"téléchargée"
+"La durée de la vidéo dépasse la limite, la vidéo ne peut pas être téléchargée"
 
 #: SLICEEND_TEXT
 msgid ""
@@ -3936,7 +3939,7 @@ msgstr "Pas à pas"
 
 #: STORYTELLING
 msgid "Story-telling"
-msgstr ""
+msgstr "Récit"
 
 #: STUDIES
 msgid "Studies"
@@ -4029,7 +4032,8 @@ msgstr ""
 
 #: TEXT_MODULE_INFO_SUBTITLE
 msgid "Enter a short description of the things you can do with this module."
-msgstr "Introduis une brève description de ce qu'on peut faire avec ce module."
+msgstr ""
+"Introduis une brève description de ce qu'on peut faire avec ce module."
 
 #: TEXT_PRIVACY_RIGHTS_EXPLAIN
 msgid ""
@@ -4292,7 +4296,7 @@ msgstr "Évaluation"
 
 #: VERB
 msgid "Verb"
-msgstr ""
+msgstr "Verbe"
 
 #: VIDEOCOMMENT
 msgid "Video comment"
@@ -4328,11 +4332,11 @@ msgstr ""
 
 #: VOCABULARY
 msgid "Vocabulary"
-msgstr ""
+msgstr "Vocabulaire"
 
 #: VOICE_OVER
 msgid "Voice-over"
-msgstr ""
+msgstr "Doublage"
 
 #: VOLUME
 msgid "Volume"
