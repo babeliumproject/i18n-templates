@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-18 12:25+0200\n"
+"POT-Creation-Date: 2015-11-04 10:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -540,6 +540,10 @@ msgstr ""
 #: CONFIRM_ACTION
 msgid "Confirm action"
 msgstr "Ekintza Baieztatu"
+
+#: CONFIRM_EMAIL_ADDRESS
+msgid "Confirm email address"
+msgstr "Posta elektronikoa berretsi"
 
 #: CONFIRM_PASSWORD
 msgid "Confirm password"
@@ -1951,6 +1955,10 @@ msgstr "Posta elektronikoa"
 msgid "The text on the line {0} is empty."
 msgstr "{0}. lerroko testua hutsik dago."
 
+#: EMPTY_FIELD_TEMPLATE
+msgid "The {0} field cannot be empty."
+msgstr "{0} eremua ezin da hutsik utzi."
+
 #: EMPTY_NEWROLE
 msgid "The role name cannot be empty."
 msgstr "Rol izena ezin da hutsa izan."
@@ -2596,9 +2604,17 @@ msgstr "Intonazioa eta doinua"
 msgid "Intonation"
 msgstr "Intonazioa"
 
+#: INVALID_CONFIRM_EMAIL_ADDRESS
+msgid "The email addresses do not match."
+msgstr "Posta elektronikoak ez dira bat etortzen."
+
 #: INVALID_EMAIL
 msgid "Invalid e-mail."
 msgstr "ePosta helbide baliaezina."
+
+#: INVALID_EMAIL_ADDRESS
+msgid "Invalid email address"
+msgstr "Posta elektroniko baliaezina."
 
 #: INVALID_PASSWORD
 msgid "The password contains invalid characters."
@@ -2733,6 +2749,11 @@ msgstr "Faroese"
 #: LANGUAGE_FR
 msgid "French"
 msgstr "Frantsesa"
+
+#: LANGUAGE_GA
+msgctxt "LANGUAGE_GA"
+msgid "Irish"
+msgstr "Irlandera"
 
 #: LANGUAGE_GL
 msgctxt "LANGUAGE_GL"
@@ -3289,6 +3310,11 @@ msgstr "Frantsesa (Luxemburgo)"
 msgid "French (Monaco)"
 msgstr "Frantsesa (Monako)"
 
+#: LOCALE_GA_IE
+msgctxt "LOCALE_GA_IE"
+msgid "Irish"
+msgstr "Irlandera"
+
 #: LOCALE_GL_ES
 msgctxt "LOCALE_GL_ES"
 msgid "Galician"
@@ -3501,6 +3527,10 @@ msgstr "Txinera Tradizionala (Taiwan)"
 #: LOGIN_FORM
 msgid "Please enter your login information"
 msgstr "Mesedez zure kautotze informazioa sartu"
+
+#: LONG_FIELD_TEMPLATE
+msgid "The {0} cannot be longer than {1} characters."
+msgstr "{0} eremua ezin da {1} karaktere baino luzeagoa izan."
 
 #: LONG_NEWROLE
 msgid "The role name can't be longer than {0} characters."
@@ -4367,6 +4397,10 @@ msgstr "Ebaluazioa Bidali"
 #: SET_AS_DEFAULT
 msgid "Set as default"
 msgstr "Lehenetsi"
+
+#: SHORT_FIELD_TEMPLATE
+msgid "The {0} must have at least {1} characters."
+msgstr "{0} eremuak gutxienez {1} karaktere izan behar ditu."
 
 #: SHORT_NEWROLE
 msgid "The role name must have at least {0} characters."

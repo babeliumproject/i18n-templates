@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-18 12:23+0200\n"
+"POT-Creation-Date: 2015-11-04 10:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -519,6 +519,10 @@ msgstr ""
 
 #: CONFIRM_ACTION
 msgid "Confirm action"
+msgstr ""
+
+#: CONFIRM_EMAIL_ADDRESS
+msgid "Confirm email address"
 msgstr ""
 
 #: CONFIRM_PASSWORD
@@ -1654,6 +1658,10 @@ msgstr ""
 msgid "The text on the line {0} is empty."
 msgstr ""
 
+#: EMPTY_FIELD_TEMPLATE
+msgid "The {0} field cannot be empty."
+msgstr ""
+
 #: EMPTY_NEWROLE
 msgid "The role name cannot be empty."
 msgstr ""
@@ -2264,8 +2272,16 @@ msgstr ""
 msgid "Intonation"
 msgstr ""
 
+#: INVALID_CONFIRM_EMAIL_ADDRESS
+msgid "The email addresses do not match."
+msgstr ""
+
 #: INVALID_EMAIL
 msgid "Invalid e-mail."
+msgstr ""
+
+#: INVALID_EMAIL_ADDRESS
+msgid "Invalid email address"
 msgstr ""
 
 #: INVALID_PASSWORD
@@ -2400,6 +2416,11 @@ msgstr ""
 
 #: LANGUAGE_FR
 msgid "French"
+msgstr ""
+
+#: LANGUAGE_GA
+msgctxt "LANGUAGE_GA"
+msgid "Irish"
 msgstr ""
 
 #: LANGUAGE_GL
@@ -2957,6 +2978,11 @@ msgstr ""
 msgid "French (Monaco)"
 msgstr ""
 
+#: LOCALE_GA_IE
+msgctxt "LOCALE_GA_IE"
+msgid "Irish"
+msgstr ""
+
 #: LOCALE_GL_ES
 msgctxt "LOCALE_GL_ES"
 msgid "Galician"
@@ -3168,6 +3194,10 @@ msgstr ""
 
 #: LOGIN_FORM
 msgid "Please enter your login information"
+msgstr ""
+
+#: LONG_FIELD_TEMPLATE
+msgid "The {0} cannot be longer than {1} characters."
 msgstr ""
 
 #: LONG_NEWROLE
@@ -4005,6 +4035,10 @@ msgstr ""
 
 #: SET_AS_DEFAULT
 msgid "Set as default"
+msgstr ""
+
+#: SHORT_FIELD_TEMPLATE
+msgid "The {0} must have at least {1} characters."
 msgstr ""
 
 #: SHORT_NEWROLE
